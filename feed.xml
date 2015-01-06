@@ -3,10 +3,10 @@
   <channel>
     <title>Site Title</title>
     <description>Site Description</description>
-    <link>http://itsrifat.github.io/rifyll/</link>
-    <atom:link href="http://itsrifat.github.io/rifyll/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 02 Jan 2015 04:21:16 -0800</pubDate>
-    <lastBuildDate>Fri, 02 Jan 2015 04:21:16 -0800</lastBuildDate>
+    <link>http://itsrifat.github.io/rifyll//</link>
+    <atom:link href="http://itsrifat.github.io/rifyll//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 05 Jan 2015 19:21:01 -0800</pubDate>
+    <lastBuildDate>Mon, 05 Jan 2015 19:21:01 -0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -16,8 +16,8 @@
 &lt;p&gt;Tortor a velit elementum, tortor condimentum lectus turpis faucibus, amet praesent id wisi, amet phasellus, scelerisque venenatis a sed massa vitae ac. Sed ridiculus, nec sed nulla. Ut volutpat mauris vestibulum sit risus, viverra at montes nec, luctus hendrerit lectus ipsum, mollis eleifend, ipsum dictumst turpis fringilla. Magna sunt at sed, bibendum risus ut dolorem ut nam sed, non et, integer eros non justo, nulla sed erat diam magna. Sed nulla massa pellentesque. Sed augue fames ut at amet, ultrices ante litora maecenas, quam nullam tristique aenean volutpat rutrum eget, suspendisse vestibulum vel, et massa commodo ante dolor.&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Jan 2015 13:08:00 -0800</pubDate>
-        <link>http://itsrifat.github.io/rifyll/2015/01/01/another-demo-blog.html</link>
-        <guid isPermaLink="true">http://itsrifat.github.io/rifyll/2015/01/01/another-demo-blog.html</guid>
+        <link>http://itsrifat.github.io/rifyll//2015/01/01/another-demo-blog.html</link>
+        <guid isPermaLink="true">http://itsrifat.github.io/rifyll//2015/01/01/another-demo-blog.html</guid>
         
         <category>machine-learning</category>
         
@@ -37,8 +37,8 @@
 &lt;p&gt;Tortor a velit elementum, tortor condimentum lectus turpis faucibus, amet praesent id wisi, amet phasellus, scelerisque venenatis a sed massa vitae ac. Sed ridiculus, nec sed nulla. Ut volutpat mauris vestibulum sit risus, viverra at montes nec, luctus hendrerit lectus ipsum, mollis eleifend, ipsum dictumst turpis fringilla. Magna sunt at sed, bibendum risus ut dolorem ut nam sed, non et, integer eros non justo, nulla sed erat diam magna. Sed nulla massa pellentesque. Sed augue fames ut at amet, ultrices ante litora maecenas, quam nullam tristique aenean volutpat rutrum eget, suspendisse vestibulum vel, et massa commodo ante dolor.&lt;/p&gt;
 </description>
         <pubDate>Tue, 30 Dec 2014 13:06:00 -0800</pubDate>
-        <link>http://itsrifat.github.io/rifyll/2014/12/30/a-demo-blog.html</link>
-        <guid isPermaLink="true">http://itsrifat.github.io/rifyll/2014/12/30/a-demo-blog.html</guid>
+        <link>http://itsrifat.github.io/rifyll//2014/12/30/a-demo-blog.html</link>
+        <guid isPermaLink="true">http://itsrifat.github.io/rifyll//2014/12/30/a-demo-blog.html</guid>
         
         <category>machine-learning</category>
         
