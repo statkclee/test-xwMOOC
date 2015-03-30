@@ -13,7 +13,7 @@ lastmodified: 2014-10-19 23:51
 			<i class="fa fa-calendar"></i>
 			<time>
 			  {% if post.lastmodified %}
-				{{ page.lastmodified | date:'%A, %B %d, %Y'}}
+				{{ post.lastmodified | date:'%A, %B %d, %Y'}}
 			  {% else %}
 				{{ post.date | date:'%A, %B %d, %Y'}}
 			  {% endif %}
