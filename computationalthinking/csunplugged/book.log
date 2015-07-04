@@ -1,0 +1,3687 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.11)  28 APR 2015 20:52
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**book
+(./book.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen103
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks16
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks17
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen112
+\lightrulewidth=\dimen113
+\cmidrulewidth=\dimen114
+\belowrulesep=\dimen115
+\belowbottomsep=\dimen116
+\aboverulesep=\dimen117
+\abovetopsep=\dimen118
+\cmidrulesep=\dimen119
+\cmidrulekern=\dimen120
+\defaultaddspace=\dimen121
+\@cmidla=\count99
+\@cmidlb=\count100
+\@aboverulesep=\dimen122
+\@belowrulesep=\dimen123
+\@thisruleclass=\count101
+\@lastruleclass=\count102
+\@thisrulewidth=\dimen124
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/cjk-ko/kotex.sty
+Package: kotex 2015/03/20 v1.5 Korean TeX (ko.TeX)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/kotex-utf/kotex.cfg)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/kotex-utf/kotexutf.sty
+Package: kotexutf 2013/10/20 v1.5 typesetting UTF-8 Korean documents
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2014/04/30 v1.2b Input encoding file
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/plain/kotex-plain/kotexutf-core.tex
+\unih@ngulpoint=\count103
+\dhucs@emph@raise=\dimen125
+)
+Now handling font encoding LUC ...
+... processing UTF-8 mapping file for font encoding LUC
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/kotex-utf/lucenc.dfu
+File: lucenc.dfu 2007/09/05 UTF-8 support for dhucs
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+3001 (decimal 12289)
+   defining Unicode char U+3002 (decimal 12290)
+   defining Unicode char U+3008 (decimal 12296)
+   defining Unicode char U+3009 (decimal 12297)
+   defining Unicode char U+300A (decimal 12298)
+   defining Unicode char U+300B (decimal 12299)
+   defining Unicode char U+300C (decimal 12300)
+   defining Unicode char U+300D (decimal 12301)
+   defining Unicode char U+300E (decimal 12302)
+   defining Unicode char U+300F (decimal 12303)
+   defining Unicode char U+3010 (decimal 12304)
+   defining Unicode char U+3011 (decimal 12305)
+   defining Unicode char U+3014 (decimal 12308)
+   defining Unicode char U+3015 (decimal 12309)
+   defining Unicode char U+3016 (decimal 12310)
+   defining Unicode char U+3017 (decimal 12311)
+   defining Unicode char U+3018 (decimal 12312)
+   defining Unicode char U+3019 (decimal 12313)
+   defining Unicode char U+301A (decimal 12314)
+   defining Unicode char U+301B (decimal 12315)
+   defining Unicode char U+FF01 (decimal 65281)
+   defining Unicode char U+FF08 (decimal 65288)
+   defining Unicode char U+FF09 (decimal 65289)
+   defining Unicode char U+FF0C (decimal 65292)
+   defining Unicode char U+FF0E (decimal 65294)
+   defining Unicode char U+FF1A (decimal 65306)
+   defining Unicode char U+FF1B (decimal 65307)
+   defining Unicode char U+FF1C (decimal 65308)
+   defining Unicode char U+FF1D (decimal 65309)
+   defining Unicode char U+FF1E (decimal 65310)
+   defining Unicode char U+FF1F (decimal 65311)
+   defining Unicode char U+FF3B (decimal 65339)
+   defining Unicode char U+FF3D (decimal 65341)
+   defining Unicode char U+FF5B (decimal 65371)
+   defining Unicode char U+FF5D (decimal 65373)
+   defining Unicode char U+FF61 (decimal 65377)
+   defining Unicode char U+FF62 (decimal 65378)
+   defining Unicode char U+FF63 (decimal 65379)
+   defining Unicode char U+FF64 (decimal 65380)
+   defining Unicode char U+FF65 (decimal 65381)
+)
+\@josa=\count104
+\josatoks=\toks22
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/cjk-ko/kolabels-utf.sty
+Package: kolabels-utf 2015/03/20 v1.5 UTF-8 Hangul item labels
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/kotex-utf/kosections-utf.sty
+File: kosections-utf 2013/10/20 hangul option to kotex/utf
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+02D0 (decimal 720)
+   defining Unicode char U+2025 (decimal 8229)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2312 (decimal 8978)
+   defining Unicode char U+203B (decimal 8251)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/cjk-ko/konames-utf.sty
+Package: konames-utf 2015/02/20 v1.5 UTF-8 Hangul captions
+)
+\raisedotdim=\dimen126
+\dhucs@emph@width=\dimen127
+\useremphraisedim=\dimen128
+)))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2014/09/29 v1.1s fixes to LaTeX
+LaTeX Info: Redefining \em on input line 430.
+LaTeX Info: The control sequence `\[' is already robust on input line 481.
+LaTeX Info: The control sequence `\]' is already robust on input line 482.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+))
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+\MT@toks=\toks24
+\MT@count=\count105
+LaTeX Info: Redefining \textls on input line 766.
+\MT@outer@kern=\dimen129
+LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
+\MT@listname@count=\count106
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip46
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip47
+\LTright=\skip48
+\LTpre=\skip49
+\LTpost=\skip50
+\LTchunksize=\count107
+\LTcapwidth=\dimen130
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count108
+\LT@rows=\count109
+\c@LT@tables=\count110
+\c@LT@chunks=\count111
+\LT@p@ftn=\toks25
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count112
+))
+\Gin@req@height=\dimen131
+\Gin@req@width=\dimen132
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen133
+\Hy@linkcounter=\count113
+\Hy@pagecounter=\count114
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count115
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4319.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count116
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen134
+\Fld@menulength=\count117
+\Field@Width=\dimen135
+\Fld@charsize=\dimen136
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count118
+\c@Item=\count119
+\c@Hfootnote=\count120
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count121
+\c@bookmark@seq@number=\count122
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip51
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 61.
+
+
+Package hyperref Warning: Option `bookmarks' has already been used,
+(hyperref)                setting the option has no effect on input line 61.
+
+Package hyperref Info: Option `colorlinks' set `true' on input line 61.
+No file book.aux.
+\openout1 = `book.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 72.
+LaTeX Font Info:    Try loading font information for LUC+nanummj on input line 
+72.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/nanumtype1/lucnanummj.fd
+File: lucnanummj.fd 2013/02/12 v0.1 Nanum Myeongjo font definitions
+)
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 72.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 72.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+
+Package microtype Warning: Command \pickup@font is not defined as expected.
+(microtype)                Patching it anyway. Some things may break.
+(microtype)                Double-check whether micro-typography is indeed
+(microtype)                applied to the document.
+(microtype)                (Hint: Turn on `verbose' mode).
+
+LaTeX Info: Redefining \microtypecontext on input line 72.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count123
+\scratchdimen=\dimen137
+\scratchbox=\box32
+\nofMPsegments=\count124
+\nofMParguments=\count125
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count126
+\MPscratchDim=\dimen138
+\MPnumerator=\count127
+\makeMPintoPDFobject=\count128
+\everyMPtoPDFconversion=\toks27
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box33
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 137.
+)
+Package hyperref Info: Link coloring ON on input line 72.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count129
+)
+LaTeX Info: Redefining \ref on input line 72.
+LaTeX Info: Redefining \pageref on input line 72.
+LaTeX Info: Redefining \nameref on input line 72.
+\@outlinefile=\write3
+\openout3 = `book.out'.
+
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 74.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 74.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 74.
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 74.
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 74.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 74.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 74.
+LaTeX Font Info:    Try loading font information for U+msa on input line 74.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 74.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+\tf@toc=\write4
+\openout4 = `book.toc'.
+
+
+<./img/xwMOOC-logo.png, id=6, 340.27126pt x 55.20625pt>
+File: ./img/xwMOOC-logo.png Graphic file (type png)
+
+<use ./img/xwMOOC-logo.png>
+Package pdftex.def Info: ./img/xwMOOC-logo.png used on input line 83.
+(pdftex.def)             Requested size: 340.27042pt x 55.20862pt.
+
+<img/00_cover_boy_girl.png, id=7, 1573.88pt x 692.5875pt>
+File: img/00_cover_boy_girl.png Graphic file (type png)
+
+<use img/00_cover_boy_girl.png>
+Package pdftex.def Info: img/00_cover_boy_girl.png used on input line 95.
+(pdftex.def)             Requested size: 345.0pt x 151.80962pt.
+
+Underfull \hbox (badness 2359) in paragraph at lines 95--96
+ []\LUC/nanummj/bx/n/10/c2 ‰\LUC/nanummj/bx/n/10/d5 ÿ\LUC/nanummj/bx/n/10/c2 ^^
+X\LUC/nanummj/bx/n/10/c5 ≈\T1/lmr/bx/n/10 /\LUC/nanummj/bx/n/10/c0 Ω\LUC/nanumm
+j/bx/n/10/d6 T\T1/lmr/bx/n/10 : Robyn Adams and Jane McKen-zie/Matt Pow-ell[]
+ []
+
+
+LaTeX Warning: Hyper reference `intro' on page 1 undefined on input line 97.
+
+
+LaTeX Warning: Hyper reference `korean-translation' on page 1 undefined on inpu
+t line 99.
+
+
+LaTeX Warning: Hyper reference `acknowledgement' on page 1 undefined on input l
+ine 101.
+
+[1
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./img/x
+wMOOC-logo.png> <./img/00_cover_boy_girl.png>]
+
+LaTeX Warning: Hyper reference `part-i' on page 2 undefined on input line 103.
+
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 108.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+
+LaTeX Warning: Hyper reference `binary-numbers' on page 2 undefined on input li
+ne 108.
+
+
+LaTeX Warning: Hyper reference `image-representation' on page 2 undefined on in
+put line 110.
+
+
+LaTeX Warning: Hyper reference `text-compression' on page 2 undefined on input 
+line 112.
+
+
+LaTeX Warning: Hyper reference `error-detection-and-correction' on page 2 undef
+ined on input line 115.
+
+
+LaTeX Warning: Hyper reference `information-theory' on page 2 undefined on inpu
+t line 117.
+
+
+LaTeX Warning: Hyper reference `part-ii' on page 2 undefined on input line 120.
+
+
+
+LaTeX Warning: Hyper reference `searching-algorithms' on page 2 undefined on in
+put line 125.
+
+
+LaTeX Warning: Hyper reference `sorting-algorithms' on page 2 undefined on inpu
+t line 128.
+
+
+LaTeX Warning: Hyper reference `sorting-networks' on page 2 undefined on input 
+line 131.
+
+
+LaTeX Warning: Hyper reference `minimal-spanning-trees' on page 2 undefined on 
+input line 134.
+
+
+LaTeX Warning: Hyper reference `orange-game' on page 2 undefined on input line 
+137.
+
+
+LaTeX Warning: Hyper reference `tablets-of-stone' on page 2 undefined on input 
+line 140.
+
+
+LaTeX Warning: Hyper reference `part-iii' on page 2 undefined on input line 144
+.
+
+
+LaTeX Warning: Hyper reference `finite-state-automata' on page 2 undefined on i
+nput line 149.
+
+
+LaTeX Warning: Hyper reference `marching-orders' on page 2 undefined on input l
+ine 152.
+
+
+LaTeX Warning: Hyper reference `part-iv' on page 2 undefined on input line 155.
+
+
+
+LaTeX Warning: Hyper reference `graph-coloring' on page 2 undefined on input li
+ne 160.
+
+
+LaTeX Warning: Hyper reference `dominating-sets' on page 2 undefined on input l
+ine 162.
+
+
+LaTeX Warning: Hyper reference `steiner-trees' on page 2 undefined on input lin
+e 164.
+
+
+LaTeX Warning: Hyper reference `part-v' on page 2 undefined on input line 167.
+
+
+LaTeX Warning: Hyper reference `information-hiding-protocols' on page 2 undefin
+ed on input line 173.
+
+
+LaTeX Warning: Hyper reference `cryptographic-protocols' on page 2 undefined on
+ input line 176.
+
+
+LaTeX Warning: Hyper reference `public-key-encryption' on page 2 undefined on i
+nput line 179.
+
+
+LaTeX Warning: Hyper reference `part-vi' on page 2 undefined on input line 182.
+
+
+
+LaTeX Warning: Hyper reference `human-interface-design' on page 2 undefined on 
+input line 188.
+
+[2]
+
+LaTeX Warning: Hyper reference `turing-test' on page 3 undefined on input line 
+190.
+
+
+LaTeX Warning: Hyper reference `reading' on page 3 undefined on input line 193.
+
+
+
+LaTeX Warning: Hyper reference `licenses' on page 3 undefined on input line 195
+.
+
+
+Overfull \hbox (60.86049pt too wide) in alignment at lines 203--216
+ [] [] 
+ []
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 1 on input line 216.
+
+[3] [4]
+LaTeX Font Info:    Font shape `LUC/nanummj/m/it' in size <10> not available
+(Font)              Font shape `LUC/nanummj/m/sl' tried instead on input line 2
+98.
+ [5] [6] [7]
+<csunplugged/01-part/img/01-part-one.png, id=149, 141.4083pt x 139.9629pt>
+File: csunplugged/01-part/img/01-part-one.png Graphic file (type png)
+
+<use csunplugged/01-part/img/01-part-one.png>
+Package pdftex.def Info: csunplugged/01-part/img/01-part-one.png used on input 
+line 421.
+(pdftex.def)             Requested size: 141.40793pt x 139.96255pt.
+ [8 <./csunplugged/01-part/img/01-part-one.png>]
+Underfull \vbox (badness 10000) detected at line 494
+ []
+
+
+<csunplugged/01-part/img/ch01-binary/01-binary-02-five-cards.png, id=161, 255.3
+54pt x 59.9841pt> [9]
+File: csunplugged/01-part/img/ch01-binary/01-binary-02-five-cards.png Graphic f
+ile (type png)
+
+<use csunplugged/01-part/img/ch01-binary/01-binary-02-five-cards.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch01-binary/01-binary-02-five-
+cards.png used on input line 505.
+(pdftex.def)             Requested size: 255.35338pt x 59.98575pt.
+
+<csunplugged/01-part/img/ch01-binary/01-binary-03-five-cards-yn.png, id=173, 32
+6.4195pt x 80.2197pt>
+File: csunplugged/01-part/img/ch01-binary/01-binary-03-five-cards-yn.png Graphi
+c file (type png)
+
+<use csunplugged/01-part/img/ch01-binary/01-binary-03-five-cards-yn.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch01-binary/01-binary-03-five-
+cards-yn.png used on input line 529.
+(pdftex.def)             Requested size: 326.41869pt x 80.22194pt.
+
+[10 <./csunplugged/01-part/img/ch01-binary/01-binary-02-five-cards.png> <./csun
+plugged/01-part/img/ch01-binary/01-binary-03-five-cards-yn.png>]
+<csunplugged/01-part/img/ch01-binary/01-binary-04-instruction_01.png, id=180, 3
+71.9496pt x 180.675pt>
+File: csunplugged/01-part/img/ch01-binary/01-binary-04-instruction_01.png Graph
+ic file (type png)
+
+<use csunplugged/01-part/img/ch01-binary/01-binary-04-instruction_01.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch01-binary/01-binary-04-instr
+uction_01.png used on input line 557.
+(pdftex.def)             Requested size: 345.0pt x 167.58765pt.
+
+<csunplugged/01-part/img/ch01-binary/01-binary-04-instruction_02.png, id=181, 3
+70.0224pt x 178.7478pt>
+File: csunplugged/01-part/img/ch01-binary/01-binary-04-instruction_02.png Graph
+ic file (type png)
+
+<use csunplugged/01-part/img/ch01-binary/01-binary-04-instruction_02.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch01-binary/01-binary-04-instr
+uction_02.png used on input line 564.
+(pdftex.def)             Requested size: 345.0pt x 166.66739pt.
+
+[11 <./csunplugged/01-part/img/ch01-binary/01-binary-04-instruction_01.png>]
+<csunplugged/01-part/img/ch01-binary/01-binary-04-photocopy-master.png, id=190,
+ 302.8113pt x 562.9833pt>
+File: csunplugged/01-part/img/ch01-binary/01-binary-04-photocopy-master.png Gra
+phic file (type png)
+
+<use csunplugged/01-part/img/ch01-binary/01-binary-04-photocopy-master.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch01-binary/01-binary-04-photo
+copy-master.png used on input line 578.
+(pdftex.def)             Requested size: 302.81055pt x 563.03346pt.
+
+Overfull \hbox (52.12115pt too wide) in paragraph at lines 578--579
+ []\LUC/nanummj/bx/n/10/bc ı\LUC/nanummj/bx/n/10/c0 ¨ \LUC/nanummj/bx/n/10/b9 »
+\LUC/nanummj/bx/n/10/c2 §\LUC/nanummj/bx/n/10/d1 0\T1/lmr/bx/n/10 : \LUC/nanumm
+j/bx/n/10/c7 t\LUC/nanummj/bx/n/10/c9 ƒ\LUC/nanummj/bx/n/10/c2 ^^X[] [] 
+ []
+
+[12 <./csunplugged/01-part/img/ch01-binary/01-binary-04-instruction_02.png>]
+Overfull \vbox (13.03346pt too high) has occurred while \output is active []
+
+
+[13 <./csunplugged/01-part/img/ch01-binary/01-binary-04-photocopy-master.png>]
+File: csunplugged/01-part/img/ch01-binary/01-binary-03-five-cards-yn.png Graphi
+c file (type png)
+
+<use csunplugged/01-part/img/ch01-binary/01-binary-03-five-cards-yn.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch01-binary/01-binary-03-five-
+cards-yn.png used on input line 586.
+(pdftex.def)             Requested size: 326.41869pt x 80.22194pt.
+
+<csunplugged/01-part/img/ch01-binary/01-binary-05-working-with-binary_02.png, i
+d=201, 349.5459pt x 209.8239pt>
+File: csunplugged/01-part/img/ch01-binary/01-binary-05-working-with-binary_02.p
+ng Graphic file (type png)
+
+<use csunplugged/01-part/img/ch01-binary/01-binary-05-working-with-binary_02.pn
+g>
+Package pdftex.def Info: csunplugged/01-part/img/ch01-binary/01-binary-05-worki
+ng-with-binary_02.png used on input line 595.
+(pdftex.def)             Requested size: 345.0pt x 207.10197pt.
+ [14 <./csunplugged/01-part/img/ch01-binary/01-binary-05-working-with-binary_02
+.png>]
+<csunplugged/01-part/img/ch01-binary/01-binary-06-sending-secret-messages.png, 
+id=207, 546.843pt x 513.3579pt>
+File: csunplugged/01-part/img/ch01-binary/01-binary-06-sending-secret-messages.
+png Graphic file (type png)
+
+<use csunplugged/01-part/img/ch01-binary/01-binary-06-sending-secret-messages.p
+ng>
+Package pdftex.def Info: csunplugged/01-part/img/ch01-binary/01-binary-06-sendi
+ng-secret-messages.png used on input line 617.
+(pdftex.def)             Requested size: 345.0pt x 323.88718pt.
+ [15 <./csunplugged/01-part/img/ch01-binary/01-binary-06-sending-secret-message
+s.png>]
+<csunplugged/01-part/img/ch01-binary/01-binary-07-email-and-modems_01.png, id=2
+14, 474.8139pt x 137.7948pt>
+File: csunplugged/01-part/img/ch01-binary/01-binary-07-email-and-modems_01.png 
+Graphic file (type png)
+
+<use csunplugged/01-part/img/ch01-binary/01-binary-07-email-and-modems_01.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch01-binary/01-binary-07-email
+-and-modems_01.png used on input line 629.
+(pdftex.def)             Requested size: 345.0pt x 100.12048pt.
+
+<csunplugged/01-part/img/ch01-binary/01-binary-07-email-and-modems_02.png, id=2
+15, 442.5333pt x 265.4718pt>
+File: csunplugged/01-part/img/ch01-binary/01-binary-07-email-and-modems_02.png 
+Graphic file (type png)
+
+<use csunplugged/01-part/img/ch01-binary/01-binary-07-email-and-modems_02.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch01-binary/01-binary-07-email
+-and-modems_02.png used on input line 635.
+(pdftex.def)             Requested size: 345.0pt x 206.96184pt.
+
+[16 <./csunplugged/01-part/img/ch01-binary/01-binary-07-email-and-modems_01.png
+> <./csunplugged/01-part/img/ch01-binary/01-binary-07-email-and-modems_02.png>]
+
+<csunplugged/01-part/img/ch01-binary/01-binary-08-Miss-Flexi-Toes.png, id=221, 
+294.6207pt x 277.2759pt>
+File: csunplugged/01-part/img/ch01-binary/01-binary-08-Miss-Flexi-Toes.png Grap
+hic file (type png)
+
+<use csunplugged/01-part/img/ch01-binary/01-binary-08-Miss-Flexi-Toes.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch01-binary/01-binary-08-Miss-
+Flexi-Toes.png used on input line 672.
+(pdftex.def)             Requested size: 294.61996pt x 277.29636pt.
+
+[17]
+<csunplugged/01-part/img/ch01-binary/01-binary-09-more-on-binary.png, id=229, 2
+65.4718pt x 62.634pt>
+File: csunplugged/01-part/img/ch01-binary/01-binary-09-more-on-binary.png Graph
+ic file (type png)
+
+<use csunplugged/01-part/img/ch01-binary/01-binary-09-more-on-binary.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch01-binary/01-binary-09-more-
+on-binary.png used on input line 687.
+(pdftex.def)             Requested size: 265.47115pt x 62.63383pt.
+
+[18 <./csunplugged/01-part/img/ch01-binary/01-binary-08-Miss-Flexi-Toes.png> <.
+/csunplugged/01-part/img/ch01-binary/01-binary-09-more-on-binary.png>]
+<csunplugged/01-part/img/ch01-binary/01-binary-09-more-on-binary_02.png, id=236
+, 308.8338pt x 133.9404pt>
+File: csunplugged/01-part/img/ch01-binary/01-binary-09-more-on-binary_02.png Gr
+aphic file (type png)
+
+<use csunplugged/01-part/img/ch01-binary/01-binary-09-more-on-binary_02.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch01-binary/01-binary-09-more-
+on-binary_02.png used on input line 712.
+(pdftex.def)             Requested size: 308.83304pt x 133.94823pt.
+
+<csunplugged/01-part/img/ch01-binary/01-binary-10-what-is-it-all-about-01.png, 
+id=237, 218.4963pt x 43.8438pt>
+File: csunplugged/01-part/img/ch01-binary/01-binary-10-what-is-it-all-about-01.
+png Graphic file (type png)
+
+<use csunplugged/01-part/img/ch01-binary/01-binary-10-what-is-it-all-about-01.p
+ng>
+Package pdftex.def Info: csunplugged/01-part/img/ch01-binary/01-binary-10-what-
+is-it-all-about-01.png used on input line 723.
+(pdftex.def)             Requested size: 218.49576pt x 43.84567pt.
+ [19 <./csunplugged/01-part/img/ch01-binary/01-binary-09-more-on-binary_02.png>
+ <./csunplugged/01-part/img/ch01-binary/01-binary-10-what-is-it-all-about-01.pn
+g>]
+<csunplugged/01-part/img/ch01-binary/01-binary-10-what-is-it-all-about-02.png, 
+id=245, 249.3315pt x 13.0086pt>
+File: csunplugged/01-part/img/ch01-binary/01-binary-10-what-is-it-all-about-02.
+png Graphic file (type png)
+
+<use csunplugged/01-part/img/ch01-binary/01-binary-10-what-is-it-all-about-02.p
+ng>
+Package pdftex.def Info: csunplugged/01-part/img/ch01-binary/01-binary-10-what-
+is-it-all-about-02.png used on input line 730.
+(pdftex.def)             Requested size: 249.33087pt x 13.00856pt.
+
+<csunplugged/01-part/img/ch01-binary/01-binary-10-what-is-it-all-about-03.png, 
+id=246, 244.2726pt x 47.4573pt>
+File: csunplugged/01-part/img/ch01-binary/01-binary-10-what-is-it-all-about-03.
+png Graphic file (type png)
+
+<use csunplugged/01-part/img/ch01-binary/01-binary-10-what-is-it-all-about-03.p
+ng>
+Package pdftex.def Info: csunplugged/01-part/img/ch01-binary/01-binary-10-what-
+is-it-all-about-03.png used on input line 735.
+(pdftex.def)             Requested size: 244.272pt x 47.45789pt.
+
+<csunplugged/01-part/img/ch01-binary/01-binary-10-what-is-it-all-about-04.png, 
+id=247, 369.2997pt x 246.9225pt>
+File: csunplugged/01-part/img/ch01-binary/01-binary-10-what-is-it-all-about-04.
+png Graphic file (type png)
+
+<use csunplugged/01-part/img/ch01-binary/01-binary-10-what-is-it-all-about-04.p
+ng>
+Package pdftex.def Info: csunplugged/01-part/img/ch01-binary/01-binary-10-what-
+is-it-all-about-04.png used on input line 749.
+(pdftex.def)             Requested size: 345.0pt x 230.68295pt.
+ [20 <./csunplugged/01-part/img/ch01-binary/01-binary-10-what-is-it-all-about-0
+2.png> <./csunplugged/01-part/img/ch01-binary/01-binary-10-what-is-it-all-about
+-03.png> <./csunplugged/01-part/img/ch01-binary/01-binary-10-what-is-it-all-abo
+ut-04.png>] [21]
+Underfull \vbox (badness 10000) detected at line 857
+ []
+
+
+Overfull \vbox (4.96716pt too high) has occurred while \output is active []
+
+
+[22]
+<csunplugged/01-part/img/ch02-img/02-image-01-a-01.png, id=276, 140.2038pt x 12
+9.1224pt>
+File: csunplugged/01-part/img/ch02-img/02-image-01-a-01.png Graphic file (type 
+png)
+ <use csunplugged/01-part/img/ch02-img/02-image-01-a-01.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch02-img/02-image-01-a-01.png 
+used on input line 879.
+(pdftex.def)             Requested size: 140.20345pt x 129.12209pt.
+
+<csunplugged/01-part/img/ch02-img/02-image-01-a-02.png, id=277, 175.3752pt x 12
+5.268pt>
+File: csunplugged/01-part/img/ch02-img/02-image-01-a-02.png Graphic file (type 
+png)
+ <use csunplugged/01-part/img/ch02-img/02-image-01-a-02.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch02-img/02-image-01-a-02.png 
+used on input line 889.
+(pdftex.def)             Requested size: 175.37477pt x 125.27724pt.
+ [23 <./csunplugged/01-part/img/ch02-img/02-image-01-a-01.png> <./csunplugged/0
+1-part/img/ch02-img/02-image-01-a-02.png>]
+<csunplugged/01-part/img/ch02-img/02-image-02-master-01.png, id=288, 140.2038pt
+ x 129.1224pt>
+File: csunplugged/01-part/img/ch02-img/02-image-02-master-01.png Graphic file (
+type png)
+
+<use csunplugged/01-part/img/ch02-img/02-image-02-master-01.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch02-img/02-image-02-master-01
+.png used on input line 903.
+(pdftex.def)             Requested size: 140.20345pt x 129.12209pt.
+File: csunplugged/01-part/img/ch02-img/02-image-01-a-02.png Graphic file (type 
+png)
+
+<use csunplugged/01-part/img/ch02-img/02-image-01-a-02.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch02-img/02-image-01-a-02.png 
+used on input line 906.
+(pdftex.def)             Requested size: 175.37477pt x 125.27724pt.
+
+<csunplugged/01-part/img/ch02-img/02-image-02-master-03.png, id=289, 123.0999pt
+ x 123.8226pt>
+File: csunplugged/01-part/img/ch02-img/02-image-02-master-03.png Graphic file (
+type png)
+
+<use csunplugged/01-part/img/ch02-img/02-image-02-master-03.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch02-img/02-image-02-master-03
+.png used on input line 910.
+(pdftex.def)             Requested size: 123.09958pt x 123.82794pt.
+ [24 <./csunplugged/01-part/img/ch02-img/02-image-02-master-01.png>]
+<csunplugged/01-part/img/ch02-img/02-image-03-worksheet-01.png, id=295, 473.368
+5pt x 184.7703pt>
+File: csunplugged/01-part/img/ch02-img/02-image-03-worksheet-01.png Graphic fil
+e (type png)
+
+<use csunplugged/01-part/img/ch02-img/02-image-03-worksheet-01.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch02-img/02-image-03-worksheet
+-01.png used on input line 918.
+(pdftex.def)             Requested size: 345.0pt x 134.66974pt.
+
+<csunplugged/01-part/img/ch02-img/02-image-03-worksheet-02.png, id=296, 543.711
+3pt x 266.4354pt>
+File: csunplugged/01-part/img/ch02-img/02-image-03-worksheet-02.png Graphic fil
+e (type png)
+
+<use csunplugged/01-part/img/ch02-img/02-image-03-worksheet-02.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch02-img/02-image-03-worksheet
+-02.png used on input line 920.
+(pdftex.def)             Requested size: 345.0pt x 169.0667pt.
+
+<csunplugged/01-part/img/ch02-img/02-image-03-worksheet-03.png, id=297, 546.120
+3pt x 345.6915pt>
+File: csunplugged/01-part/img/ch02-img/02-image-03-worksheet-03.png Graphic fil
+e (type png)
+
+<use csunplugged/01-part/img/ch02-img/02-image-03-worksheet-03.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch02-img/02-image-03-worksheet
+-03.png used on input line 922.
+(pdftex.def)             Requested size: 345.0pt x 218.39339pt.
+ [25 <./csunplugged/01-part/img/ch02-img/02-image-02-master-03.png> <./csunplug
+ged/01-part/img/ch02-img/02-image-03-worksheet-01.png> <./csunplugged/01-part/i
+mg/ch02-img/02-image-03-worksheet-02.png>]
+<csunplugged/01-part/img/ch02-img/02-image-04-worksheet-01.png, id=304, 582.014
+4pt x 358.4592pt>
+File: csunplugged/01-part/img/ch02-img/02-image-04-worksheet-01.png Graphic fil
+e (type png)
+
+<use csunplugged/01-part/img/ch02-img/02-image-04-worksheet-01.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch02-img/02-image-04-worksheet
+-01.png used on input line 933.
+(pdftex.def)             Requested size: 345.0pt x 212.48456pt.
+ [26 <./csunplugged/01-part/img/ch02-img/02-image-03-worksheet-03.png>]
+File: csunplugged/01-part/img/ch02-img/02-image-04-worksheet-01.png Graphic fil
+e (type png)
+
+<use csunplugged/01-part/img/ch02-img/02-image-04-worksheet-01.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch02-img/02-image-04-worksheet
+-01.png used on input line 939.
+(pdftex.def)             Requested size: 345.0pt x 212.48456pt.
+ [27 <./csunplugged/01-part/img/ch02-img/02-image-04-worksheet-01.png>]
+File: csunplugged/01-part/img/ch02-img/02-image-04-worksheet-01.png Graphic fil
+e (type png)
+
+<use csunplugged/01-part/img/ch02-img/02-image-04-worksheet-01.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch02-img/02-image-04-worksheet
+-01.png used on input line 950.
+(pdftex.def)             Requested size: 345.0pt x 212.48456pt.
+File: csunplugged/01-part/img/ch02-img/02-image-04-worksheet-01.png Graphic fil
+e (type png)
+
+<use csunplugged/01-part/img/ch02-img/02-image-04-worksheet-01.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch02-img/02-image-04-worksheet
+-01.png used on input line 956.
+(pdftex.def)             Requested size: 345.0pt x 212.48456pt.
+ [28]
+[29]
+<csunplugged/01-part/img/ch02-img/02-image-05-core-concept.png, id=327, 141.408
+3pt x 139.9629pt>
+File: csunplugged/01-part/img/ch02-img/02-image-05-core-concept.png Graphic fil
+e (type png)
+
+<use csunplugged/01-part/img/ch02-img/02-image-05-core-concept.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch02-img/02-image-05-core-conc
+ept.png used on input line 999.
+(pdftex.def)             Requested size: 141.40793pt x 139.96255pt.
+
+<csunplugged/01-part/img/ch02-img/02-image-06-hint-solution-01.png, id=328, 365
+.4453pt x 183.8067pt>
+File: csunplugged/01-part/img/ch02-img/02-image-06-hint-solution-01.png Graphic
+ file (type png)
+
+<use csunplugged/01-part/img/ch02-img/02-image-06-hint-solution-01.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch02-img/02-image-06-hint-solu
+tion-01.png used on input line 1005.
+(pdftex.def)             Requested size: 345.0pt x 173.52435pt.
+
+<csunplugged/01-part/img/ch02-img/02-image-06-hint-solution-02.png, id=329, 365
+.6862pt x 264.0264pt>
+File: csunplugged/01-part/img/ch02-img/02-image-06-hint-solution-02.png Graphic
+ file (type png)
+
+<use csunplugged/01-part/img/ch02-img/02-image-06-hint-solution-02.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch02-img/02-image-06-hint-solu
+tion-02.png used on input line 1006.
+(pdftex.def)             Requested size: 345.0pt x 249.1074pt.
+
+<csunplugged/01-part/img/ch02-img/02-image-06-hint-solution-03.png, id=330, 365
+.6862pt x 348.8232pt>
+File: csunplugged/01-part/img/ch02-img/02-image-06-hint-solution-03.png Graphic
+ file (type png)
+
+<use csunplugged/01-part/img/ch02-img/02-image-06-hint-solution-03.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch02-img/02-image-06-hint-solu
+tion-03.png used on input line 1007.
+(pdftex.def)             Requested size: 345.0pt x 329.11272pt.
+
+Overfull \hbox (141.17032pt too wide) in paragraph at lines 1005--1008
+ []\LUC/nanummj/bx/n/10/c5 ¥\LUC/nanummj/bx/n/10/b9 ∞\LUC/nanummj/bx/n/10/c7 t 
+\LUC/nanummj/bx/n/10/d3 )\LUC/nanummj/bx/n/10/c2 ‹\LUC/nanummj/bx/n/10/bc ^^@\L
+UC/nanummj/bx/n/10/b9 ¨ \LUC/nanummj/bx/n/10/c6 Ã\LUC/nanummj/bx/n/10/d0 l\LUC/
+nanummj/bx/n/10/c2 ‹\LUC/nanummj/bx/n/10/d2 ∏ \LUC/nanummj/bx/n/10/c8 ^^U\LUC/n
+anummj/bx/n/10/b2 ı[] []
+ []
+
+[30 <./csunplugged/01-part/img/ch02-img/02-image-05-core-concept.png>] [31 <./c
+sunplugged/01-part/img/ch02-img/02-image-06-hint-solution-01.png> <./csunplugge
+d/01-part/img/ch02-img/02-image-06-hint-solution-02.png>] [32 <./csunplugged/01
+-part/img/ch02-img/02-image-06-hint-solution-03.png>]
+Underfull \vbox (badness 10000) detected at line 1071
+ []
+
+[33]
+<csunplugged/01-part/img/ch03-text/03-text-01-pitter-platter.png, id=362, 215.8
+464pt x 136.3494pt>
+File: csunplugged/01-part/img/ch03-text/03-text-01-pitter-platter.png Graphic f
+ile (type png)
+
+<use csunplugged/01-part/img/ch03-text/03-text-01-pitter-platter.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch03-text/03-text-01-pitter-pl
+atter.png used on input line 1086.
+(pdftex.def)             Requested size: 215.84587pt x 136.34904pt.
+
+<csunplugged/01-part/img/ch03-text/03-text-02-the-rain.png, id=363, 535.2497pt 
+x 540.51938pt>
+File: csunplugged/01-part/img/ch03-text/03-text-02-the-rain.png Graphic file (t
+ype png)
+ <use csunplugged/01-part/img/ch03-text/03-text-02-the-rain.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch03-text/03-text-02-the-rain.
+png used on input line 1090.
+(pdftex.def)             Requested size: 345.0pt x 348.41376pt.
+
+Overfull \hbox (152.98105pt too wide) in paragraph at lines 1090--1091
+ []\LUC/nanummj/bx/n/10/bc ı\LUC/nanummj/bx/n/10/c0 ¨ \LUC/nanummj/bx/n/10/b9 »
+\LUC/nanummj/bx/n/10/c2 §\LUC/nanummj/bx/n/10/d1 0\T1/lmr/bx/n/10 : \LUC/nanumm
+j/bx/n/10/b2 ‰\LUC/nanummj/bx/n/10/c2 ‹ \LUC/nanummj/bx/n/10/b9 –\LUC/nanummj/b
+x/n/10/d5 ` \LUC/nanummj/bx/n/10/c2 ^^X \LUC/nanummj/bx/n/10/c7 à\LUC/nanummj/b
+x/n/10/c5 ¥\LUC/nanummj/bx/n/10/c6 î\T1/lmr/bx/n/10 ![] [] 
+ []
+
+[34 <./csunplugged/01-part/img/ch03-text/03-text-01-pitter-platter.png>]
+<csunplugged/01-part/img/ch03-text/03-text-03-peas.png, id=371, 445.9059pt x 39
+0.4989pt>
+File: csunplugged/01-part/img/ch03-text/03-text-03-peas.png Graphic file (type 
+png)
+ <use csunplugged/01-part/img/ch03-text/03-text-03-peas.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch03-text/03-text-03-peas.png 
+used on input line 1110.
+(pdftex.def)             Requested size: 345.0pt x 302.15088pt.
+ [35 <./csunplugged/01-part/img/ch03-text/03-text-02-the-rain.png>] [36 <./csun
+plugged/01-part/img/ch03-text/03-text-03-peas.png>]
+<csunplugged/01-part/img/ch03-text/03-text-04-banana-01.png, id=386, 130.086pt 
+x 55.1661pt>
+File: csunplugged/01-part/img/ch03-text/03-text-04-banana-01.png Graphic file (
+type png)
+ <use csunplugged/01-part/img/ch03-text/03-text-04-banana-01.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch03-text/03-text-04-banana-01
+.png used on input line 1137.
+(pdftex.def)             Requested size: 130.08566pt x 55.16847pt.
+
+<csunplugged/01-part/img/ch03-text/03-text-04-banana-02.png, id=387, 357.0138pt
+ x 243.0681pt>
+File: csunplugged/01-part/img/ch03-text/03-text-04-banana-02.png Graphic file (
+type png)
+
+<use csunplugged/01-part/img/ch03-text/03-text-04-banana-02.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch03-text/03-text-04-banana-02
+.png used on input line 1163.
+(pdftex.def)             Requested size: 345.0pt x 234.89676pt.
+ [37 <./csunplugged/01-part/img/ch03-text/03-text-04-banana-01.png>] [38 <./csu
+nplugged/01-part/img/ch03-text/03-text-04-banana-02.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 1189.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 1189.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 1189.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 1189.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 1189.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 1189.
+
+[39] [40]
+<csunplugged/01-part/img/ch03-text/03-text-05-ohp.png, id=417, 313.6518pt x 336
+.7782pt>
+File: csunplugged/01-part/img/ch03-text/03-text-05-ohp.png Graphic file (type p
+ng)
+ <use csunplugged/01-part/img/ch03-text/03-text-05-ohp.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch03-text/03-text-05-ohp.png u
+sed on input line 1286.
+(pdftex.def)             Requested size: 313.65102pt x 336.80305pt.
+
+Overfull \hbox (127.3777pt too wide) in paragraph at lines 1286--1287
+ []\LUC/nanummj/bx/n/10/b2 ‰\LUC/nanummj/bx/n/10/c2 ‹ \LUC/nanummj/bx/n/10/b9 –
+\LUC/nanummj/bx/n/10/d5 ` \LUC/nanummj/bx/n/10/c2 ^^X \LUC/nanummj/bx/n/10/c7 à
+\LUC/nanummj/bx/n/10/c5 ¥\LUC/nanummj/bx/n/10/c6 î\T1/lmr/bx/n/10 ! (\LUC/nanum
+mj/bx/n/10/bc ı\LUC/nanummj/bx/n/10/c0 ¨ \LUC/nanummj/bx/n/10/b9 »\LUC/nanummj/
+bx/n/10/c2 §\LUC/nanummj/bx/n/10/d1 0\T1/lmr/bx/n/10 )[] [] 
+ []
+
+[41] [42 <./csunplugged/01-part/img/ch03-text/03-text-05-ohp.png>]
+Underfull \vbox (badness 10000) detected at line 1368
+ []
+
+[43]
+<csunplugged/01-part/img/ch04-checksum/04-checksum-01-magician-01.png, id=443, 
+262.8219pt x 171.7617pt>
+File: csunplugged/01-part/img/ch04-checksum/04-checksum-01-magician-01.png Grap
+hic file (type png)
+
+<use csunplugged/01-part/img/ch04-checksum/04-checksum-01-magician-01.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch04-checksum/04-checksum-01-m
+agician-01.png used on input line 1385.
+(pdftex.def)             Requested size: 262.82124pt x 171.76651pt.
+
+<csunplugged/01-part/img/ch04-checksum/04-checksum-01-magician-02.png, id=444, 
+262.8219pt x 171.7617pt>
+File: csunplugged/01-part/img/ch04-checksum/04-checksum-01-magician-02.png Grap
+hic file (type png)
+
+<use csunplugged/01-part/img/ch04-checksum/04-checksum-01-magician-02.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch04-checksum/04-checksum-01-m
+agician-02.png used on input line 1389.
+(pdftex.def)             Requested size: 262.82124pt x 171.76651pt.
+
+[44 <./csunplugged/01-part/img/ch04-checksum/04-checksum-01-magician-01.png> <.
+/csunplugged/01-part/img/ch04-checksum/04-checksum-01-magician-02.png>]
+[45]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 1473
+.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 147
+5.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/lm/ts1lmtt.fd
+File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `lmtt' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `texttrademark ' is missing
+(microtype)             in font `TS1/lmtt/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+
+Overfull \hbox (148.49857pt too wide) in paragraph at lines 1475--1475
+[]\T1/lmtt/m/n/10 (0 \TS1/lmtt/m/n/10 ÷ \T1/lmtt/m/n/10 10) + (1 \TS1/lmtt/m/n/
+10 ÷ \T1/lmtt/m/n/10 9) + (3 \TS1/lmtt/m/n/10 ÷ \T1/lmtt/m/n/10 8) + (9 \TS1/lm
+tt/m/n/10 ÷ \T1/lmtt/m/n/10 7) + (1 \TS1/lmtt/m/n/10 ÷ \T1/lmtt/m/n/10 6) + (1 
+\TS1/lmtt/m/n/10 ÷ \T1/lmtt/m/n/10 5) + (9 \TS1/lmtt/m/n/10 ÷ \T1/lmtt/m/n/10 4
+) + (9 \TS1/lmtt/m/n/10 ÷ \T1/lmtt/m/n/10 3) + (1 \TS1/lmtt/m/n/10 ÷ \T1/lmtt/m
+/n/10 2) = 172[] 
+ []
+
+LaTeX Font Info:    Try loading font information for LUC+nanumgt on input line 
+1481.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/nanumtype1/lucnanumgt.fd
+File: lucnanumgt.fd 2013/02/12 v0.1 Nanum Gothic font definitions
+)
+[46]
+<csunplugged/01-part/img/ch04-checksum/04-checksum-02-ISBN.png, id=479, 128.399
+7pt x 96.36pt>
+File: csunplugged/01-part/img/ch04-checksum/04-checksum-02-ISBN.png Graphic fil
+e (type png)
+
+<use csunplugged/01-part/img/ch04-checksum/04-checksum-02-ISBN.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch04-checksum/04-checksum-02-I
+SBN.png used on input line 1497.
+(pdftex.def)             Requested size: 128.39938pt x 96.36562pt.
+
+<csunplugged/01-part/img/ch04-checksum/04-checksum-03-detective.png, id=480, 42
+6.1521pt x 316.3017pt>
+File: csunplugged/01-part/img/ch04-checksum/04-checksum-03-detective.png Graphi
+c file (type png)
+
+<use csunplugged/01-part/img/ch04-checksum/04-checksum-03-detective.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch04-checksum/04-checksum-03-d
+etective.png used on input line 1504.
+(pdftex.def)             Requested size: 345.0pt x 256.0823pt.
+
+[47 <./csunplugged/01-part/img/ch04-checksum/04-checksum-02-ISBN.png> <./csunpl
+ugged/01-part/img/ch04-checksum/04-checksum-03-detective.png>] [48]
+<csunplugged/01-part/img/ch04-checksum/04-checksum-04-parrot.png, id=497, 201.1
+515pt x 176.5797pt>
+File: csunplugged/01-part/img/ch04-checksum/04-checksum-04-parrot.png Graphic f
+ile (type png)
+
+<use csunplugged/01-part/img/ch04-checksum/04-checksum-04-parrot.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch04-checksum/04-checksum-04-p
+arrot.png used on input line 1569.
+(pdftex.def)             Requested size: 201.151pt x 176.58731pt.
+ [49 <./csunplugged/01-part/img/ch04-checksum/04-checksum-04-parrot.png>] [50]
+<csunplugged/01-part/img/ch05-info/05-info-01-spaceship.png, id=516, 420.1296pt
+ x 313.4109pt>
+File: csunplugged/01-part/img/ch05-info/05-info-01-spaceship.png Graphic file (
+type png)
+
+<use csunplugged/01-part/img/ch05-info/05-info-01-spaceship.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch05-info/05-info-01-spaceship
+.png used on input line 1675.
+(pdftex.def)             Requested size: 345.0pt x 257.36682pt.
+ [51] [52 <./csunplugged/01-part/img/ch05-info/05-info-01-spaceship.png>]
+<csunplugged/01-part/img/ch05-info/05-info-02-decision-tree.png, id=533, 380.14
+02pt x 176.0979pt>
+File: csunplugged/01-part/img/ch05-info/05-info-02-decision-tree.png Graphic fi
+le (type png)
+
+<use csunplugged/01-part/img/ch05-info/05-info-02-decision-tree.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch05-info/05-info-02-decision-
+tree.png used on input line 1734.
+(pdftex.def)             Requested size: 345.0pt x 159.82478pt.
+ [53]
+[54 <./csunplugged/01-part/img/ch05-info/05-info-02-decision-tree.png>]
+<csunplugged/01-part/img/ch05-info/05-info-03-shannon.png, id=544, 157.5486pt x
+ 242.5863pt>
+File: csunplugged/01-part/img/ch05-info/05-info-03-shannon.png Graphic file (ty
+pe png)
+ <use csunplugged/01-part/img/ch05-info/05-info-03-shannon.png>
+Package pdftex.def Info: csunplugged/01-part/img/ch05-info/05-info-03-shannon.p
+ng used on input line 1772.
+(pdftex.def)             Requested size: 157.5482pt x 242.58571pt.
+
+[55 <./csunplugged/01-part/img/ch05-info/05-info-03-shannon.png>] [56] [57]
+Underfull \vbox (badness 10000) detected at line 1931
+ []
+
+[58] [59] [60] [61]
+<csunplugged/02-part/img/ch06-search/06-search-01-battleship-1A.png, id=631, 70
+2.4644pt x 461.8053pt>
+File: csunplugged/02-part/img/ch06-search/06-search-01-battleship-1A.png Graphi
+c file (type png)
+
+<use csunplugged/02-part/img/ch06-search/06-search-01-battleship-1A.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch06-search/06-search-01-battl
+eship-1A.png used on input line 2106.
+(pdftex.def)             Requested size: 345.0pt x 226.80801pt.
+
+<csunplugged/02-part/img/ch06-search/06-search-01-battleship-1B.png, id=632, 70
+2.4644pt x 461.8053pt>
+File: csunplugged/02-part/img/ch06-search/06-search-01-battleship-1B.png Graphi
+c file (type png)
+
+<use csunplugged/02-part/img/ch06-search/06-search-01-battleship-1B.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch06-search/06-search-01-battl
+eship-1B.png used on input line 2107.
+(pdftex.def)             Requested size: 345.0pt x 226.80801pt.
+
+<csunplugged/02-part/img/ch06-search/06-search-01-battleship-2A.png, id=633, 70
+2.4644pt x 461.8053pt>
+File: csunplugged/02-part/img/ch06-search/06-search-01-battleship-2A.png Graphi
+c file (type png)
+
+<use csunplugged/02-part/img/ch06-search/06-search-01-battleship-2A.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch06-search/06-search-01-battl
+eship-2A.png used on input line 2108.
+(pdftex.def)             Requested size: 345.0pt x 226.80801pt.
+
+<csunplugged/02-part/img/ch06-search/06-search-01-battleship-2B.png, id=634, 70
+2.4644pt x 461.8053pt>
+File: csunplugged/02-part/img/ch06-search/06-search-01-battleship-2B.png Graphi
+c file (type png)
+
+<use csunplugged/02-part/img/ch06-search/06-search-01-battleship-2B.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch06-search/06-search-01-battl
+eship-2B.png used on input line 2109.
+(pdftex.def)             Requested size: 345.0pt x 226.80801pt.
+
+<csunplugged/02-part/img/ch06-search/06-search-01-battleship-3A.png, id=635, 70
+2.4644pt x 490.4724pt>
+File: csunplugged/02-part/img/ch06-search/06-search-01-battleship-3A.png Graphi
+c file (type png)
+
+<use csunplugged/02-part/img/ch06-search/06-search-01-battleship-3A.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch06-search/06-search-01-battl
+eship-3A.png used on input line 2110.
+(pdftex.def)             Requested size: 345.0pt x 240.88739pt.
+
+<csunplugged/02-part/img/ch06-search/06-search-01-battleship-3B.png, id=636, 70
+2.4644pt x 490.4724pt>
+File: csunplugged/02-part/img/ch06-search/06-search-01-battleship-3B.png Graphi
+c file (type png)
+
+<use csunplugged/02-part/img/ch06-search/06-search-01-battleship-3B.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch06-search/06-search-01-battl
+eship-3B.png used on input line 2111.
+(pdftex.def)             Requested size: 345.0pt x 240.88739pt.
+
+[62] [63 <./csunplugged/02-part/img/ch06-search/06-search-01-battleship-1A.png>
+ <./csunplugged/02-part/img/ch06-search/06-search-01-battleship-1B.png>]
+[64 <./csunplugged/02-part/img/ch06-search/06-search-01-battleship-2A.png> <./c
+sunplugged/02-part/img/ch06-search/06-search-01-battleship-2B.png>]
+<csunplugged/02-part/img/ch06-search/06-search-01-battleship-1A-dash.png, id=65
+4, 702.4644pt x 461.8053pt>
+File: csunplugged/02-part/img/ch06-search/06-search-01-battleship-1A-dash.png G
+raphic file (type png)
+
+<use csunplugged/02-part/img/ch06-search/06-search-01-battleship-1A-dash.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch06-search/06-search-01-battl
+eship-1A-dash.png used on input line 2113.
+(pdftex.def)             Requested size: 345.0pt x 226.80801pt.
+
+<csunplugged/02-part/img/ch06-search/06-search-01-battleship-1B-dash.png, id=65
+5, 702.4644pt x 461.8053pt>
+File: csunplugged/02-part/img/ch06-search/06-search-01-battleship-1B-dash.png G
+raphic file (type png)
+
+<use csunplugged/02-part/img/ch06-search/06-search-01-battleship-1B-dash.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch06-search/06-search-01-battl
+eship-1B-dash.png used on input line 2114.
+(pdftex.def)             Requested size: 345.0pt x 226.80801pt.
+
+<csunplugged/02-part/img/ch06-search/06-search-01-battleship-2A-dash.png, id=65
+6, 702.4644pt x 461.8053pt>
+File: csunplugged/02-part/img/ch06-search/06-search-01-battleship-2A-dash.png G
+raphic file (type png)
+
+<use csunplugged/02-part/img/ch06-search/06-search-01-battleship-2A-dash.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch06-search/06-search-01-battl
+eship-2A-dash.png used on input line 2115.
+(pdftex.def)             Requested size: 345.0pt x 226.80801pt.
+
+<csunplugged/02-part/img/ch06-search/06-search-01-battleship-2B-dash.png, id=65
+7, 702.4644pt x 461.8053pt>
+File: csunplugged/02-part/img/ch06-search/06-search-01-battleship-2B-dash.png G
+raphic file (type png)
+
+<use csunplugged/02-part/img/ch06-search/06-search-01-battleship-2B-dash.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch06-search/06-search-01-battl
+eship-2B-dash.png used on input line 2116.
+(pdftex.def)             Requested size: 345.0pt x 226.80801pt.
+
+<csunplugged/02-part/img/ch06-search/06-search-01-battleship-3A-dash.png, id=65
+8, 702.4644pt x 490.4724pt>
+File: csunplugged/02-part/img/ch06-search/06-search-01-battleship-3A-dash.png G
+raphic file (type png)
+
+<use csunplugged/02-part/img/ch06-search/06-search-01-battleship-3A-dash.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch06-search/06-search-01-battl
+eship-3A-dash.png used on input line 2117.
+(pdftex.def)             Requested size: 345.0pt x 240.88739pt.
+
+<csunplugged/02-part/img/ch06-search/06-search-01-battleship-3B-dash.png, id=65
+9, 702.4644pt x 490.4724pt>
+File: csunplugged/02-part/img/ch06-search/06-search-01-battleship-3B-dash.png G
+raphic file (type png)
+
+<use csunplugged/02-part/img/ch06-search/06-search-01-battleship-3B-dash.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch06-search/06-search-01-battl
+eship-3B-dash.png used on input line 2118.
+(pdftex.def)             Requested size: 345.0pt x 240.88739pt.
+
+[65 <./csunplugged/02-part/img/ch06-search/06-search-01-battleship-3A.png> <./c
+sunplugged/02-part/img/ch06-search/06-search-01-battleship-3B.png>] [66 <./csun
+plugged/02-part/img/ch06-search/06-search-01-battleship-1A-dash.png> <./csunplu
+gged/02-part/img/ch06-search/06-search-01-battleship-1B-dash.png>] [67 <./csunp
+lugged/02-part/img/ch06-search/06-search-01-battleship-2A-dash.png> <./csunplug
+ged/02-part/img/ch06-search/06-search-01-battleship-2B-dash.png>] [68 <./csunpl
+ugged/02-part/img/ch06-search/06-search-01-battleship-3A-dash.png> <./csunplugg
+ed/02-part/img/ch06-search/06-search-01-battleship-3B-dash.png>] [69] [70]
+Underfull \vbox (badness 10000) detected at line 2231
+ []
+
+[71]
+<csunplugged/02-part/img/ch07-sort/07-sort-01-selection.png, id=711, 360.8682pt
+ x 99.4917pt>
+File: csunplugged/02-part/img/ch07-sort/07-sort-01-selection.png Graphic file (
+type png)
+ <use csunplugged/02-part/img/ch07-sort/07-sort-01-selection.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch07-sort/07-sort-01-selection
+.png used on input line 2298.
+(pdftex.def)             Requested size: 345.0pt x 95.12228pt.
+
+[72 <./csunplugged/02-part/img/ch07-sort/07-sort-01-selection.png>]
+<csunplugged/02-part/img/ch07-sort/07-sort-02-quick.png, id=723, 390.7398pt x 3
+55.8093pt>
+File: csunplugged/02-part/img/ch07-sort/07-sort-02-quick.png Graphic file (type
+ png)
+ <use csunplugged/02-part/img/ch07-sort/07-sort-02-quick.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch07-sort/07-sort-02-quick.png
+ used on input line 2329.
+(pdftex.def)             Requested size: 345.0pt x 314.17183pt.
+
+[73] [74 <./csunplugged/02-part/img/ch07-sort/07-sort-02-quick.png>]
+<csunplugged/02-part/img/ch07-sort/07-sort-03-insertion.png, id=735, 351.714pt 
+x 113.4639pt>
+File: csunplugged/02-part/img/ch07-sort/07-sort-03-insertion.png Graphic file (
+type png)
+ <use csunplugged/02-part/img/ch07-sort/07-sort-03-insertion.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch07-sort/07-sort-03-insertion
+.png used on input line 2356.
+(pdftex.def)             Requested size: 345.0pt x 111.30464pt.
+
+<csunplugged/02-part/img/ch07-sort/07-sort-04-bubble.png, id=736, 373.1541pt x 
+95.3964pt>
+File: csunplugged/02-part/img/ch07-sort/07-sort-04-bubble.png Graphic file (typ
+e png)
+ <use csunplugged/02-part/img/ch07-sort/07-sort-04-bubble.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch07-sort/07-sort-04-bubble.pn
+g used on input line 2364.
+(pdftex.def)             Requested size: 345.0pt x 88.20532pt.
+
+<csunplugged/02-part/img/ch07-sort/07-sort-05-merge.png, id=737, 325.6968pt x 1
+73.448pt>
+File: csunplugged/02-part/img/ch07-sort/07-sort-05-merge.png Graphic file (type
+ png)
+ <use csunplugged/02-part/img/ch07-sort/07-sort-05-merge.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch07-sort/07-sort-05-merge.png
+ used on input line 2377.
+(pdftex.def)             Requested size: 325.696pt x 173.45021pt.
+ [75 <./csunplugged/02-part/img/ch07-sort/07-sort-03-insertion.png> <./csunplug
+ged/02-part/img/ch07-sort/07-sort-04-bubble.png>] [76 <./csunplugged/02-part/im
+g/ch07-sort/07-sort-05-merge.png>] [77]
+Underfull \vbox (badness 10000) detected at line 2514
+ []
+
+[78]
+<csunplugged/02-part/img/ch08-parallel/08-parallel-01-activity.png, id=772, 516
+.9714pt x 216.0873pt>
+File: csunplugged/02-part/img/ch08-parallel/08-parallel-01-activity.png Graphic
+ file (type png)
+
+<use csunplugged/02-part/img/ch08-parallel/08-parallel-01-activity.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch08-parallel/08-parallel-01-a
+ctivity.png used on input line 2519.
+(pdftex.def)             Requested size: 345.0pt x 144.20401pt.
+LaTeX Font Info:    Try loading font information for LUC+uhcmj on input line 25
+37.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/kotex-utf/lucuhcmj.fd
+File: lucuhcmj.fd 2013/09/26 UHC Myeongjo font definitions
+)
+<csunplugged/02-part/img/ch08-parallel/08-parallel-01-activity-solution.png, id
+=773, 388.0899pt x 216.5691pt>
+File: csunplugged/02-part/img/ch08-parallel/08-parallel-01-activity-solution.pn
+g Graphic file (type png)
+
+<use csunplugged/02-part/img/ch08-parallel/08-parallel-01-activity-solution.png
+>
+Package pdftex.def Info: csunplugged/02-part/img/ch08-parallel/08-parallel-01-a
+ctivity-solution.png used on input line 2551.
+(pdftex.def)             Requested size: 345.0pt x 192.5344pt.
+ [79 <./csunplugged/02-part/img/ch08-parallel/08-parallel-01-activity.png>]
+<csunplugged/02-part/img/ch08-parallel/08-parallel-02-photocopy-master-01.png, 
+id=788, 442.2924pt x 414.348pt>
+File: csunplugged/02-part/img/ch08-parallel/08-parallel-02-photocopy-master-01.
+png Graphic file (type png)
+
+<use csunplugged/02-part/img/ch08-parallel/08-parallel-02-photocopy-master-01.p
+ng>
+Package pdftex.def Info: csunplugged/02-part/img/ch08-parallel/08-parallel-02-p
+hotocopy-master-01.png used on input line 2555.
+(pdftex.def)             Requested size: 345.0pt x 323.2091pt.
+
+Overfull \hbox (125.3674pt too wide) in paragraph at lines 2555--2556
+ []\LUC/nanummj/bx/n/10/bc ı\LUC/nanummj/bx/n/10/c0 ¨ \LUC/nanummj/bx/n/10/b9 »
+\LUC/nanummj/bx/n/10/c2 §\LUC/nanummj/bx/n/10/d1 0\T1/lmr/bx/n/10 : \LUC/nanumm
+j/bx/n/10/c8 ^^U\LUC/nanummj/bx/n/10/b8 , \LUC/nanummj/bx/n/10/b1 $\LUC/nanummj
+/bx/n/10/d2 ∏\LUC/nanummj/bx/n/10/c6 Ã\LUC/nanummj/bx/n/10/d0 l[] [] 
+ []
+
+
+<csunplugged/02-part/img/ch08-parallel/08-parallel-02-photocopy-master-02.png, 
+id=789, 437.4744pt x 414.348pt> [80 <./csunplugged/02-part/img/ch08-parallel/08
+-parallel-01-activity-solution.png>]
+File: csunplugged/02-part/img/ch08-parallel/08-parallel-02-photocopy-master-02.
+png Graphic file (type png)
+
+<use csunplugged/02-part/img/ch08-parallel/08-parallel-02-photocopy-master-02.p
+ng>
+Package pdftex.def Info: csunplugged/02-part/img/ch08-parallel/08-parallel-02-p
+hotocopy-master-02.png used on input line 2557.
+(pdftex.def)             Requested size: 345.0pt x 326.76231pt.
+ [81 <./csunplugged/02-part/img/ch08-parallel/08-parallel-02-photocopy-master-0
+1.png>] [82 <./csunplugged/02-part/img/ch08-parallel/08-parallel-02-photocopy-m
+aster-02.png>]
+<csunplugged/02-part/img/ch08-parallel/08-parallel-03-own-network.png, id=808, 
+211.7511pt x 106.7187pt>
+File: csunplugged/02-part/img/ch08-parallel/08-parallel-03-own-network.png Grap
+hic file (type png)
+
+<use csunplugged/02-part/img/ch08-parallel/08-parallel-03-own-network.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch08-parallel/08-parallel-03-o
+wn-network.png used on input line 2585.
+(pdftex.def)             Requested size: 211.75056pt x 106.71843pt.
+
+<csunplugged/02-part/img/ch08-parallel/08-parallel-04-two-networks.png, id=809,
+ 624.1719pt x 140.9265pt>
+File: csunplugged/02-part/img/ch08-parallel/08-parallel-04-two-networks.png Gra
+phic file (type png)
+
+<use csunplugged/02-part/img/ch08-parallel/08-parallel-04-two-networks.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch08-parallel/08-parallel-04-t
+wo-networks.png used on input line 2593.
+(pdftex.def)             Requested size: 345.0pt x 77.89471pt.
+
+<csunplugged/02-part/img/ch08-parallel/08-parallel-05-minimum-networks.png, id=
+810, 278.4804pt x 304.0158pt>
+File: csunplugged/02-part/img/ch08-parallel/08-parallel-05-minimum-networks.png
+ Graphic file (type png)
+
+<use csunplugged/02-part/img/ch08-parallel/08-parallel-05-minimum-networks.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch08-parallel/08-parallel-05-m
+inimum-networks.png used on input line 2601.
+(pdftex.def)             Requested size: 278.4797pt x 304.02432pt.
+[83 <./csunplugged/02-part/img/ch08-parallel/08-parallel-03-own-network.png> <.
+/csunplugged/02-part/img/ch08-parallel/08-parallel-04-two-networks.png>]
+[84 <./csunplugged/02-part/img/ch08-parallel/08-parallel-05-minimum-networks.pn
+g>] [85]
+<csunplugged/02-part/img/ch09-spanning-tree/09-spanning-tree-01-muddy-city-sol.
+png, id=830, 717.6411pt x 224.2779pt>
+File: csunplugged/02-part/img/ch09-spanning-tree/09-spanning-tree-01-muddy-city
+-sol.png Graphic file (type png)
+
+<use csunplugged/02-part/img/ch09-spanning-tree/09-spanning-tree-01-muddy-city-
+sol.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch09-spanning-tree/09-spanning
+-tree-01-muddy-city-sol.png used on input line 2699.
+(pdftex.def)             Requested size: 345.0pt x 107.81984pt.
+ [86 <./csunplugged/02-part/img/ch09-spanning-tree/09-spanning-tree-01-muddy-ci
+ty-sol.png>]
+<csunplugged/02-part/img/ch09-spanning-tree/09-spanning-tree-01-muddy-city-prob
+lem.png, id=841, 548.2884pt x 356.532pt>
+File: csunplugged/02-part/img/ch09-spanning-tree/09-spanning-tree-01-muddy-city
+-problem.png Graphic file (type png)
+
+<use csunplugged/02-part/img/ch09-spanning-tree/09-spanning-tree-01-muddy-city-
+problem.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch09-spanning-tree/09-spanning
+-tree-01-muddy-city-problem.png used on input line 2739.
+(pdftex.def)             Requested size: 345.0pt x 224.33888pt.
+ [87]
+<csunplugged/02-part/img/ch09-spanning-tree/09-spanning-tree-02-muddy-city-grap
+h.png, id=849, 344.9688pt x 211.992pt>
+File: csunplugged/02-part/img/ch09-spanning-tree/09-spanning-tree-02-muddy-city
+-graph.png Graphic file (type png)
+
+<use csunplugged/02-part/img/ch09-spanning-tree/09-spanning-tree-02-muddy-city-
+graph.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch09-spanning-tree/09-spanning
+-tree-02-muddy-city-graph.png used on input line 2745.
+(pdftex.def)             Requested size: 344.96794pt x 212.00763pt.
+ [88 <./csunplugged/02-part/img/ch09-spanning-tree/09-spanning-tree-01-muddy-ci
+ty-problem.png> <./csunplugged/02-part/img/ch09-spanning-tree/09-spanning-tree-
+02-muddy-city-graph.png>] [89]
+<csunplugged/02-part/img/ch10-network/10-network-01-orange-game.png, id=863, 43
+2.4155pt x 305.943pt>
+File: csunplugged/02-part/img/ch10-network/10-network-01-orange-game.png Graphi
+c file (type png)
+
+<use csunplugged/02-part/img/ch10-network/10-network-01-orange-game.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch10-network/10-network-01-ora
+nge-game.png used on input line 2812.
+(pdftex.def)             Requested size: 345.0pt x 244.09648pt.
+
+[90 <./csunplugged/02-part/img/ch10-network/10-network-01-orange-game.png>]
+Underfull \vbox (badness 10000) detected at line 2871
+ []
+
+
+Overfull \vbox (31.95288pt too high) has occurred while \output is active []
+
+
+[91]
+<csunplugged/02-part/img/ch10-network/10-network-02-activity.png, id=884, 208.1
+376pt x 272.6988pt>
+File: csunplugged/02-part/img/ch10-network/10-network-02-activity.png Graphic f
+ile (type png)
+
+<use csunplugged/02-part/img/ch10-network/10-network-02-activity.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch10-network/10-network-02-act
+ivity.png used on input line 2930.
+(pdftex.def)             Requested size: 208.13708pt x 272.7106pt.
+ [92]
+[93 <./csunplugged/02-part/img/ch10-network/10-network-02-activity.png>]
+[94] [95] [96]
+<csunplugged/02-part/img/ch11-internet/11-internet-action-cards.png, id=934, 65
+8.46pt x 877.2775pt>
+File: csunplugged/02-part/img/ch11-internet/11-internet-action-cards.png Graphi
+c file (type png)
+
+<use csunplugged/02-part/img/ch11-internet/11-internet-action-cards.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch11-internet/11-internet-acti
+on-cards.png used on input line 3095.
+(pdftex.def)             Requested size: 345.0pt x 459.65395pt.
+
+Overfull \hbox (187.65427pt too wide) in paragraph at lines 3095--3096
+ []\LUC/nanummj/bx/n/10/c6 Ã\LUC/nanummj/bx/n/10/d0 l\LUC/nanummj/bx/n/10/c2 ‹\
+LUC/nanummj/bx/n/10/d2 ∏ \LUC/nanummj/bx/n/10/d6 \\LUC/nanummj/bx/n/10/b3 Ÿ\T1/
+lmr/bx/n/10 : \LUC/nanummj/bx/n/10/d6 \\LUC/nanummj/bx/n/10/b3 Ÿ\LUC/nanummj/bx
+/n/10/ce t\LUC/nanummj/bx/n/10/b4 ‹\T1/lmr/bx/n/10 (Ac-tion Cards)[] [] 
+ []
+
+[97]
+<csunplugged/02-part/img/ch11-internet/11-internet-messages.png, id=940, 664.48
+25pt x 877.2775pt>
+File: csunplugged/02-part/img/ch11-internet/11-internet-messages.png Graphic fi
+le (type png)
+
+<use csunplugged/02-part/img/ch11-internet/11-internet-messages.png>
+Package pdftex.def Info: csunplugged/02-part/img/ch11-internet/11-internet-mess
+ages.png used on input line 3099.
+(pdftex.def)             Requested size: 345.0pt x 455.49084pt.
+
+Overfull \hbox (125.36357pt too wide) in paragraph at lines 3099--3100
+ []\LUC/nanummj/bx/n/10/c6 Ã\LUC/nanummj/bx/n/10/d0 l\LUC/nanummj/bx/n/10/c2 ‹\
+LUC/nanummj/bx/n/10/d2 ∏ \LUC/nanummj/bx/n/10/d6 \\LUC/nanummj/bx/n/10/b3 Ÿ\T1/
+lmr/bx/n/10 : \LUC/nanummj/bx/n/10/ba T\LUC/nanummj/bx/n/10/c2 ‹\LUC/nanummj/bx
+/n/10/c9 ¿ \LUC/nanummj/bx/n/10/c8 ^^D\LUC/nanummj/bx/n/10/b2 Ï[] [] 
+ []
+
+[98 <./csunplugged/02-part/img/ch11-internet/11-internet-action-cards.png>]
+[99 <./csunplugged/02-part/img/ch11-internet/11-internet-messages.png>]
+[100]
+<csunplugged/03-part/img/03-part-three.png, id=970, 302.3295pt x 185.9748pt>
+File: csunplugged/03-part/img/03-part-three.png Graphic file (type png)
+
+<use csunplugged/03-part/img/03-part-three.png>
+Package pdftex.def Info: csunplugged/03-part/img/03-part-three.png used on inpu
+t line 3193.
+(pdftex.def)             Requested size: 302.32875pt x 185.98283pt.
+ [101] [102 <./csunplugged/03-part/img/03-part-three.png>]
+Underfull \vbox (badness 10000) detected at line 3277
+ []
+
+[103]
+<csunplugged/03-part/img/ch12-fsm/11-fsm-01-three-islands.png, id=995, 383.031p
+t x 274.626pt>
+File: csunplugged/03-part/img/ch12-fsm/11-fsm-01-three-islands.png Graphic file
+ (type png)
+
+<use csunplugged/03-part/img/ch12-fsm/11-fsm-01-three-islands.png>
+Package pdftex.def Info: csunplugged/03-part/img/ch12-fsm/11-fsm-01-three-islan
+ds.png used on input line 3296.
+(pdftex.def)             Requested size: 345.0pt x 247.37482pt.
+
+<csunplugged/03-part/img/ch12-fsm/11-fsm-01-three-islands-demo.png, id=996, 383
+.031pt x 274.626pt> [104 <./csunplugged/03-part/img/ch12-fsm/11-fsm-01-three-is
+lands.png>]
+File: csunplugged/03-part/img/ch12-fsm/11-fsm-01-three-islands-demo.png Graphic
+ file (type png)
+
+<use csunplugged/03-part/img/ch12-fsm/11-fsm-01-three-islands-demo.png>
+Package pdftex.def Info: csunplugged/03-part/img/ch12-fsm/11-fsm-01-three-islan
+ds-demo.png used on input line 3311.
+(pdftex.def)             Requested size: 345.0pt x 247.37482pt.
+
+<csunplugged/03-part/img/ch12-fsm/11-fsm-01-three-islands-cards.png, id=1003, 6
+38.385pt x 341.3553pt>
+File: csunplugged/03-part/img/ch12-fsm/11-fsm-01-three-islands-cards.png Graphi
+c file (type png)
+
+<use csunplugged/03-part/img/ch12-fsm/11-fsm-01-three-islands-cards.png>
+Package pdftex.def Info: csunplugged/03-part/img/ch12-fsm/11-fsm-01-three-islan
+ds-cards.png used on input line 3315.
+(pdftex.def)             Requested size: 345.0pt x 184.47495pt.
+
+Overfull \hbox (103.17038pt too wide) in paragraph at lines 3315--3316
+ []\LUC/nanummj/bx/n/10/c2 ‹\LUC/nanummj/bx/n/10/c5  \LUC/nanummj/bx/n/10/d6 \
+\LUC/nanummj/bx/n/10/b3 Ÿ\LUC/nanummj/bx/n/10/c7 D ^^D\LUC/nanummj/bx/n/10/d5 \
+ \LUC/nanummj/bx/n/10/ce t\LUC/nanummj/bx/n/10/b4 ‹[] [] 
+ []
+
+[105 <./csunplugged/03-part/img/ch12-fsm/11-fsm-01-three-islands-demo.png> <./c
+sunplugged/03-part/img/ch12-fsm/11-fsm-01-three-islands-cards.png>]
+<csunplugged/03-part/img/ch12-fsm/11-fsm-02-treasury-map.png, id=1010, 597.1911
+pt x 443.4969pt>
+File: csunplugged/03-part/img/ch12-fsm/11-fsm-02-treasury-map.png Graphic file 
+(type png)
+
+<use csunplugged/03-part/img/ch12-fsm/11-fsm-02-treasury-map.png>
+Package pdftex.def Info: csunplugged/03-part/img/ch12-fsm/11-fsm-02-treasury-ma
+p.png used on input line 3330.
+(pdftex.def)             Requested size: 345.0pt x 256.20653pt.
+
+<csunplugged/03-part/img/ch12-fsm/11-fsm-03-treasury-map-blank.png, id=1011, 59
+7.1911pt x 443.4969pt>
+File: csunplugged/03-part/img/ch12-fsm/11-fsm-03-treasury-map-blank.png Graphic
+ file (type png)
+
+<use csunplugged/03-part/img/ch12-fsm/11-fsm-03-treasury-map-blank.png>
+Package pdftex.def Info: csunplugged/03-part/img/ch12-fsm/11-fsm-03-treasury-ma
+p-blank.png used on input line 3342.
+(pdftex.def)             Requested size: 345.0pt x 256.20653pt.
+
+Overfull \hbox (231.22844pt too wide) in paragraph at lines 3342--3343
+ []\LUC/nanummj/bx/n/10/c6 Ã\LUC/nanummj/bx/n/10/d0 l\LUC/nanummj/bx/n/10/c2 ‹\
+LUC/nanummj/bx/n/10/d2 ∏ \LUC/nanummj/bx/n/10/d6 \\LUC/nanummj/bx/n/10/b3 Ÿ\T1/
+lmr/bx/n/10 : \LUC/nanummj/bx/n/10/bc Ù\LUC/nanummj/bx/n/10/bb <\LUC/nanummj/bx
+/n/10/c1 ,\LUC/nanummj/bx/n/10/c7 X \LUC/nanummj/bx/n/10/bc Ù\LUC/nanummj/bx/n/
+10/bb <\LUC/nanummj/bx/n/10/ae L\LUC/nanummj/bx/n/10/c9 ¿ \LUC/nanummj/bx/n/10/
+ac ^^@\LUC/nanummj/bx/n/10/b2 î \LUC/nanummj/bx/n/10/ae 8\LUC/nanummj/bx/n/10/c
+7 D \LUC/nanummj/bx/n/10/cc >\LUC/nanummj/bx/n/10/c5 D\LUC/nanummj/bx/n/10/b7 |
+\T1/lmr/bx/n/10 .[] [] 
+ []
+
+[106 <./csunplugged/03-part/img/ch12-fsm/11-fsm-02-treasury-map.png>]
+<csunplugged/03-part/img/ch12-fsm/11-fsm-04-treasury-map-card01.png, id=1017, 8
+52.786pt x 341.3553pt>
+File: csunplugged/03-part/img/ch12-fsm/11-fsm-04-treasury-map-card01.png Graphi
+c file (type png)
+
+<use csunplugged/03-part/img/ch12-fsm/11-fsm-04-treasury-map-card01.png>
+Package pdftex.def Info: csunplugged/03-part/img/ch12-fsm/11-fsm-04-treasury-ma
+p-card01.png used on input line 3346.
+(pdftex.def)             Requested size: 345.0pt x 138.09708pt.
+
+Overfull \hbox (96.86745pt too wide) in paragraph at lines 3346--3347
+ []\LUC/nanummj/bx/n/10/bc ı\LUC/nanummj/bx/n/10/c0 ¨ \LUC/nanummj/bx/n/10/b9 »
+\LUC/nanummj/bx/n/10/c2 §\LUC/nanummj/bx/n/10/d1 0\T1/lmr/bx/n/10 : \LUC/nanumm
+j/bx/n/10/c1 , \LUC/nanummj/bx/n/10/ce t\LUC/nanummj/bx/n/10/b4 ‹[] [] 
+ []
+
+
+<csunplugged/03-part/img/ch12-fsm/11-fsm-04-treasury-map-card02.png, id=1018, 6
+37.4214pt x 341.3553pt>
+File: csunplugged/03-part/img/ch12-fsm/11-fsm-04-treasury-map-card02.png Graphi
+c file (type png)
+
+<use csunplugged/03-part/img/ch12-fsm/11-fsm-04-treasury-map-card02.png>
+Package pdftex.def Info: csunplugged/03-part/img/ch12-fsm/11-fsm-04-treasury-ma
+p-card02.png used on input line 3348.
+(pdftex.def)             Requested size: 345.0pt x 184.75621pt.
+
+[107 <./csunplugged/03-part/img/ch12-fsm/11-fsm-03-treasury-map-blank.png> <./c
+sunplugged/03-part/img/ch12-fsm/11-fsm-04-treasury-map-card01.png>]
+<csunplugged/03-part/img/ch12-fsm/11-fsm-05-finite-state-automata.png, id=1025,
+ 625.6173pt x 137.0721pt>
+File: csunplugged/03-part/img/ch12-fsm/11-fsm-05-finite-state-automata.png Grap
+hic file (type png)
+
+<use csunplugged/03-part/img/ch12-fsm/11-fsm-05-finite-state-automata.png>
+Package pdftex.def Info: csunplugged/03-part/img/ch12-fsm/11-fsm-05-finite-stat
+e-automata.png used on input line 3354.
+(pdftex.def)             Requested size: 345.0pt x 75.59067pt.
+
+[108 <./csunplugged/03-part/img/ch12-fsm/11-fsm-04-treasury-map-card02.png> <./
+csunplugged/03-part/img/ch12-fsm/11-fsm-05-finite-state-automata.png>]
+<csunplugged/03-part/img/ch12-fsm/11-fsm-06-worksheet-01.png, id=1031, 225.4824
+pt x 212.7147pt>
+File: csunplugged/03-part/img/ch12-fsm/11-fsm-06-worksheet-01.png Graphic file 
+(type png)
+
+<use csunplugged/03-part/img/ch12-fsm/11-fsm-06-worksheet-01.png>
+Package pdftex.def Info: csunplugged/03-part/img/ch12-fsm/11-fsm-06-worksheet-0
+1.png used on input line 3384.
+(pdftex.def)             Requested size: 225.48184pt x 212.7239pt.
+
+<csunplugged/03-part/img/ch12-fsm/11-fsm-06-worksheet-02.png, id=1032, 411.4572
+pt x 240.6591pt>
+File: csunplugged/03-part/img/ch12-fsm/11-fsm-06-worksheet-02.png Graphic file 
+(type png)
+
+<use csunplugged/03-part/img/ch12-fsm/11-fsm-06-worksheet-02.png>
+Package pdftex.def Info: csunplugged/03-part/img/ch12-fsm/11-fsm-06-worksheet-0
+2.png used on input line 3408.
+(pdftex.def)             Requested size: 345.0pt x 201.79607pt.
+ [109 <./csunplugged/03-part/img/ch12-fsm/11-fsm-06-worksheet-01.png>]
+Overfull \hbox (689.247pt too wide) in paragraph at lines 3426--3426
+[]\T1/lmtt/m/n/10 h h t h h t h h h t t h h h h t t h t t t h h h h h t h h h t
+ t t h h h t t t h h h h h h t t h t t t t t h t t h t t t h h h t t h h h t h 
+h h h h h h h h t t h h h t t t t h h h h h t t t t t t t[] 
+ []
+
+[110 <./csunplugged/03-part/img/ch12-fsm/11-fsm-06-worksheet-02.png>]
+<csunplugged/03-part/img/ch12-fsm/11-fsm-07-pirate.png, id=1046, 284.5029pt x 2
+32.9503pt>
+File: csunplugged/03-part/img/ch12-fsm/11-fsm-07-pirate.png Graphic file (type 
+png)
+ <use csunplugged/03-part/img/ch12-fsm/11-fsm-07-pirate.png>
+Package pdftex.def Info: csunplugged/03-part/img/ch12-fsm/11-fsm-07-pirate.png 
+used on input line 3473.
+(pdftex.def)             Requested size: 284.5022pt x 232.94972pt.
+ [111]
+<csunplugged/03-part/img/ch12-fsm/11-fsm-08-coin-toss.png, id=1052, 142.131pt x
+ 117.0774pt>
+File: csunplugged/03-part/img/ch12-fsm/11-fsm-08-coin-toss.png Graphic file (ty
+pe png)
+ <use csunplugged/03-part/img/ch12-fsm/11-fsm-08-coin-toss.png>
+Package pdftex.def Info: csunplugged/03-part/img/ch12-fsm/11-fsm-08-coin-toss.p
+ng used on input line 3481.
+(pdftex.def)             Requested size: 142.13063pt x 117.08067pt.
+
+[112 <./csunplugged/03-part/img/ch12-fsm/11-fsm-07-pirate.png> <./csunplugged/0
+3-part/img/ch12-fsm/11-fsm-08-coin-toss.png>]
+<csunplugged/03-part/img/ch13-language/12-language-01-picture.png, id=1059, 387
+.1263pt x 525.8847pt>
+File: csunplugged/03-part/img/ch13-language/12-language-01-picture.png Graphic 
+file (type png)
+
+<use csunplugged/03-part/img/ch13-language/12-language-01-picture.png>
+Package pdftex.def Info: csunplugged/03-part/img/ch13-language/12-language-01-p
+icture.png used on input line 3530.
+(pdftex.def)             Requested size: 345.0pt x 468.6538pt.
+ [113]
+[114 <./csunplugged/03-part/img/ch13-language/12-language-01-picture.png>]
+<csunplugged/03-part/img/ch13-language/12-language-02-name.png, id=1078, 242.58
+63pt x 155.1396pt>
+File: csunplugged/03-part/img/ch13-language/12-language-02-name.png Graphic fil
+e (type png)
+
+<use csunplugged/03-part/img/ch13-language/12-language-02-name.png>
+Package pdftex.def Info: csunplugged/03-part/img/ch13-language/12-language-02-n
+ame.png used on input line 3577.
+(pdftex.def)             Requested size: 242.58571pt x 155.14394pt.
+ [115]
+[116 <./csunplugged/03-part/img/ch13-language/12-language-02-name.png>]
+<csunplugged/03-part/img/ch13-language/12-language-03-bug.png, id=1099, 171.761
+7pt x 154.4169pt>
+File: csunplugged/03-part/img/ch13-language/12-language-03-bug.png Graphic file
+ (type png)
+
+<use csunplugged/03-part/img/ch13-language/12-language-03-bug.png>
+Package pdftex.def Info: csunplugged/03-part/img/ch13-language/12-language-03-b
+ug.png used on input line 3645.
+(pdftex.def)             Requested size: 171.76128pt x 154.42592pt.
+ [117]
+[118 <./csunplugged/03-part/img/ch13-language/12-language-03-bug.png>] [119]
+[120]
+<csunplugged/04-part/img/ch14-coloring/13-coloring-01-painter.png, id=1131, 464
+.4552pt x 366.168pt>
+File: csunplugged/04-part/img/ch14-coloring/13-coloring-01-painter.png Graphic 
+file (type png)
+
+<use csunplugged/04-part/img/ch14-coloring/13-coloring-01-painter.png>
+Package pdftex.def Info: csunplugged/04-part/img/ch14-coloring/13-coloring-01-p
+ainter.png used on input line 3782.
+(pdftex.def)             Requested size: 345.0pt x 271.9993pt.
+ [121 <./csunplugged/04-part/img/ch14-coloring/13-coloring-01-painter.png>]
+<csunplugged/04-part/img/ch14-coloring/13-coloring-02-four-countries.png, id=11
+41, 203.8014pt x 193.6836pt>
+File: csunplugged/04-part/img/ch14-coloring/13-coloring-02-four-countries.png G
+raphic file (type png)
+
+<use csunplugged/04-part/img/ch14-coloring/13-coloring-02-four-countries.png>
+Package pdftex.def Info: csunplugged/04-part/img/ch14-coloring/13-coloring-02-f
+our-countries.png used on input line 3802.
+(pdftex.def)             Requested size: 203.80089pt x 193.68605pt.
+
+[122 <./csunplugged/04-part/img/ch14-coloring/13-coloring-02-four-countries.png
+>]
+<csunplugged/04-part/img/ch14-coloring/13-coloring-03-coloring-countries.png, i
+d=1147, 401.3394pt x 613.0905pt>
+File: csunplugged/04-part/img/ch14-coloring/13-coloring-03-coloring-countries.p
+ng Graphic file (type png)
+
+<use csunplugged/04-part/img/ch14-coloring/13-coloring-03-coloring-countries.pn
+g>
+Package pdftex.def Info: csunplugged/04-part/img/ch14-coloring/13-coloring-03-c
+oloring-countries.png used on input line 3846.
+(pdftex.def)             Requested size: 345.0pt x 527.05109pt.
+ [123] [124 <./csunplugged/04-part/img/ch14-coloring/13-coloring-03-coloring-co
+untries.png>]
+<csunplugged/04-part/img/ch14-coloring/13-coloring-04-coloring-countries.png, i
+d=1157, 401.3394pt x 532.8708pt>
+File: csunplugged/04-part/img/ch14-coloring/13-coloring-04-coloring-countries.p
+ng Graphic file (type png)
+
+<use csunplugged/04-part/img/ch14-coloring/13-coloring-04-coloring-countries.pn
+g>
+Package pdftex.def Info: csunplugged/04-part/img/ch14-coloring/13-coloring-04-c
+oloring-countries.png used on input line 3854.
+(pdftex.def)             Requested size: 345.0pt x 458.0892pt.
+ [125 <./csunplugged/04-part/img/ch14-coloring/13-coloring-04-coloring-countrie
+s.png>]
+<csunplugged/04-part/img/ch14-coloring/13-coloring-05-coloring-countries.png, i
+d=1163, 401.3394pt x 613.0905pt>
+File: csunplugged/04-part/img/ch14-coloring/13-coloring-05-coloring-countries.p
+ng Graphic file (type png)
+
+<use csunplugged/04-part/img/ch14-coloring/13-coloring-05-coloring-countries.pn
+g>
+Package pdftex.def Info: csunplugged/04-part/img/ch14-coloring/13-coloring-05-c
+oloring-countries.png used on input line 3862.
+(pdftex.def)             Requested size: 345.0pt x 527.05109pt.
+ [126] [127 <./csunplugged/04-part/img/ch14-coloring/13-coloring-05-coloring-co
+untries.png>]
+<csunplugged/04-part/img/ch14-coloring/13-coloring-06-coloring-countries.png, i
+d=1174, 430.9701pt x 577.4373pt>
+File: csunplugged/04-part/img/ch14-coloring/13-coloring-06-coloring-countries.p
+ng Graphic file (type png)
+
+<use csunplugged/04-part/img/ch14-coloring/13-coloring-06-coloring-countries.pn
+g>
+Package pdftex.def Info: csunplugged/04-part/img/ch14-coloring/13-coloring-06-c
+oloring-countries.png used on input line 3870.
+(pdftex.def)             Requested size: 345.0pt x 462.25003pt.
+ [128 <./csunplugged/04-part/img/ch14-coloring/13-coloring-06-coloring-countrie
+s.png>]
+File: csunplugged/04-part/img/ch14-coloring/13-coloring-06-coloring-countries.p
+ng Graphic file (type png)
+
+<use csunplugged/04-part/img/ch14-coloring/13-coloring-06-coloring-countries.pn
+g>
+Package pdftex.def Info: csunplugged/04-part/img/ch14-coloring/13-coloring-06-c
+oloring-countries.png used on input line 3880.
+(pdftex.def)             Requested size: 345.0pt x 462.25003pt.
+ [129]
+<csunplugged/04-part/img/ch14-coloring/13-coloring-07-four-lands.png, id=1185, 
+302.3295pt x 169.1118pt> [130]
+File: csunplugged/04-part/img/ch14-coloring/13-coloring-07-four-lands.png Graph
+ic file (type png)
+
+<use csunplugged/04-part/img/ch14-coloring/13-coloring-07-four-lands.png>
+Package pdftex.def Info: csunplugged/04-part/img/ch14-coloring/13-coloring-07-f
+our-lands.png used on input line 3923.
+(pdftex.def)             Requested size: 302.32875pt x 169.11911pt.
+
+<csunplugged/04-part/img/ch14-coloring/13-coloring-07-school-subject.png, id=11
+91, 355.0866pt x 230.7822pt>
+File: csunplugged/04-part/img/ch14-coloring/13-coloring-07-school-subject.png G
+raphic file (type png)
+
+<use csunplugged/04-part/img/ch14-coloring/13-coloring-07-school-subject.png>
+Package pdftex.def Info: csunplugged/04-part/img/ch14-coloring/13-coloring-07-s
+chool-subject.png used on input line 3943.
+(pdftex.def)             Requested size: 345.0pt x 224.23877pt.
+
+[131 <./csunplugged/04-part/img/ch14-coloring/13-coloring-07-four-lands.png>]
+[132 <./csunplugged/04-part/img/ch14-coloring/13-coloring-07-school-subject.png
+>] [133]
+<csunplugged/04-part/img/ch14-coloring/13-coloring-08-solution.png, id=1214, 40
+1.3394pt x 613.0905pt>
+File: csunplugged/04-part/img/ch14-coloring/13-coloring-08-solution.png Graphic
+ file (type png)
+
+<use csunplugged/04-part/img/ch14-coloring/13-coloring-08-solution.png>
+Package pdftex.def Info: csunplugged/04-part/img/ch14-coloring/13-coloring-08-s
+olution.png used on input line 4022.
+(pdftex.def)             Requested size: 345.0pt x 527.05109pt.
+
+[134]
+<csunplugged/04-part/img/ch14-coloring/13-coloring-09-solution.png, id=1222, 40
+1.3394pt x 532.8708pt> [135 <./csunplugged/04-part/img/ch14-coloring/13-colorin
+g-08-solution.png>]
+File: csunplugged/04-part/img/ch14-coloring/13-coloring-09-solution.png Graphic
+ file (type png)
+
+<use csunplugged/04-part/img/ch14-coloring/13-coloring-09-solution.png>
+Package pdftex.def Info: csunplugged/04-part/img/ch14-coloring/13-coloring-09-s
+olution.png used on input line 4026.
+(pdftex.def)             Requested size: 345.0pt x 458.0892pt.
+
+<csunplugged/04-part/img/ch14-coloring/13-coloring-10-solution.png, id=1227, 40
+1.3394pt x 613.0905pt>
+File: csunplugged/04-part/img/ch14-coloring/13-coloring-10-solution.png Graphic
+ file (type png)
+
+<use csunplugged/04-part/img/ch14-coloring/13-coloring-10-solution.png>
+Package pdftex.def Info: csunplugged/04-part/img/ch14-coloring/13-coloring-10-s
+olution.png used on input line 4031.
+(pdftex.def)             Requested size: 345.0pt x 527.05109pt.
+
+[136 <./csunplugged/04-part/img/ch14-coloring/13-coloring-09-solution.png>]
+[137 <./csunplugged/04-part/img/ch14-coloring/13-coloring-10-solution.png>]
+[138]
+<csunplugged/04-part/img/ch15-dominating-sets/14-dominating-sets-01-truck.png, 
+id=1245, 459.3963pt x 224.037pt>
+File: csunplugged/04-part/img/ch15-dominating-sets/14-dominating-sets-01-truck.
+png Graphic file (type png)
+
+<use csunplugged/04-part/img/ch15-dominating-sets/14-dominating-sets-01-truck.p
+ng>
+Package pdftex.def Info: csunplugged/04-part/img/ch15-dominating-sets/14-domina
+ting-sets-01-truck.png used on input line 4094.
+(pdftex.def)             Requested size: 345.0pt x 168.25294pt.
+ [139 <./csunplugged/04-part/img/ch15-dominating-sets/14-dominating-sets-01-tru
+ck.png>]
+<csunplugged/04-part/img/ch15-dominating-sets/14-dominating-sets-02-vans-route.
+png, id=1257, 187.6611pt x 214.401pt>
+File: csunplugged/04-part/img/ch15-dominating-sets/14-dominating-sets-02-vans-r
+oute.png Graphic file (type png)
+
+<use csunplugged/04-part/img/ch15-dominating-sets/14-dominating-sets-02-vans-ro
+ute.png>
+Package pdftex.def Info: csunplugged/04-part/img/ch15-dominating-sets/14-domina
+ting-sets-02-vans-route.png used on input line 4150.
+(pdftex.def)             Requested size: 187.66064pt x 214.40373pt.
+ [140]
+<csunplugged/04-part/img/ch15-dominating-sets/14-dominating-sets-03-icecream-va
+ns.png, id=1268, 349.5459pt x 499.8675pt>
+File: csunplugged/04-part/img/ch15-dominating-sets/14-dominating-sets-03-icecre
+am-vans.png Graphic file (type png)
+
+<use csunplugged/04-part/img/ch15-dominating-sets/14-dominating-sets-03-icecrea
+m-vans.png>
+Package pdftex.def Info: csunplugged/04-part/img/ch15-dominating-sets/14-domina
+ting-sets-03-icecream-vans.png used on input line 4157.
+(pdftex.def)             Requested size: 345.0pt x 493.38301pt.
+ [141 <./csunplugged/04-part/img/ch15-dominating-sets/14-dominating-sets-02-van
+s-route.png>]
+<csunplugged/04-part/img/ch15-dominating-sets/14-dominating-sets-03-icecream-va
+ns-sol.png, id=1274, 171.5208pt x 215.6055pt>
+File: csunplugged/04-part/img/ch15-dominating-sets/14-dominating-sets-03-icecre
+am-vans-sol.png Graphic file (type png)
+
+<use csunplugged/04-part/img/ch15-dominating-sets/14-dominating-sets-03-icecrea
+m-vans-sol.png>
+Package pdftex.def Info: csunplugged/04-part/img/ch15-dominating-sets/14-domina
+ting-sets-03-icecream-vans-sol.png used on input line 4161.
+(pdftex.def)             Requested size: 171.52037pt x 215.60825pt.
+
+Overfull \hbox (1.9407pt too wide) in paragraph at lines 4161--4162
+ []\LUC/nanummj/bx/n/10/c6 Ã\LUC/nanummj/bx/n/10/d0 l\LUC/nanummj/bx/n/10/c2 ‹\
+LUC/nanummj/bx/n/10/d2 ∏ \LUC/nanummj/bx/n/10/d6 \\LUC/nanummj/bx/n/10/b3 Ÿ\T1/
+lmr/bx/n/10 : \LUC/nanummj/bx/n/10/c5 D\LUC/nanummj/bx/n/10/c7 t\LUC/nanummj/bx
+/n/10/c2 §\LUC/nanummj/bx/n/10/d0 l\LUC/nanummj/bx/n/10/b9 º \LUC/nanummj/bx/n/
+10/c2 π\LUC/nanummj/bx/n/10/d5 i\LUC/nanummj/bx/n/10/cc ( \LUC/nanummj/bx/n/10/
+d5 t\LUC/nanummj/bx/n/10/bc ï[] [] 
+ []
+
+[142 <./csunplugged/04-part/img/ch15-dominating-sets/14-dominating-sets-03-icec
+ream-vans.png>] [143 <./csunplugged/04-part/img/ch15-dominating-sets/14-dominat
+ing-sets-03-icecream-vans-sol.png>] [144]
+<csunplugged/04-part/img/ch15-dominating-sets/14-dominating-sets-04-variations.
+png, id=1291, 141.4083pt x 118.7637pt>
+File: csunplugged/04-part/img/ch15-dominating-sets/14-dominating-sets-04-variat
+ions.png Graphic file (type png)
+
+<use csunplugged/04-part/img/ch15-dominating-sets/14-dominating-sets-04-variati
+ons.png>
+Package pdftex.def Info: csunplugged/04-part/img/ch15-dominating-sets/14-domina
+ting-sets-04-variations.png used on input line 4231.
+(pdftex.def)             Requested size: 141.40793pt x 118.7634pt.
+ [145 <./csunplugged/04-part/img/ch15-dominating-sets/14-dominating-sets-04-var
+iations.png>] [146]
+<csunplugged/04-part/img/ch16-steiner/15-steiner-01-ice-roads.png, id=1309, 439
+.4016pt x 238.0092pt>
+File: csunplugged/04-part/img/ch16-steiner/15-steiner-01-ice-roads.png Graphic 
+file (type png)
+
+<use csunplugged/04-part/img/ch16-steiner/15-steiner-01-ice-roads.png>
+Package pdftex.def Info: csunplugged/04-part/img/ch16-steiner/15-steiner-01-ice
+-roads.png used on input line 4346.
+(pdftex.def)             Requested size: 345.0pt x 186.88483pt.
+ [147]
+<csunplugged/04-part/img/ch16-steiner/15-steiner-02-three-sites.png, id=1319, 3
+96.0396pt x 78.5334pt>
+File: csunplugged/04-part/img/ch16-steiner/15-steiner-02-three-sites.png Graphi
+c file (type png)
+
+<use csunplugged/04-part/img/ch16-steiner/15-steiner-02-three-sites.png>
+Package pdftex.def Info: csunplugged/04-part/img/ch16-steiner/15-steiner-02-thr
+ee-sites.png used on input line 4364.
+(pdftex.def)             Requested size: 345.0pt x 68.41338pt.
+
+[148 <./csunplugged/04-part/img/ch16-steiner/15-steiner-01-ice-roads.png> <./cs
+unplugged/04-part/img/ch16-steiner/15-steiner-02-three-sites.png>]
+<csunplugged/04-part/img/ch16-steiner/15-steiner-03-four-sites.png, id=1326, 25
+6.7994pt x 236.082pt>
+File: csunplugged/04-part/img/ch16-steiner/15-steiner-03-four-sites.png Graphic
+ file (type png)
+
+<use csunplugged/04-part/img/ch16-steiner/15-steiner-03-four-sites.png>
+Package pdftex.def Info: csunplugged/04-part/img/ch16-steiner/15-steiner-03-fou
+r-sites.png used on input line 4386.
+(pdftex.def)             Requested size: 256.79877pt x 236.09581pt.
+
+[149 <./csunplugged/04-part/img/ch16-steiner/15-steiner-03-four-sites.png>]
+<csunplugged/04-part/img/ch16-steiner/15-steiner-04-drill-sites.png, id=1336, 2
+97.7524pt x 411.939pt>
+File: csunplugged/04-part/img/ch16-steiner/15-steiner-04-drill-sites.png Graphi
+c file (type png)
+
+<use csunplugged/04-part/img/ch16-steiner/15-steiner-04-drill-sites.png>
+Package pdftex.def Info: csunplugged/04-part/img/ch16-steiner/15-steiner-04-dri
+ll-sites.png used on input line 4418.
+(pdftex.def)             Requested size: 297.75166pt x 411.93797pt.
+
+[150]
+<csunplugged/04-part/img/ch16-steiner/15-steiner-04-drill-sites-02.png, id=1345
+, 210.7875pt x 411.2163pt>
+File: csunplugged/04-part/img/ch16-steiner/15-steiner-04-drill-sites-02.png Gra
+phic file (type png)
+
+<use csunplugged/04-part/img/ch16-steiner/15-steiner-04-drill-sites-02.png>
+Package pdftex.def Info: csunplugged/04-part/img/ch16-steiner/15-steiner-04-dri
+ll-sites-02.png used on input line 4424.
+(pdftex.def)             Requested size: 210.78699pt x 411.22156pt.
+
+[151 <./csunplugged/04-part/img/ch16-steiner/15-steiner-04-drill-sites.png>]
+<csunplugged/04-part/img/ch16-steiner/15-steiner-05-variations.png, id=1352, 40
+6.6392pt x 241.6227pt>
+File: csunplugged/04-part/img/ch16-steiner/15-steiner-05-variations.png Graphic
+ file (type png)
+
+<use csunplugged/04-part/img/ch16-steiner/15-steiner-05-variations.png>
+Package pdftex.def Info: csunplugged/04-part/img/ch16-steiner/15-steiner-05-var
+iations.png used on input line 4428.
+(pdftex.def)             Requested size: 345.0pt x 205.0005pt.
+
+Overfull \hbox (60.05676pt too wide) in paragraph at lines 4428--4429
+ []\LUC/nanummj/bx/n/10/bc ¿\LUC/nanummj/bx/n/10/d6 ^^U\LUC/nanummj/bx/n/10/ac 
+¸ \LUC/nanummj/bx/n/10/d6 U\LUC/nanummj/bx/n/10/c7 •[] [] 
+ []
+
+[152 <./csunplugged/04-part/img/ch16-steiner/15-steiner-04-drill-sites-02.png>]
+
+<csunplugged/04-part/img/ch16-steiner/15-steiner-06-first-example.png, id=1357,
+ 227.8914pt x 155.3805pt>
+File: csunplugged/04-part/img/ch16-steiner/15-steiner-06-first-example.png Grap
+hic file (type png)
+
+<use csunplugged/04-part/img/ch16-steiner/15-steiner-06-first-example.png>
+Package pdftex.def Info: csunplugged/04-part/img/ch16-steiner/15-steiner-06-fir
+st-example.png used on input line 4454.
+(pdftex.def)             Requested size: 227.89084pt x 155.3801pt.
+
+<csunplugged/04-part/img/ch16-steiner/15-steiner-06-second-example.png, id=1358
+, 248.8497pt x 248.6088pt>
+File: csunplugged/04-part/img/ch16-steiner/15-steiner-06-second-example.png Gra
+phic file (type png)
+
+<use csunplugged/04-part/img/ch16-steiner/15-steiner-06-second-example.png>
+Package pdftex.def Info: csunplugged/04-part/img/ch16-steiner/15-steiner-06-sec
+ond-example.png used on input line 4456.
+(pdftex.def)             Requested size: 248.84908pt x 248.61195pt.
+
+[153 <./csunplugged/04-part/img/ch16-steiner/15-steiner-05-variations.png>]
+<csunplugged/04-part/img/ch16-steiner/15-steiner-07-ladder-network.png, id=1367
+, 343.5234pt x 90.0966pt>
+File: csunplugged/04-part/img/ch16-steiner/15-steiner-07-ladder-network.png Gra
+phic file (type png)
+
+<use csunplugged/04-part/img/ch16-steiner/15-steiner-07-ladder-network.png>
+Package pdftex.def Info: csunplugged/04-part/img/ch16-steiner/15-steiner-07-lad
+der-network.png used on input line 4465.
+(pdftex.def)             Requested size: 343.52255pt x 90.10187pt.
+
+[154 <./csunplugged/04-part/img/ch16-steiner/15-steiner-06-first-example.png> <
+./csunplugged/04-part/img/ch16-steiner/15-steiner-06-second-example.png>]
+<csunplugged/04-part/img/ch16-steiner/15-steiner-08-minimal-steiner.png, id=137
+3, 275.1078pt x 379.8993pt>
+File: csunplugged/04-part/img/ch16-steiner/15-steiner-08-minimal-steiner.png Gr
+aphic file (type png)
+
+<use csunplugged/04-part/img/ch16-steiner/15-steiner-08-minimal-steiner.png>
+Package pdftex.def Info: csunplugged/04-part/img/ch16-steiner/15-steiner-08-min
+imal-steiner.png used on input line 4478.
+(pdftex.def)             Requested size: 275.10712pt x 379.91576pt.
+
+[155 <./csunplugged/04-part/img/ch16-steiner/15-steiner-07-ladder-network.png>]
+
+<csunplugged/04-part/img/ch16-steiner/15-steiner-09-soap-solution.png, id=1378,
+ 373.1541pt x 194.4063pt>
+File: csunplugged/04-part/img/ch16-steiner/15-steiner-09-soap-solution.png Grap
+hic file (type png)
+
+<use csunplugged/04-part/img/ch16-steiner/15-steiner-09-soap-solution.png>
+Package pdftex.def Info: csunplugged/04-part/img/ch16-steiner/15-steiner-09-soa
+p-solution.png used on input line 4495.
+(pdftex.def)             Requested size: 319.99997pt x 166.72635pt.
+
+[156 <./csunplugged/04-part/img/ch16-steiner/15-steiner-08-minimal-steiner.png>
+] [157 <./csunplugged/04-part/img/ch16-steiner/15-steiner-09-soap-solution.png>
+] [158]
+<csunplugged/04-part/img/ch16-steiner/15-steiner-10-comics.png, id=1397, 495.77
+22pt x 193.9245pt>
+File: csunplugged/04-part/img/ch16-steiner/15-steiner-10-comics.png Graphic fil
+e (type png)
+
+<use csunplugged/04-part/img/ch16-steiner/15-steiner-10-comics.png>
+Package pdftex.def Info: csunplugged/04-part/img/ch16-steiner/15-steiner-10-com
+ics.png used on input line 4570.
+(pdftex.def)             Requested size: 345.0pt x 134.95319pt.
+ [159 <./csunplugged/04-part/img/ch16-steiner/15-steiner-10-comics.png>] [160] 
+[161]
+[162] [163]
+<csunplugged/05-part/img/ch17-info-hiding/16-info-hiding-01-sharing-secrets.png
+, id=1433, 444.2196pt x 176.3388pt>
+File: csunplugged/05-part/img/ch17-info-hiding/16-info-hiding-01-sharing-secret
+s.png Graphic file (type png)
+
+<use csunplugged/05-part/img/ch17-info-hiding/16-info-hiding-01-sharing-secrets
+.png>
+Package pdftex.def Info: csunplugged/05-part/img/ch17-info-hiding/16-info-hidin
+g-01-sharing-secrets.png used on input line 4809.
+(pdftex.def)             Requested size: 345.0pt x 136.95982pt.
+ [164]
+<csunplugged/05-part/img/ch17-info-hiding/16-info-hiding-02-three-digits-number
+.png, id=1444, 199.7061pt x 164.2938pt>
+File: csunplugged/05-part/img/ch17-info-hiding/16-info-hiding-02-three-digits-n
+umber.png Graphic file (type png)
+
+<use csunplugged/05-part/img/ch17-info-hiding/16-info-hiding-02-three-digits-nu
+mber.png>
+Package pdftex.def Info: csunplugged/05-part/img/ch17-info-hiding/16-info-hidin
+g-02-three-digits-number.png used on input line 4821.
+(pdftex.def)             Requested size: 199.70561pt x 164.29338pt.
+ [165 <./csunplugged/05-part/img/ch17-info-hiding/16-info-hiding-01-sharing-sec
+rets.png> <./csunplugged/05-part/img/ch17-info-hiding/16-info-hiding-02-three-d
+igits-number.png>] [166]
+Underfull \hbox (badness 10000) in paragraph at lines 4896--4902
+\T1/lmtt/m/n/10 identification: transaction systems to make Big Brother obsolet
+e.
+ []
+
+[167]
+Underfull \vbox (badness 10000) detected at line 4968
+ []
+
+
+<csunplugged/05-part/img/ch18-crypto/17-crypto-01-peruvian-coin.png, id=1472, 4
+07.6028pt x 296.5479pt>
+File: csunplugged/05-part/img/ch18-crypto/17-crypto-01-peruvian-coin.png Graphi
+c file (type png)
+
+<use csunplugged/05-part/img/ch18-crypto/17-crypto-01-peruvian-coin.png>
+Package pdftex.def Info: csunplugged/05-part/img/ch18-crypto/17-crypto-01-peruv
+ian-coin.png used on input line 4970.
+(pdftex.def)             Requested size: 345.0pt x 251.00352pt.
+
+[168] [169 <./csunplugged/05-part/img/ch18-crypto/17-crypto-01-peruvian-coin.pn
+g>]
+<csunplugged/05-part/img/ch18-crypto/17-crypto-02-and-or-gates.png, id=1491, 24
+2.5863pt x 101.178pt>
+File: csunplugged/05-part/img/ch18-crypto/17-crypto-02-and-or-gates.png Graphic
+ file (type png)
+
+<use csunplugged/05-part/img/ch18-crypto/17-crypto-02-and-or-gates.png>
+Package pdftex.def Info: csunplugged/05-part/img/ch18-crypto/17-crypto-02-and-o
+r-gates.png used on input line 5014.
+(pdftex.def)             Requested size: 242.58571pt x 101.18082pt.
+
+<csunplugged/05-part/img/ch18-crypto/17-crypto-03-and-or-gates.png, id=1492, 30
+7.8702pt x 125.268pt>
+File: csunplugged/05-part/img/ch18-crypto/17-crypto-03-and-or-gates.png Graphic
+ file (type png)
+
+<use csunplugged/05-part/img/ch18-crypto/17-crypto-03-and-or-gates.png>
+Package pdftex.def Info: csunplugged/05-part/img/ch18-crypto/17-crypto-03-and-o
+r-gates.png used on input line 5022.
+(pdftex.def)             Requested size: 307.86943pt x 125.27724pt.
+
+<csunplugged/05-part/img/ch18-crypto/17-crypto-04-and-or-gates.png, id=1493, 24
+4.9953pt x 262.581pt>
+File: csunplugged/05-part/img/ch18-crypto/17-crypto-04-and-or-gates.png Graphic
+ file (type png)
+
+<use csunplugged/05-part/img/ch18-crypto/17-crypto-04-and-or-gates.png>
+Package pdftex.def Info: csunplugged/05-part/img/ch18-crypto/17-crypto-04-and-o
+r-gates.png used on input line 5026.
+(pdftex.def)             Requested size: 244.99469pt x 262.58835pt.
+
+[170 <./csunplugged/05-part/img/ch18-crypto/17-crypto-02-and-or-gates.png> <./c
+sunplugged/05-part/img/ch18-crypto/17-crypto-03-and-or-gates.png>] [171 <./csun
+plugged/05-part/img/ch18-crypto/17-crypto-04-and-or-gates.png>]
+<csunplugged/05-part/img/ch18-crypto/17-crypto-05-input-output.png, id=1505, 49
+5.0495pt x 357.2547pt>
+File: csunplugged/05-part/img/ch18-crypto/17-crypto-05-input-output.png Graphic
+ file (type png)
+
+<use csunplugged/05-part/img/ch18-crypto/17-crypto-05-input-output.png>
+Package pdftex.def Info: csunplugged/05-part/img/ch18-crypto/17-crypto-05-input
+-output.png used on input line 5060.
+(pdftex.def)             Requested size: 345.0pt x 248.97542pt.
+
+[172 <./csunplugged/05-part/img/ch18-crypto/17-crypto-05-input-output.png>]
+<csunplugged/05-part/img/ch18-crypto/17-crypto-06-peruvian-can.png, id=1512, 33
+2.2011pt x 457.71pt>
+File: csunplugged/05-part/img/ch18-crypto/17-crypto-06-peruvian-can.png Graphic
+ file (type png)
+
+<use csunplugged/05-part/img/ch18-crypto/17-crypto-06-peruvian-can.png>
+Package pdftex.def Info: csunplugged/05-part/img/ch18-crypto/17-crypto-06-peruv
+ian-can.png used on input line 5114.
+(pdftex.def)             Requested size: 332.20027pt x 457.72285pt.
+
+Overfull \hbox (134.12065pt too wide) in paragraph at lines 5114--5115
+ []\LUC/nanummj/bx/n/10/c6 Ã\LUC/nanummj/bx/n/10/d0 l\LUC/nanummj/bx/n/10/c2 ‹\
+LUC/nanummj/bx/n/10/d2 ∏ \LUC/nanummj/bx/n/10/d6 \\LUC/nanummj/bx/n/10/b3 Ÿ\T1/
+lmr/bx/n/10 : \LUC/nanummj/bx/n/10/d3 ò\LUC/nanummj/bx/n/10/b8 Ë \LUC/nanummj/b
+x/n/10/b3 Ÿ\LUC/nanummj/bx/n/10/c8 ^^D \LUC/nanummj/bx/n/10/b3 X\LUC/nanummj/bx
+/n/10/c9 ¿\LUC/nanummj/bx/n/10/ae 0[] [] 
+ []
+
+[173] [174 <./csunplugged/05-part/img/ch18-crypto/17-crypto-06-peruvian-can.png
+>]
+<csunplugged/05-part/img/ch18-crypto/17-crypto-07-boole.png, id=1526, 135.8676p
+t x 146.7081pt>
+File: csunplugged/05-part/img/ch18-crypto/17-crypto-07-boole.png Graphic file (
+type png)
+
+<use csunplugged/05-part/img/ch18-crypto/17-crypto-07-boole.png>
+Package pdftex.def Info: csunplugged/05-part/img/ch18-crypto/17-crypto-07-boole
+.png used on input line 5153.
+(pdftex.def)             Requested size: 135.86725pt x 146.71445pt.
+ [175 <./csunplugged/05-part/img/ch18-crypto/17-crypto-07-boole.png>]
+<csunplugged/05-part/img/ch18-crypto/17-crypto-08-basic-gates.png, id=1535, 443
+.256pt x 507.8172pt>
+File: csunplugged/05-part/img/ch18-crypto/17-crypto-08-basic-gates.png Graphic 
+file (type png)
+
+<use csunplugged/05-part/img/ch18-crypto/17-crypto-08-basic-gates.png>
+Package pdftex.def Info: csunplugged/05-part/img/ch18-crypto/17-crypto-08-basic
+-gates.png used on input line 5177.
+(pdftex.def)             Requested size: 345.0pt x 395.2512pt.
+ [176]
+<csunplugged/05-part/img/ch18-crypto/17-crypto-09-boy-can.png, id=1540, 91.7829
+pt x 141.4083pt>
+File: csunplugged/05-part/img/ch18-crypto/17-crypto-09-boy-can.png Graphic file
+ (type png)
+
+<use csunplugged/05-part/img/ch18-crypto/17-crypto-09-boy-can.png>
+Package pdftex.def Info: csunplugged/05-part/img/ch18-crypto/17-crypto-09-boy-c
+an.png used on input line 5181.
+(pdftex.def)             Requested size: 91.78267pt x 141.41008pt.
+ [177 <./csunplugged/05-part/img/ch18-crypto/17-crypto-08-basic-gates.png>] [17
+8 <./csunplugged/05-part/img/ch18-crypto/17-crypto-09-boy-can.png>]
+<csunplugged/05-part/img/ch18-crypto/17-crypto-09-girl-can.png, id=1550, 106.95
+96pt x 142.131pt> [179]
+File: csunplugged/05-part/img/ch18-crypto/17-crypto-09-girl-can.png Graphic fil
+e (type png)
+
+<use csunplugged/05-part/img/ch18-crypto/17-crypto-09-girl-can.png>
+Package pdftex.def Info: csunplugged/05-part/img/ch18-crypto/17-crypto-09-girl-
+can.png used on input line 5255.
+(pdftex.def)             Requested size: 106.95932pt x 142.13713pt.
+ [180 <./csunplugged/05-part/img/ch18-crypto/17-crypto-09-girl-can.png>] [181]
+Underfull \vbox (badness 10000) detected at line 5349
+ []
+
+
+<csunplugged/05-part/img/ch19-public-key/18-public-key-01-kid-crypto.png, id=15
+73, 398.6895pt x 277.5168pt>
+File: csunplugged/05-part/img/ch19-public-key/18-public-key-01-kid-crypto.png G
+raphic file (type png)
+
+<use csunplugged/05-part/img/ch19-public-key/18-public-key-01-kid-crypto.png>
+Package pdftex.def Info: csunplugged/05-part/img/ch19-public-key/18-public-key-
+01-kid-crypto.png used on input line 5351.
+(pdftex.def)             Requested size: 345.0pt x 240.14188pt.
+
+[182 <./csunplugged/05-part/img/ch19-public-key/18-public-key-01-kid-crypto.png
+>]
+<csunplugged/05-part/img/ch19-public-key/18-public-key-02-kid-worksheet.png, id
+=1581, 385.1991pt x 265.4718pt>
+File: csunplugged/05-part/img/ch19-public-key/18-public-key-02-kid-worksheet.pn
+g Graphic file (type png)
+
+<use csunplugged/05-part/img/ch19-public-key/18-public-key-02-kid-worksheet.png
+>
+Package pdftex.def Info: csunplugged/05-part/img/ch19-public-key/18-public-key-
+02-kid-worksheet.png used on input line 5388.
+(pdftex.def)             Requested size: 345.0pt x 237.77199pt.
+ [183 <./csunplugged/05-part/img/ch19-public-key/18-public-key-02-kid-worksheet
+.png>]
+<csunplugged/05-part/img/ch19-public-key/18-public-key-03-public-map.png, id=15
+88, 349.5459pt x 189.3474pt>
+File: csunplugged/05-part/img/ch19-public-key/18-public-key-03-public-map.png G
+raphic file (type png)
+
+<use csunplugged/05-part/img/ch19-public-key/18-public-key-03-public-map.png>
+Package pdftex.def Info: csunplugged/05-part/img/ch19-public-key/18-public-key-
+03-public-map.png used on input line 5411.
+(pdftex.def)             Requested size: 345.0pt x 186.8911pt.
+
+[184 <./csunplugged/05-part/img/ch19-public-key/18-public-key-03-public-map.png
+>]
+<csunplugged/05-part/img/ch19-public-key/18-public-key-04-intersection.png, id=
+1596, 385.1991pt x 265.4718pt>
+File: csunplugged/05-part/img/ch19-public-key/18-public-key-04-intersection.png
+ Graphic file (type png)
+
+<use csunplugged/05-part/img/ch19-public-key/18-public-key-04-intersection.png>
+Package pdftex.def Info: csunplugged/05-part/img/ch19-public-key/18-public-key-
+04-intersection.png used on input line 5471.
+(pdftex.def)             Requested size: 345.0pt x 237.77199pt.
+[185] [186 <./csunplugged/05-part/img/ch19-public-key/18-public-key-04-intersec
+tion.png>]
+<csunplugged/05-part/img/ch19-public-key/18-public-key-05-kid-krypto-map.png, i
+d=1608, 257.763pt x 432.1746pt>
+File: csunplugged/05-part/img/ch19-public-key/18-public-key-05-kid-krypto-map.p
+ng Graphic file (type png)
+
+<use csunplugged/05-part/img/ch19-public-key/18-public-key-05-kid-krypto-map.pn
+g>
+Package pdftex.def Info: csunplugged/05-part/img/ch19-public-key/18-public-key-
+05-kid-krypto-map.png used on input line 5518.
+(pdftex.def)             Requested size: 257.76237pt x 432.19333pt.
+
+Overfull \hbox (158.75464pt too wide) in paragraph at lines 5518--5519
+ []\LUC/nanummj/bx/n/10/c6 Ã\LUC/nanummj/bx/n/10/d0 l\LUC/nanummj/bx/n/10/c2 ‹\
+LUC/nanummj/bx/n/10/d2 ∏ \LUC/nanummj/bx/n/10/d6 \\LUC/nanummj/bx/n/10/b3 Ÿ\T1/
+lmr/bx/n/10 : \LUC/nanummj/bx/n/10/d0 §\LUC/nanummj/bx/n/10/b4 ‹ \LUC/nanummj/b
+x/n/10/d0 l\LUC/nanummj/bx/n/10/b9 Ω\LUC/nanummj/bx/n/10/d1 † \LUC/nanummj/bx/n
+/10/c9 ¿\LUC/nanummj/bx/n/10/b3 ƒ \T1/lmr/bx/n/10 (Kid Krypto Maps)[] [] 
+ []
+
+[187]
+<csunplugged/05-part/img/ch19-public-key/18-public-key-05-encoding.png, id=1615
+, 518.6577pt x 282.5757pt>
+File: csunplugged/05-part/img/ch19-public-key/18-public-key-05-encoding.png Gra
+phic file (type png)
+
+<use csunplugged/05-part/img/ch19-public-key/18-public-key-05-encoding.png>
+Package pdftex.def Info: csunplugged/05-part/img/ch19-public-key/18-public-key-
+05-encoding.png used on input line 5528.
+(pdftex.def)             Requested size: 345.0pt x 187.9622pt.
+
+[188 <./csunplugged/05-part/img/ch19-public-key/18-public-key-05-kid-krypto-map
+.png>] [189 <./csunplugged/05-part/img/ch19-public-key/18-public-key-05-encodin
+g.png>]
+Overfull \hbox (168.69875pt too wide) in paragraph at lines 5595--5599
+[]\T1/lmr/m/n/10 (-20) 9,412,343,607,359,262,946,971,172,136, 294,514,357,528,9
+81,378,983,082,541,347,532,211,942,640,121,301,590,698,634,089,
+ []
+
+[190]
+Overfull \hbox (281.42854pt too wide) in paragraph at lines 5600--5604
+[]\LUC/nanummj/m/n/10/c8 ^^U\LUC/nanummj/m/n/10/b2 ı\LUC/nanummj/m/n/10/c7 @ \T
+1/lmr/m/n/10 (-20) 86,759,222,313,428,390,812,218,077,095,850,708,048,977 \LUC/
+nanummj/m/n/10/ac ¸ \T1/lmr/m/n/10 (-20) 108,488,104,853,637,470,612,961,399,84
+2,972,948,409,834,611,525,790,577,216,753
+ []
+
+[191] [192]
+Underfull \hbox (badness 1931) in paragraph at lines 5692--5705
+[]\LUC/nanummj/m/n/10/c5 Ï\LUC/nanummj/m/n/10/b7 Ï\LUC/nanummj/m/n/10/bd Ñ\LUC/
+nanummj/m/n/10/b4 ‰\LUC/nanummj/m/n/10/c7 t \LUC/nanummj/m/n/10/ce Ù\LUC/nanumm
+j/m/n/10/d4 Ë\LUC/nanummj/m/n/10/d1 0\LUC/nanummj/m/n/10/c6 @ \LUC/nanummj/m/n/
+10/c0 ¡\LUC/nanummj/m/n/10/d6 8\LUC/nanummj/m/n/10/c7 ë\LUC/nanummj/m/n/10/c6 ©
+\LUC/nanummj/m/n/10/d5 X\LUC/nanummj/m/n/10/b2 î \LUC/nanummj/m/n/10/ce Ù\LUC/n
+anummj/m/n/10/d4 Ë\LUC/nanummj/m/n/10/d1 0 \LUC/nanummj/m/n/10/bd ÄÑ\LUC/nanumm
+j/m/n/10/c7 D \LUC/nanumgt/m/n/10/c0 ¨\LUC/nanumgt/m/n/10/c6 ©\LUC/nanumgt/m/n/
+10/c7 ê x\LUC/nanumgt/m/n/10/d1 0\LUC/nanumgt/m/n/10/d3 ò\LUC/nanumgt/m/n/10/c7
+ t\LUC/nanumgt/m/n/10/c2 §\T1/lmtt/m/n/10 (user
+ []
+
+[193] [194] [195]
+Underfull \vbox (badness 10000) detected at line 5855
+ []
+
+[196] [197]
+Overfull \hbox (106.33275pt too wide) in alignment at lines 5915--5927
+ [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 5927
+ []
+
+
+Overfull \hbox (223.49983pt too wide) in alignment at lines 5929--5940
+ [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 5940
+ []
+
+[198]
+<csunplugged/06-part/img/ch20-hci/19-hci-02-stove.png, id=1694, 461.3235pt x 34
+4.0052pt>
+File: csunplugged/06-part/img/ch20-hci/19-hci-02-stove.png Graphic file (type p
+ng)
+ <use csunplugged/06-part/img/ch20-hci/19-hci-02-stove.png>
+Package pdftex.def Info: csunplugged/06-part/img/ch20-hci/19-hci-02-stove.png u
+sed on input line 5974.
+(pdftex.def)             Requested size: 345.0pt x 257.26839pt.
+ [199 <./csunplugged/06-part/img/ch20-hci/19-hci-02-stove.png>] [200]
+<csunplugged/06-part/img/ch20-hci/19-hci-03-cupboard.png, id=1706, 336.5373pt x
+ 322.3242pt>
+File: csunplugged/06-part/img/ch20-hci/19-hci-03-cupboard.png Graphic file (typ
+e png)
+ <use csunplugged/06-part/img/ch20-hci/19-hci-03-cupboard.png>
+Package pdftex.def Info: csunplugged/06-part/img/ch20-hci/19-hci-03-cupboard.pn
+g used on input line 6042.
+(pdftex.def)             Requested size: 336.53647pt x 322.32832pt.
+
+[201 <./csunplugged/06-part/img/ch20-hci/19-hci-03-cupboard.png>]
+<csunplugged/06-part/img/ch20-hci/19-hci-04-open-doors.png, id=1712, 454.0965pt
+ x 414.1071pt>
+File: csunplugged/06-part/img/ch20-hci/19-hci-04-open-doors.png Graphic file (t
+ype png)
+ <use csunplugged/06-part/img/ch20-hci/19-hci-04-open-doors.png>
+Package pdftex.def Info: csunplugged/06-part/img/ch20-hci/19-hci-04-open-doors.
+png used on input line 6077.
+(pdftex.def)             Requested size: 345.0pt x 314.61723pt.
+
+[202 <./csunplugged/06-part/img/ch20-hci/19-hci-04-open-doors.png>]
+<csunplugged/06-part/img/ch20-hci/19-hci-05-stove.png, id=1719, 439.1607pt x 44
+3.0151pt>
+File: csunplugged/06-part/img/ch20-hci/19-hci-05-stove.png Graphic file (type p
+ng)
+ <use csunplugged/06-part/img/ch20-hci/19-hci-05-stove.png>
+Package pdftex.def Info: csunplugged/06-part/img/ch20-hci/19-hci-05-stove.png u
+sed on input line 6084.
+(pdftex.def)             Requested size: 345.0pt x 348.02449pt.
+
+<csunplugged/06-part/img/ch20-hci/19-hci-06-icons.png, id=1720, 430.2474pt x 60
+5.1408pt>
+File: csunplugged/06-part/img/ch20-hci/19-hci-06-icons.png Graphic file (type p
+ng)
+ <use csunplugged/06-part/img/ch20-hci/19-hci-06-icons.png>
+Package pdftex.def Info: csunplugged/06-part/img/ch20-hci/19-hci-06-icons.png u
+sed on input line 6090.
+(pdftex.def)             Requested size: 345.0pt x 485.2675pt.
+ [203 <./csunplugged/06-part/img/ch20-hci/19-hci-05-stove.png>] [204 <./csunplu
+gged/06-part/img/ch20-hci/19-hci-06-icons.png>]
+<csunplugged/06-part/img/ch20-hci/19-hci-07-icon-cards.png, id=1731, 458.6736pt
+ x 594.5412pt>
+File: csunplugged/06-part/img/ch20-hci/19-hci-07-icon-cards.png Graphic file (t
+ype png)
+ <use csunplugged/06-part/img/ch20-hci/19-hci-07-icon-cards.png>
+Package pdftex.def Info: csunplugged/06-part/img/ch20-hci/19-hci-07-icon-cards.
+png used on input line 6097.
+(pdftex.def)             Requested size: 345.0pt x 447.21117pt.
+
+[205 <./csunplugged/06-part/img/ch20-hci/19-hci-07-icon-cards.png>] [206]
+[207]
+<csunplugged/06-part/img/ch21-turing/20-turing-01-conversation.png, id=1750, 51
+3.5988pt x 309.7974pt>
+File: csunplugged/06-part/img/ch21-turing/20-turing-01-conversation.png Graphic
+ file (type png)
+
+<use csunplugged/06-part/img/ch21-turing/20-turing-01-conversation.png>
+Package pdftex.def Info: csunplugged/06-part/img/ch21-turing/20-turing-01-conve
+rsation.png used on input line 6220.
+(pdftex.def)             Requested size: 345.0pt x 208.09734pt.
+
+[208] [209 <./csunplugged/06-part/img/ch21-turing/20-turing-01-conversation.png
+>] [210] [211]
+Underfull \hbox (badness 1968) in paragraph at lines 6375--6378
+[]\T1/lmr/m/n/10 (+20) 34957\LUC/nanummj/m/n/10/c5 – \T1/lmr/m/n/10 (+20) 70764
+\LUC/nanummj/m/n/10/c7 D \LUC/nanummj/m/n/10/b3 T\LUC/nanummj/m/n/10/d5 X\LUC/n
+anummj/m/n/10/ba t\T1/lmr/m/n/10 (+20) ? \LUC/nanummj/m/sl/10 ^^@\LUC/nanummj/m
+/sl/10 ı\LUC/nanummj/m/sl/10 D \LUC/nanummj/m/sl/10 X\LUC/nanummj/m/sl/10 0 \LU
+C/nanummj/m/sl/10 ^^D\LUC/nanummj/m/sl/10 – } \T1/lmr/m/it/10 (+20) 20\LUC/nanu
+mmj/m/sl/10 ^^H\LUC/nanummj/m/sl/10 ^^@\LUC/nanummj/m/sl/10 … \LUC/nanummj/m/sl
+/10 0\LUC/nanummj/m/sl/10 ‰\LUC/nanummj/m/sl/10 ∞\LUC/nanummj/m/sl/10 ‰\T1/lmr/
+m/it/10 (+20) .
+ []
+
+[212]
+Underfull \hbox (badness 10000) in paragraph at lines 6425--6425
+[]\LUC/nanumgt/m/n/10/c9 »\LUC/nanumgt/m/n/10/bb 8\T1/lmtt/m/n/10 : \LUC/nanumg
+t/m/n/10/c6 U\LUC/nanumgt/m/n/10/c7 t \T1/lmtt/m/n/10 K1 \LUC/nanumgt/m/n/10/c5
+ – \LUC/nanumgt/m/n/10/c7 à\LUC/nanumgt/m/n/10/ac ‡\T1/lmtt/m/n/10 , \LUC/nanum
+gt/m/n/10/b2 ‰\LUC/nanumgt/m/n/10/b9 x –\LUC/nanumgt/m/n/10/c7 t \LUC/nanumgt/m
+/n/10/c5 ∆¥\LUC/nanumgt/m/n/10/c6 î\T1/lmtt/m/n/10 . \LUC/nanumgt/m/n/10/b2 ˘\L
+UC/nanumgt/m/n/10/c2 ‡\LUC/nanumgt/m/n/10/c7 @ \LUC/nanumgt/m/n/10/c6 U\LUC/nan
+umgt/m/n/10/c7 t \T1/lmtt/m/n/10 K6, \LUC/nanumgt/m/n/10/b8 È\T1/lmtt/m/n/10 (R
+ook)\LUC/nanumgt/m/n/10/c7 t \T1/lmtt/m/n/10 R1
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6436--6436
+[]\LUC/nanumgt/m/n/10/c9 »\LUC/nanumgt/m/n/10/bb 8\T1/lmtt/m/n/10 : "\LUC/nanum
+gt/m/n/10/b0 ¥\LUC/nanumgt/m/n/10/ac ^^@ \LUC/nanumgt/m/n/10/b2 ˘\LUC/nanumgt/m
+/n/10/c2 ‡\LUC/nanumgt/m/n/10/c7 D \LUC/nanumgt/m/n/10/c5 Ï\LUC/nanumgt/m/n/10/
+b9 Ñ\LUC/nanumgt/m/n/10/b0 †\LUC/nanumgt/m/n/10/ac ¸ \LUC/nanumgt/m/n/10/be D\L
+UC/nanumgt/m/n/10/ad P\LUC/nanumgt/m/n/10/d5 `\LUC/nanumgt/m/n/10/ae L\T1/lmtt/
+m/n/10 ?" \LUC/nanumgt/m/n/10/c1 å\LUC/nanumgt/m/n/10/b1 $\LUC/nanumgt/m/n/10/d
+2 ∏ \LUC/nanumgt/m/n/10/cc ´\LUC/nanumgt/m/n/10/c9 ^^D\LUC/nanumgt/m/n/10/c5 –\
+LUC/nanumgt/m/n/10/c1 ^^\ \T1/lmtt/m/n/10 "\LUC/nanumgt/m/n/10/bd ^^D\LUC/nanum
+gt/m/n/10/b0 †\T1/lmtt/m/n/10 "\LUC/nanumgt/m/n/10/c7 t \LUC/nanumgt/m/n/10/ad 
+¯\LUC/nanumgt/m/n/10/c8 ^^U
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6436--6436
+[]\LUC/nanumgt/m/n/10/c9 »\LUC/nanumgt/m/n/10/bb 8\T1/lmtt/m/n/10 : \LUC/nanumg
+t/m/n/10/cc )\LUC/nanumgt/m/n/10/d5 X\LUC/nanumgt/m/n/10/ac ‡ \LUC/nanumgt/m/n/
+10/c7 u\LUC/nanumgt/m/n/10/c0 ¥\LUC/nanumgt/m/n/10/c2 §\LUC/nanumgt/m/n/10/b7 Ï
+\LUC/nanumgt/m/n/10/c6 ¥ \LUC/nanumgt/m/n/10/b1 x\LUC/nanumgt/m/n/10/c7 x \LUC/
+nanumgt/m/n/10/d5 =\LUC/nanumgt/m/n/10/c7 ^^E\T1/lmtt/m/n/10 (Pickwick)\LUC/nan
+umgt/m/n/10/c5 (\LUC/nanumgt/m/n/10/ac ^^@ \LUC/nanumgt/m/n/10/d0 l\LUC/nanumgt
+/m/n/10/b9 ¨\LUC/nanumgt/m/n/10/c2 §\LUC/nanumgt/m/n/10/b9 »\LUC/nanumgt/m/n/10
+/c2 §\LUC/nanumgt/m/n/10/b9 | \LUC/nanumgt/m/n/10/c0 ›\LUC/nanumgt/m/n/10/ac ^^
+A\LUC/nanumgt/m/n/10/b0 ò
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6436--6436
+[]\LUC/nanumgt/m/n/10/c9 »\LUC/nanumgt/m/n/10/bb 8\T1/lmtt/m/n/10 : \LUC/nanumg
+t/m/n/10/d5 X\LUC/nanumgt/m/n/10/c9 ¿\LUC/nanumgt/m/n/10/b9 Ã\T1/lmtt/m/n/10 , 
+\LUC/nanumgt/m/n/10/d0 l\LUC/nanumgt/m/n/10/b9 ¨\LUC/nanumgt/m/n/10/c2 §\LUC/na
+numgt/m/n/10/b9 »\LUC/nanumgt/m/n/10/c2 §\LUC/nanumgt/m/n/10/b2 î \LUC/nanumgt/
+m/n/10/ac ®\LUC/nanumgt/m/n/10/c6 ∏\LUC/nanumgt/m/n/10/b0 †\LUC/nanumgt/m/n/10/
+c7 t\LUC/nanumgt/m/n/10/ac ‡\T1/lmtt/m/n/10 , \LUC/nanumgt/m/n/10/d5 =\LUC/nanu
+mgt/m/n/10/c7 ^^E \LUC/nanumgt/m/n/10/d5 `\LUC/nanumgt/m/n/10/c5 D\LUC/nanumgt/
+m/n/10/bc Ñ\LUC/nanumgt/m/n/10/c9 ¿\LUC/nanumgt/m/n/10/ac ^^@ \LUC/nanumgt/m/n/
+10/be D\LUC/nanumgt/m/n/10/ad P\LUC/nanumgt/m/n/10/b9 | \LUC/nanumgt/m/n/10/c5 
+∏\LUC/nanumgt/m/n/10/c9 ‚\LUC/nanumgt/m/n/10/c5 D\LUC/nanumgt/m/n/10/d5 \\LUC/n
+anumgt/m/n/10/b2 ‰
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6436--6436
+[]\LUC/nanumgt/m/n/10/b3 ^^@\LUC/nanumgt/m/n/10/b2 ı\T1/lmtt/m/n/10 : \LUC/nanu
+mgt/m/n/10/b2 ˘\LUC/nanumgt/m/n/10/c2 ‡\LUC/nanumgt/m/n/10/c7 t \LUC/nanumgt/m/
+n/10/c9 ƒ¿\LUC/nanumgt/m/n/10/d5 X\LUC/nanumgt/m/n/10/b2 ‰\LUC/nanumgt/m/n/10/a
+c ‡ \LUC/nanumgt/m/n/10/c0 ›\LUC/nanumgt/m/n/10/ac ^^A\LUC/nanumgt/m/n/10/d5 X\
+LUC/nanumgt/m/n/10/c9 ¿ \LUC/nanumgt/m/n/10/c5 JD\LUC/nanumgt/m/n/10/c6 î\T1/lm
+tt/m/n/10 . \LUC/nanumgt/m/n/10/ac ®\LUC/nanumgt/m/n/10/c6 ∏\LUC/nanumgt/m/n/10
+/b0 †\LUC/nanumgt/m/n/10/c7 t \LUC/nanumgt/m/n/10/d0 l\LUC/nanumgt/m/n/10/b9 ¨\
+LUC/nanumgt/m/n/10/c2 §\LUC/nanumgt/m/n/10/b9 »\LUC/nanumgt/m/n/10/c2 §\LUC/nan
+umgt/m/n/10/ac ^^Y\LUC/nanumgt/m/n/10/c7 @ \LUC/nanumgt/m/n/10/d2 π\LUC/nanumgt
+/m/n/10/bc ƒ
+ []
+
+[213] [214] [215]
+Underfull \hbox (badness 10000) in paragraph at lines 6532--6532
+[]\LUC/nanumgt/m/n/10/ce Ù\LUC/nanumgt/m/n/10/d4 Ë\LUC/nanumgt/m/n/10/d1 0\T1/l
+mtt/m/n/10 : \LUC/nanumgt/m/n/10/b0 ®\LUC/nanumgt/m/n/10/c7 ê\LUC/nanumgt/m/n/1
+0/ce \\LUC/nanumgt/m/n/10/ad l\LUC/nanumgt/m/n/10/ac ^^@ \LUC/nanumgt/m/n/10/b2
+ ˘\LUC/nanumgt/m/n/10/c2 ‡\LUC/nanumgt/m/n/10/c7 D \LUC/nanumgt/m/n/10/c5 Ï\LUC
+/nanumgt/m/n/10/ae 0L\LUC/nanumgt/m/n/10/c9 ¿ \LUC/nanumgt/m/n/10/c6 $\LUC/nanu
+mgt/m/n/10/ac å \LUC/nanumgt/m/n/10/d5 à\LUC/nanumgt/m/n/10/b2 ‰î \LUC/nanumgt/
+m/n/10/c0 ¨\LUC/nanumgt/m/n/10/c2 ‰\LUC/nanumgt/m/n/10/ac ¸ \LUC/nanumgt/m/n/10
+/ad ¯\LUC/nanumgt/m/n/10/ac É\LUC/nanumgt/m/n/10/c7 t \LUC/nanumgt/m/n/10/c5 ¥\
+LUC/nanumgt/m/n/10/b5 § \LUC/nanumgt/m/n/10/ad ^^@\LUC/nanumgt/m/n/10/ac ƒ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6562--6562
+[]\T1/lmtt/m/n/10 *\LUC/nanumgt/m/n/10/bd Ä\LUC/nanumgt/m/n/10/c0 ¨\LUC/nanumgt
+/m/n/10/c7 •t \LUC/nanumgt/m/n/10/b9 »\LUC/nanumgt/m/n/10/ce h\LUC/nanumgt/m/n/
+10/d4 \ \LUC/nanumgt/m/n/10/d0 ¿\LUC/nanumgt/m/n/10/c7 t\LUC/nanumgt/m/n/10/d5 
+Q\LUC/nanumgt/m/n/10/c7 D ä\LUC/nanumgt/m/n/10/c5 »\LUC/nanumgt/m/n/10/b2 ‰\T1/
+lmtt/m/n/10 ... \LUC/nanumgt/m/n/10/ce Ù\LUC/nanumgt/m/n/10/d4 Ë\LUC/nanumgt/m/
+n/10/d1 0\LUC/nanumgt/m/n/10/b2 î \LUC/nanumgt/m/n/10/b3 ^^@\LUC/nanumgt/m/n/10
+/b2 ı\LUC/nanumgt/m/n/10/d5 X\LUC/nanumgt/m/n/10/c9 ¿ \LUC/nanumgt/m/n/10/c5 J\
+LUC/nanumgt/m/n/10/b2 î‰\T1/lmtt/m/n/10 ... \LUC/nanumgt/m/n/10/bd Ä\LUC/nanumg
+t/m/n/10/c0 ¨\LUC/nanumgt/m/n/10/c7 •
+ []
+
+[216]
+<csunplugged/06-part/img/ch21-turing/20-turing-02-robot.png, id=1843, 476.0184p
+t x 296.307pt>
+File: csunplugged/06-part/img/ch21-turing/20-turing-02-robot.png Graphic file (
+type png)
+
+<use csunplugged/06-part/img/ch21-turing/20-turing-02-robot.png>
+Package pdftex.def Info: csunplugged/06-part/img/ch21-turing/20-turing-02-robot
+.png used on input line 6571.
+(pdftex.def)             Requested size: 345.0pt x 214.75603pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6610--6610
+[]\T1/lmtt/m/n/10 *\LUC/nanumgt/m/n/10/c2 ‹§\LUC/nanumgt/m/n/10/d1 \\LUC/nanumg
+t/m/n/10/c7 t \LUC/nanumgt/m/n/10/ba Ö\LUC/nanumgt/m/n/10/b8 9\LUC/nanumgt/m/n/
+10/c7 D \LUC/nanumgt/m/n/10/c2 ^^X\LUC/nanumgt/m/n/10/d5 â`\LUC/nanumgt/m/n/10/
+b5 L\T1/lmtt/m/n/10 , OK\LUC/nanumgt/m/n/10/b7 |\LUC/nanumgt/m/n/10/ac ‡ \LUC/n
+anumgt/m/n/10/b3 ^^@\LUC/nanumgt/m/n/10/b2 ı\LUC/nanumgt/m/n/10/d5 \\LUC/nanumg
+t/m/n/10/b2 ‰\T1/lmtt/m/n/10 . \LUC/nanumgt/m/n/10/be h\LUC/nanumgt/m/n/10/ac ^
+^D\LUC/nanumgt/m/n/10/c0 … \LUC/nanumgt/m/n/10/b8 ^^H\LUC/nanumgt/m/n/10/ac ‡\L
+UC/nanumgt/m/n/10/be ^^T\LUC/nanumgt/m/n/10/b8 ]\LUC/nanumgt/m/n/10/c7 D \LUC/n
+anumgt/m/n/10/b4 ‰\LUC/nanumgt/m/n/10/c5 ¥ \LUC/nanumgt/m/n/10/c6 ,\LUC/nanumgt
+/m/n/10/b9 ¨
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6610--6610
+\LUC/nanumgt/m/n/10/ae 0 \LUC/nanumgt/m/n/10/c7 ^^D\LUC/nanumgt/m/n/10/d5 t\LUC
+/nanumgt/m/n/10/c1 ^^\\T1/lmtt/m/n/10 , \LUC/nanumgt/m/n/10/b1 y\LUC/nanumgt/m/
+n/10/c0 … \LUC/nanumgt/m/n/10/b8 ^^H\LUC/nanumgt/m/n/10/ac ‡\LUC/nanumgt/m/n/10
+/be ^^T\LUC/nanumgt/m/n/10/b8 ]\LUC/nanumgt/m/n/10/c7 D \LUC/nanumgt/m/n/10/c6 
+.\LUC/nanumgt/m/n/10/ae 8 \LUC/nanumgt/m/n/10/ac ı^^D\LUC/nanumgt/m/n/10/c7 D \
+LUC/nanumgt/m/n/10/d6 U\LUC/nanumgt/m/n/10/bc Ù\LUC/nanumgt/m/n/10/d5 X\LUC/nan
+umgt/m/n/10/ac ‡ \LUC/nanumgt/m/n/10/b1 y\LUC/nanumgt/m/n/10/c0 … \LUC/nanumgt/
+m/n/10/be ^^T\LUC/nanumgt/m/n/10/b8 ]\LUC/nanumgt/m/n/10/c7 D t\LUC/nanumgt/m/n
+/10/b3 Ÿ\LUC/nanumgt/m/n/10/d5 t\LUC/nanumgt/m/n/10/c1 ^^\ \LUC/nanumgt/m/n/10/
+ce X
+ []
+
+[217 <./csunplugged/06-part/img/ch21-turing/20-turing-02-robot.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 6610--6610
+[]\T1/lmtt/m/n/10 *\LUC/nanumgt/m/n/10/c2 ‹§\LUC/nanumgt/m/n/10/d1 \\LUC/nanumg
+t/m/n/10/c7 t \T1/lmtt/m/n/10 "\LUC/nanumgt/m/n/10/ac É\T1/lmtt/m/n/10 "\LUC/na
+numgt/m/n/10/ac ¸ \T1/lmtt/m/n/10 "\LUC/nanumgt/m/n/10/ad ¯\LUC/nanumgt/m/n/10/
+ac É\T1/lmtt/m/n/10 "\LUC/nanumgt/m/n/10/c7 t \LUC/nanumgt/m/n/10/bb 4\LUC/nanu
+mgt/m/n/10/c5 «\LUC/nanumgt/m/n/10/c7 x\LUC/nanumgt/m/n/10/c9 ¿ \LUC/nanumgt/m/
+n/10/d3 ^^L\LUC/nanumgt/m/n/10/c5 E\LUC/nanumgt/m/n/10/d5 t\LUC/nanumgt/m/n/10/
+c5 | \LUC/nanumgt/m/n/10/d5 X\LUC/nanumgt/m/n/10/ac ‡ \LUC/nanumgt/m/n/10/cd î\
+LUC/nanumgt/m/n/10/b8 `\LUC/nanumgt/m/n/10/c7 D \LUC/nanumgt/m/n/10/d1 µ\LUC/na
+numgt/m/n/10/d5 t\LUC/nanumgt/m/n/10/c1 ^^\ \LUC/nanumgt/m/n/10/bb 4\LUC/nanumg
+t/m/n/10/c2 ® \LUC/nanumgt/m/n/10/be ^^T
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6610--6610
+[]\LUC/nanumgt/m/n/10/b8 \\LUC/nanumgt/m/n/10/bd ^^G\T1/lmtt/m/n/10 : "\LUC/nan
+umgt/m/n/10/ad ¯\LUC/nanumgt/m/n/10/ac É\T1/lmtt/m/n/10 "\LUC/nanumgt/m/n/10/c7
+ t\LUC/nanumgt/m/n/10/b7 |\LUC/nanumgt/m/n/10/ba t\T1/lmtt/m/n/10 , \LUC/nanumg
+t/m/n/10/c8 ^^\\LUC/nanumgt/m/n/10/ac ^^@ \LUC/nanumgt/m/n/10/c7 °\LUC/nanumgt/
+m/n/10/ac ‡ \LUC/nanumgt/m/n/10/c7 à\LUC/nanumgt/m/n/10/b2 î \LUC/nanumgt/m/n/1
+0/ac É\LUC/nanumgt/m/n/10/bc Ù\LUC/nanumgt/m/n/10/b2 ‰ \LUC/nanumgt/m/n/10/b3 T
+ \LUC/nanumgt/m/n/10/d0 §\LUC/nanumgt/m/n/10/ac ^^@ \LUC/nanumgt/m/n/10/d0 p \L
+UC/nanumgt/m/n/10/be ^^T\LUC/nanumgt/m/n/10/b8 ]\LUC/nanumgt/m/n/10/c7 D X\LUC/
+nanumgt/m/n/10/bb ¯\LUC/nanumgt/m/n/10/d5 \\LUC/nanumgt/m/n/10/b2 ‰
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6610--6610
+[]\T1/lmtt/m/n/10 *\LUC/nanumgt/m/n/10/c5 ^–\LUC/nanumgt/m/n/10/c1 ^^\ \T1/lmtt
+/m/n/10 "\LUC/nanumgt/m/n/10/c5 ¥\LUC/nanumgt/m/n/10/b2 ê \LUC/nanumgt/m/n/10/d
+5 <\LUC/nanumgt/m/n/10/b7 |\LUC/nanumgt/m/n/10/bb ¯\LUC/nanumgt/m/n/10/b4 ‹\LUC
+/nanumgt/m/n/10/b9 | \LUC/nanumgt/m/n/10/c7 X\LUC/nanumgt/m/n/10/bb ¯\LUC/nanum
+gt/m/n/10/d5 X\LUC/nanumgt/m/n/10/b2 î\LUC/nanumgt/m/n/10/c9 ¿ \LUC/nanumgt/m/n
+/10/ba ∞\LUC/nanumgt/m/n/10/b7 |\LUC/nanumgt/m/n/10/c6 î\T1/lmtt/m/n/10 "\LUC/n
+anumgt/m/n/10/b7 |\LUC/nanumgt/m/n/10/ac ‡ \LUC/nanumgt/m/n/10/b9 –\LUC/nanumgt
+/m/n/10/d5 X\LUC/nanumgt/m/n/10/ba t\LUC/nanumgt/m/n/10/c1 ^^\ \LUC/nanumgt/m/n
+/10/c2 ‹§\LUC/nanumgt/m/n/10/d1 \\LUC/nanumgt/m/n/10/c7 t \T1/lmtt/m/n/10 "
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6610--6610
+[]\LUC/nanumgt/m/n/10/c0 ¨\LUC/nanumgt/m/n/10/b7 å\T1/lmtt/m/n/10 : "\LUC/nanum
+gt/m/n/10/cc ®\LUC/nanumgt/m/n/10/d0 —\T1/lmtt/m/n/10 (steeple)"\LUC/nanumgt/m/
+n/10/c7 @ \LUC/nanumgt/m/n/10/c2 §\LUC/nanumgt/m/n/10/d0 ›\T1/lmtt/m/n/10 (stac
+k)\LUC/nanumgt/m/n/10/c7 x\LUC/nanumgt/m/n/10/b3 p \LUC/nanumgt/m/n/10/b4 P\LUC
+/nanumgt/m/n/10/ac ^^\\LUC/nanumgt/m/n/10/c7 X \LUC/nanumgt/m/n/10/b1 y\LUC/nan
+umgt/m/n/10/c0 … \LUC/nanumgt/m/n/10/c8 ^^U\LUC/nanumgt/m/n/10/c7 !\LUC/nanumgt
+/m/n/10/ba t\LUC/nanumgt/m/n/10/cc ¥\LUC/nanumgt/m/n/10/c6 @ \LUC/nanumgt/m/n/1
+0/d5 <\LUC/nanumgt/m/n/10/b7 |\LUC/nanumgt/m/n/10/bb ¯
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6610--6610
+[]\T1/lmtt/m/n/10 *\LUC/nanumgt/m/n/10/c8 ^^U\LUC/nanumgt/m/n/10/c7 X\LUC/nanum
+gt/m/n/10/c5 – \LUC/nanumgt/m/n/10/b0 ò\LUC/nanumgt/m/n/10/c6 ( \LUC/nanumgt/m/
+n/10/c1 $\LUC/nanumgt/m/n/10/ba Ö\LUC/nanumgt/m/n/10/c7 t \LUC/nanumgt/m/n/10/c
+0 »\LUC/nanumgt/m/n/10/b8 \\LUC/nanumgt/m/n/10/c6 ¥ \LUC/nanumgt/m/n/10/bb <\LU
+C/nanumgt/m/n/10/cc ¥\LUC/nanumgt/m/n/10/b9 | \LUC/nanumgt/m/n/10/c7 x\LUC/nanu
+mgt/m/n/10/c2 ›\LUC/nanumgt/m/n/10/d5 X\LUC/nanumgt/m/n/10/ac ‡ \LUC/nanumgt/m/
+n/10/ad l\LUC/nanumgt/m/n/10/cd ï\LUC/nanumgt/m/n/10/d5 X\LUC/nanumgt/m/n/10/b2
+ î \LUC/nanumgt/m/n/10/ac ƒ\LUC/nanumgt/m/n/10/d6 ç\LUC/nanumgt/m/n/10/c7 D \LU
+C/nanumgt/m/n/10/cd î\LUC/nanumgt/m/n/10/b8 `\LUC/nanumgt/m/n/10/d5 `\LUC/nanum
+gt/m/n/10/b9 Ã\LUC/nanumgt/m/n/10/d0 | \LUC/nanumgt/m/n/10/cd ©
+ []
+
+[218]
+Underfull \hbox (badness 10000) in paragraph at lines 6640--6640
+[]\LUC/nanumgt/m/n/10/b8 \\LUC/nanumgt/m/n/10/bd ^^G\T1/lmtt/m/n/10 ? \LUC/nanu
+mgt/m/n/10/bb <\LUC/nanumgt/m/n/10/cd ^^]\LUC/nanumgt/m/n/10/c7 @ t\LUC/nanumgt
+/m/n/10/bb ¯ \LUC/nanumgt/m/n/10/c7 à\LUC/nanumgt/m/n/10/b2 î\LUC/nanumgt/m/n/1
+0/b3 p\T1/lmtt/m/n/10 , \LUC/nanumgt/m/n/10/b0 †\LUC/nanumgt/m/n/10/c5 ,\LUC/na
+numgt/m/n/10/d5 \ \LUC/nanumgt/m/n/10/c9 ^^Q\LUC/nanumgt/m/n/10/ac ‡ ^^\\LUC/na
+numgt/m/n/10/ad l\LUC/nanumgt/m/n/10/b9 ¨\LUC/nanumgt/m/n/10/c6 @ \LUC/nanumgt/
+m/n/10/b8 ^^H\LUC/nanumgt/m/n/10/ac ‡ \LUC/nanumgt/m/n/10/be ^^T\LUC/nanumgt/m/
+n/10/b8 ] \T1/lmtt/m/n/10 2\LUC/nanumgt/m/n/10/ac ^^\\LUC/nanumgt/m/n/10/c6 @ \
+LUC/nanumgt/m/n/10/d5 <\LUC/nanumgt/m/n/10/b7 |\LUC/nanumgt/m/n/10/bb ¯\LUC/nan
+umgt/m/n/10/b4 ‹
+ []
+
+[219]
+Underfull \hbox (badness 10000) in paragraph at lines 6675--6675
+[]\LUC/nanumgt/m/n/10/c6 ^^[\LUC/nanumgt/m/n/10/b0 †\LUC/nanumgt/m/n/10/c5 – \L
+UC/nanumgt/m/n/10/d2 ∏\LUC/nanumgt/m/n/10/b8 Ë\LUC/nanumgt/m/n/10/ba <\LUC/nanu
+mgt/m/n/10/c7 t\LUC/nanumgt/m/n/10/b7 |\LUC/nanumgt/m/n/10/b2 î \LUC/nanumgt/m/
+n/10/bd Å\LUC/nanumgt/m/n/10/ad ˘ \LUC/nanumgt/m/n/10/c8 ^^\\LUC/nanumgt/m/n/10
+/be D\LUC/nanumgt/m/n/10/ac ^^H\LUC/nanumgt/m/n/10/b9 ‰\LUC/nanumgt/m/n/10/ae 0
+\LUC/nanumgt/m/n/10/ac ^^@ \LUC/nanumgt/m/n/10/c7 à\LUC/nanumgt/m/n/10/c5 »\LUC
+/nanumgt/m/n/10/b2 ‰\T1/lmtt/m/n/10 . \LUC/nanumgt/m/n/10/d2 ∏\LUC/nanumgt/m/n/
+10/b8 Ë\LUC/nanumgt/m/n/10/ba <\LUC/nanumgt/m/n/10/c7 @ \LUC/nanumgt/m/n/10/c9 
+—\LUC/nanumgt/m/n/10/c7 t \LUC/nanumgt/m/n/10/c5 ∆»\LUC/nanumgt/m/n/10/b2 ‰\T1/
+lmtt/m/n/10 . \LUC/nanumgt/m/n/10/d2 ∏\LUC/nanumgt/m/n/10/b8 Ë
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6675--6675
+\LUC/nanumgt/m/n/10/ba <\LUC/nanumgt/m/n/10/c7 @ \LUC/nanumgt/m/n/10/b4 e\LUC/n
+anumgt/m/n/10/c9 ¿\LUC/nanumgt/m/n/10/ac ^^@ \LUC/nanumgt/m/n/10/d5 D\LUC/nanum
+gt/m/n/10/c6 î\LUC/nanumgt/m/n/10/d5 à\LUC/nanumgt/m/n/10/b2 ‰\T1/lmtt/m/n/10 .
+ \LUC/nanumgt/m/n/10/d5 t\LUC/nanumgt/m/n/10/c5 H\LUC/nanumgt/m/n/10/c7 <\LUC/n
+anumgt/m/n/10/b8 \ \LUC/nanumgt/m/n/10/b0 †\LUC/nanumgt/m/n/10/c5 D\LUC/nanumgt
+/m/n/10/ac ^^T\LUC/nanumgt/m/n/10/b2 ‰\T1/lmtt/m/n/10 . \LUC/nanumgt/m/n/10/b0 
+ò\LUC/nanumgt/m/n/10/bb 4\LUC/nanumgt/m/n/10/ac ^^@\LUC/nanumgt/m/n/10/c9 ¿ \LU
+C/nanumgt/m/n/10/ba á\LUC/nanumgt/m/n/10/ac ^^\\LUC/nanumgt/m/n/10/b9 | \LUC/na
+numgt/m/n/10/cc >\LUC/nanumgt/m/n/10/c5 D\LUC/nanumgt/m/n/10/bd $\LUC/nanumgt/m
+/n/10/b2 ‰\T1/lmtt/m/n/10 . \LUC/nanumgt/m/n/10/b0 ò\LUC/nanumgt/m/n/10/bb 4
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6675--6675
+\LUC/nanumgt/m/n/10/ac ^^@\LUC/nanumgt/m/n/10/c9 ¿\LUC/nanumgt/m/n/10/b9 | \LUC
+/nanumgt/m/n/10/cc >\LUC/nanumgt/m/n/10/c9 ¿ \LUC/nanumgt/m/n/10/ba ª\LUC/nanum
+gt/m/n/10/d5 à\LUC/nanumgt/m/n/10/b2 ‰\T1/lmtt/m/n/10 . \LUC/nanumgt/m/n/10/d2 
+0\LUC/nanumgt/m/n/10/b4 ‹\LUC/nanumgt/m/n/10/b7 |\LUC/nanumgt/m/n/10/b8 \ \LUC/
+nanumgt/m/n/10/b0 †\LUC/nanumgt/m/n/10/c5 D\LUC/nanumgt/m/n/10/ac ^^T\LUC/nanum
+gt/m/n/10/b2 ‰\T1/lmtt/m/n/10 . \LUC/nanumgt/m/n/10/d6 8\LUC/nanumgt/m/n/10/b8 
+^^H\LUC/nanumgt/m/n/10/c7 t\LUC/nanumgt/m/n/10/c2 §\LUC/nanumgt/m/n/10/b7 |\LUC
+/nanumgt/m/n/10/b2 î \LUC/nanumgt/m/n/10/bd Å\LUC/nanumgt/m/n/10/ad ˘\LUC/nanum
+gt/m/n/10/ac \LUC/nanumgt/m/n/10/c7 D \LUC/nanumgt/m/n/10/b9 Ã\LUC/nanumgt/m/n
+/10/b0 ¨\LUC/nanumgt/m/n/10/b2 ‰\T1/lmtt/m/n/10 . \LUC/nanumgt/m/n/10/d6 8
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6675--6675
+\LUC/nanumgt/m/n/10/b8 ^^H\LUC/nanumgt/m/n/10/c7 t\LUC/nanumgt/m/n/10/c2 §\LUC/
+nanumgt/m/n/10/c5 –\LUC/nanumgt/m/n/10/ac å \LUC/nanumgt/m/n/10/c5 ¥\LUC/nanumg
+t/m/n/10/b5 ^^T\LUC/nanumgt/m/n/10/c1 ^^\ \LUC/nanumgt/m/n/10/b0 ò\LUC/nanumgt/
+m/n/10/bb 4\LUC/nanumgt/m/n/10/ac ^^@\LUC/nanumgt/m/n/10/c9 ¿\LUC/nanumgt/m/n/1
+0/b9 | \LUC/nanumgt/m/n/10/cc >\LUC/nanumgt/m/n/10/c7 D \LUC/nanumgt/m/n/10/c2 
+^^X \LUC/nanumgt/m/n/10/c7 à\LUC/nanumgt/m/n/10/b2 î\LUC/nanumgt/m/n/10/c9 ¿ \L
+UC/nanumgt/m/n/10/bb <\LUC/nanumgt/m/n/10/c5 »\LUC/nanumgt/m/n/10/b2 ‰\T1/lmtt/
+m/n/10 . \LUC/nanumgt/m/n/10/d6 8\LUC/nanumgt/m/n/10/b8 ^^H\LUC/nanumgt/m/n/10/
+c7 t\LUC/nanumgt/m/n/10/c2 §\LUC/nanumgt/m/n/10/ac ^^@ \LUC/nanumgt/m/n/10/b0 ò
+\LUC/nanumgt/m/n/10/bb 4\LUC/nanumgt/m/n/10/ac ^^@\LUC/nanumgt/m/n/10/c9 ¿
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6675--6675
+\LUC/nanumgt/m/n/10/b9 | \LUC/nanumgt/m/n/10/c2 (\LUC/nanumgt/m/n/10/ac º\LUC/n
+anumgt/m/n/10/b2 ‰\T1/lmtt/m/n/10 . \LUC/nanumgt/m/n/10/d6 8\LUC/nanumgt/m/n/10
+/b8 ^^H\LUC/nanumgt/m/n/10/c7 t\LUC/nanumgt/m/n/10/c2 §\LUC/nanumgt/m/n/10/b2 î
+ \LUC/nanumgt/m/n/10/d2 ,\LUC/nanumgt/m/n/10/b8 Ë\LUC/nanumgt/m/n/10/ba <\LUC/n
+anumgt/m/n/10/c5 –\LUC/nanumgt/m/n/10/ac å \LUC/nanumgt/m/n/10/be Y\LUC/nanumgt
+/m/n/10/c0 ∞\LUC/nanumgt/m/n/10/c5 – \LUC/nanumgt/m/n/10/b0 ò\LUC/nanumgt/m/n/1
+0/bb 4\LUC/nanumgt/m/n/10/ac ^^@\LUC/nanumgt/m/n/10/c9 ¿\LUC/nanumgt/m/n/10/ac 
+^^@ \LUC/nanumgt/m/n/10/c7 à\LUC/nanumgt/m/n/10/b2 ‰\LUC/nanumgt/m/n/10/ac ‡ \L
+UC/nanumgt/m/n/10/b9 –\LUC/nanumgt/m/n/10/d5 à\LUC/nanumgt/m/n/10/b2 ‰\T1/lmtt/
+m/n/10 . \LUC/nanumgt/m/n/10/d2 ∏\LUC/nanumgt/m/n/10/b8 Ë\LUC/nanumgt/m/n/10/ba
+ <
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6675--6675
+\LUC/nanumgt/m/n/10/c7 @ \LUC/nanumgt/m/n/10/be Y\LUC/nanumgt/m/n/10/c0 ∞\LUC/n
+anumgt/m/n/10/c7 <\LUC/nanumgt/m/n/10/b8 \ \LUC/nanumgt/m/n/10/b0 †\LUC/nanumgt
+/m/n/10/c5 D\LUC/nanumgt/m/n/10/ac ^^T\LUC/nanumgt/m/n/10/b2 ‰\T1/lmtt/m/n/10 .
+ \LUC/nanumgt/m/n/10/b0 ò\LUC/nanumgt/m/n/10/bb 4\LUC/nanumgt/m/n/10/ac ^^@\LUC
+/nanumgt/m/n/10/c9 ¿\LUC/nanumgt/m/n/10/b9 | \LUC/nanumgt/m/n/10/cc >\LUC/nanum
+gt/m/n/10/c5 D\LUC/nanumgt/m/n/10/bd $\LUC/nanumgt/m/n/10/b2 ‰\T1/lmtt/m/n/10 .
+ \LUC/nanumgt/m/n/10/b0 ò\LUC/nanumgt/m/n/10/bb 4\LUC/nanumgt/m/n/10/ac ^^@\LUC
+/nanumgt/m/n/10/c9 ¿\LUC/nanumgt/m/n/10/b9 | \LUC/nanumgt/m/n/10/cc >\LUC/nanum
+gt/m/n/10/c7 D \LUC/nanumgt/m/n/10/c2 ^^X \LUC/nanumgt/m/n/10/c5 ∆»\LUC/nanumgt
+/m/n/10/b2 ‰\T1/lmtt/m/n/10 . \LUC/nanumgt/m/n/10/d6 8
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6675--6675
+\LUC/nanumgt/m/n/10/b8 ^^H\LUC/nanumgt/m/n/10/c7 t\LUC/nanumgt/m/n/10/c2 §\LUC/
+nanumgt/m/n/10/b2 î \LUC/nanumgt/m/n/10/ac ‡\LUC/nanumgt/m/n/10/ae 0\LUC/nanumg
+t/m/n/10/b9 | \LUC/nanumgt/m/n/10/cc >\LUC/nanumgt/m/n/10/c5 D\LUC/nanumgt/m/n/
+10/bd $\LUC/nanumgt/m/n/10/b2 ‰\T1/lmtt/m/n/10 . \LUC/nanumgt/m/n/10/ac ‡\LUC/n
+anumgt/m/n/10/ae 0\LUC/nanumgt/m/n/10/b9 | \LUC/nanumgt/m/n/10/cc >\LUC/nanumgt
+/m/n/10/c5 X\LUC/nanumgt/m/n/10/b2 ‰\T1/lmtt/m/n/10 . \LUC/nanumgt/m/n/10/d2 ∏\
+LUC/nanumgt/m/n/10/b8 Ë\LUC/nanumgt/m/n/10/ba <\LUC/nanumgt/m/n/10/c7 D \LUC/na
+numgt/m/n/10/ba 9\LUC/nanumgt/m/n/10/c5 »\LUC/nanumgt/m/n/10/b2 ‰\T1/lmtt/m/n/1
+0 . \LUC/nanumgt/m/n/10/d2 ∏\LUC/nanumgt/m/n/10/b8 Ë\LUC/nanumgt/m/n/10/ba <\LU
+C/nanumgt/m/n/10/c7 @ \LUC/nanumgt/m/n/10/c8 ˝
+ []
+
+[220]
+Overfull \hbox (744.75551pt too wide) in paragraph at lines 6734--6736
+[]
+ []
+
+
+Overfull \hbox (106.843pt too wide) in paragraph at lines 6737--6739
+[]
+ []
+
+
+Overfull \hbox (312.74324pt too wide) in paragraph at lines 6740--6745
+[]
+ []
+
+
+Overfull \hbox (147.93999pt too wide) in paragraph at lines 6746--6748
+[]
+ []
+
+
+Overfull \hbox (308.31795pt too wide) in paragraph at lines 6749--6754
+[]
+ []
+
+[221]
+Overfull \hbox (221.76245pt too wide) in paragraph at lines 6755--6756
+[]
+ []
+
+
+Overfull \hbox (275.26575pt too wide) in paragraph at lines 6764--6770
+[]
+ []
+
+
+Overfull \hbox (940.29189pt too wide) in paragraph at lines 6771--6777
+[]
+ []
+
+
+Overfull \hbox (1059.69995pt too wide) in paragraph at lines 6778--6782
+[]
+ []
+
+
+Overfull \hbox (322.11879pt too wide) in paragraph at lines 6783--6786
+[]
+ []
+
+
+Overfull \hbox (693.8002pt too wide) in paragraph at lines 6787--6793
+[]
+ []
+
+
+Overfull \hbox (1088.51128pt too wide) in paragraph at lines 6794--6798
+[]
+ []
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 6798.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 6798.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 6798.
+
+Overfull \hbox (264.38199pt too wide) in paragraph at lines 6799--6801
+[]
+ []
+
+[222] [223]
+
+Package longtable Warning: Table widths have changed. Rerun LaTeX.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 6888.
+[224]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 6888.
+ (./book.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 6888.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 6888.
+
+
+
+Package rerunfilecheck Warning: File `book.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `book.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  1D3602A16DD7EDDA16466FE2FC60CA4C;17336.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 6888.
+ ) 
+Here is how much of TeX's memory you used:
+ 14927 strings out of 493109
+ 251791 string characters out of 6135010
+ 275955 words of memory out of 5000000
+ 16900 multiletter control sequences out of 15000+600000
+ 132190 words of font info for 337 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,6n,35p,724b,500s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
+texlive/2014/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2014/
+texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2014/texmf-dist
+/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/typ
+e1/public/lm/lmbxi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public
+/lm/lmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/lm/lmr17.p
+fb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/l
+ocal/texlive/2014/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmac.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmad.pfb></usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmae.pfb></usr/local
+/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmaf.pfb></usr/loc
+al/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb0.pfb></usr/l
+ocal/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb1.pfb></usr
+/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb2.pfb></u
+sr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb3.pfb><
+/usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb4.pfb
+></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb5.p
+fb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb6
+.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanumgtm
+b7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanumg
+tmb8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanu
+mgtmb9.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/na
+numgtmba.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/
+nanumgtmbb.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype
+1/nanumgtmbc.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumty
+pe1/nanumgtmbd.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanum
+type1/nanumgtmbe.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nan
+umtype1/nanumgtmc0.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/n
+anumtype1/nanumgtmc1.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public
+/nanumtype1/nanumgtmc2.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/publ
+ic/nanumtype1/nanumgtmc3.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/pu
+blic/nanumtype1/nanumgtmc5.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/
+public/nanumtype1/nanumgtmc6.pfb></usr/local/texlive/2014/texmf-dist/fonts/type
+1/public/nanumtype1/nanumgtmc7.pfb></usr/local/texlive/2014/texmf-dist/fonts/ty
+pe1/public/nanumtype1/nanumgtmc8.pfb></usr/local/texlive/2014/texmf-dist/fonts/
+type1/public/nanumtype1/nanumgtmc9.pfb></usr/local/texlive/2014/texmf-dist/font
+s/type1/public/nanumtype1/nanumgtmca.pfb></usr/local/texlive/2014/texmf-dist/fo
+nts/type1/public/nanumtype1/nanumgtmcc.pfb></usr/local/texlive/2014/texmf-dist/
+fonts/type1/public/nanumtype1/nanumgtmcd.pfb></usr/local/texlive/2014/texmf-dis
+t/fonts/type1/public/nanumtype1/nanumgtmce.pfb></usr/local/texlive/2014/texmf-d
+ist/fonts/type1/public/nanumtype1/nanumgtmcf.pfb></usr/local/texlive/2014/texmf
+-dist/fonts/type1/public/nanumtype1/nanumgtmd0.pfb></usr/local/texlive/2014/tex
+mf-dist/fonts/type1/public/nanumtype1/nanumgtmd1.pfb></usr/local/texlive/2014/t
+exmf-dist/fonts/type1/public/nanumtype1/nanumgtmd2.pfb></usr/local/texlive/2014
+/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd3.pfb></usr/local/texlive/20
+14/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd4.pfb></usr/local/texlive/
+2014/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd5.pfb></usr/local/texliv
+e/2014/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd6.pfb></usr/local/texl
+ive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd7.pfb></usr/local/te
+xlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjbac.pfb></usr/local/
+texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjbad.pfb></usr/loca
+l/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjbae.pfb></usr/lo
+cal/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb0.pfb></usr/
+local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb1.pfb></us
+r/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb2.pfb></
+usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb3.pfb>
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb4.pf
+b></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb5.
+pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb
+7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummj
+bb8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanum
+mjbb9.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nan
+ummjbba.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/n
+anummjbbb.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1
+/nanummjbbc.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtyp
+e1/nanummjbbd.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumt
+ype1/nanummjbbe.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanu
+mtype1/nanummjbc0.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/na
+numtype1/nanummjbc1.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/
+nanumtype1/nanummjbc2.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/publi
+c/nanumtype1/nanummjbc3.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/pub
+lic/nanumtype1/nanummjbc5.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/p
+ublic/nanumtype1/nanummjbc6.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
+/public/nanumtype1/nanummjbc7.pfb></usr/local/texlive/2014/texmf-dist/fonts/typ
+e1/public/nanumtype1/nanummjbc8.pfb></usr/local/texlive/2014/texmf-dist/fonts/t
+ype1/public/nanumtype1/nanummjbc9.pfb></usr/local/texlive/2014/texmf-dist/fonts
+/type1/public/nanumtype1/nanummjbcc.pfb></usr/local/texlive/2014/texmf-dist/fon
+ts/type1/public/nanumtype1/nanummjbcd.pfb></usr/local/texlive/2014/texmf-dist/f
+onts/type1/public/nanumtype1/nanummjbce.pfb></usr/local/texlive/2014/texmf-dist
+/fonts/type1/public/nanumtype1/nanummjbcf.pfb></usr/local/texlive/2014/texmf-di
+st/fonts/type1/public/nanumtype1/nanummjbd0.pfb></usr/local/texlive/2014/texmf-
+dist/fonts/type1/public/nanumtype1/nanummjbd1.pfb></usr/local/texlive/2014/texm
+f-dist/fonts/type1/public/nanumtype1/nanummjbd2.pfb></usr/local/texlive/2014/te
+xmf-dist/fonts/type1/public/nanumtype1/nanummjbd3.pfb></usr/local/texlive/2014/
+texmf-dist/fonts/type1/public/nanumtype1/nanummjbd4.pfb></usr/local/texlive/201
+4/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd5.pfb></usr/local/texlive/2
+014/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd6.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd7.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmac.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmac.pfb></usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.pfb></usr/local
+/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.pfb></usr/loc
+al/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmae.pfb></usr/l
+ocal/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmae.pfb></usr
+/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmaf.pfb></u
+sr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb0.pfb><
+/usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb0.pfb
+></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb1.p
+fb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb1
+.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjm
+b2.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanumm
+jmb2.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanu
+mmjmb3.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/na
+nummjmb3.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/
+nanummjmb4.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype
+1/nanummjmb4.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumty
+pe1/nanummjmb5.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanum
+type1/nanummjmb5.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nan
+umtype1/nanummjmb6.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/n
+anumtype1/nanummjmb7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public
+/nanumtype1/nanummjmb7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/publ
+ic/nanumtype1/nanummjmb8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/pu
+blic/nanumtype1/nanummjmb8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/
+public/nanumtype1/nanummjmb9.pfb></usr/local/texlive/2014/texmf-dist/fonts/type
+1/public/nanumtype1/nanummjmb9.pfb></usr/local/texlive/2014/texmf-dist/fonts/ty
+pe1/public/nanumtype1/nanummjmba.pfb></usr/local/texlive/2014/texmf-dist/fonts/
+type1/public/nanumtype1/nanummjmba.pfb></usr/local/texlive/2014/texmf-dist/font
+s/type1/public/nanumtype1/nanummjmbb.pfb></usr/local/texlive/2014/texmf-dist/fo
+nts/type1/public/nanumtype1/nanummjmbb.pfb></usr/local/texlive/2014/texmf-dist/
+fonts/type1/public/nanumtype1/nanummjmbc.pfb></usr/local/texlive/2014/texmf-dis
+t/fonts/type1/public/nanumtype1/nanummjmbc.pfb></usr/local/texlive/2014/texmf-d
+ist/fonts/type1/public/nanumtype1/nanummjmbd.pfb></usr/local/texlive/2014/texmf
+-dist/fonts/type1/public/nanumtype1/nanummjmbd.pfb></usr/local/texlive/2014/tex
+mf-dist/fonts/type1/public/nanumtype1/nanummjmbe.pfb></usr/local/texlive/2014/t
+exmf-dist/fonts/type1/public/nanumtype1/nanummjmbe.pfb></usr/local/texlive/2014
+/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbf.pfb></usr/local/texlive/20
+14/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc0.pfb></usr/local/texlive/
+2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc0.pfb></usr/local/texliv
+e/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc1.pfb></usr/local/texl
+ive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc1.pfb></usr/local/te
+xlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc2.pfb></usr/local/
+texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc2.pfb></usr/loca
+l/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc3.pfb></usr/lo
+cal/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc4.pfb></usr/
+local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb></us
+r/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb></
+usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc6.pfb>
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc6.pf
+b></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc7.
+pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc
+7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummj
+mc8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nanum
+mjmc8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/nan
+ummjmc9.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1/n
+anummjmc9.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtype1
+/nanummjmca.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumtyp
+e1/nanummjmca.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanumt
+ype1/nanummjmcc.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/nanu
+mtype1/nanummjmcc.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/na
+numtype1/nanummjmcd.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/
+nanumtype1/nanummjmcd.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/publi
+c/nanumtype1/nanummjmce.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/pub
+lic/nanumtype1/nanummjmce.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/p
+ublic/nanumtype1/nanummjmcf.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
+/public/nanumtype1/nanummjmcf.pfb></usr/local/texlive/2014/texmf-dist/fonts/typ
+e1/public/nanumtype1/nanummjmd0.pfb></usr/local/texlive/2014/texmf-dist/fonts/t
+ype1/public/nanumtype1/nanummjmd0.pfb></usr/local/texlive/2014/texmf-dist/fonts
+/type1/public/nanumtype1/nanummjmd1.pfb></usr/local/texlive/2014/texmf-dist/fon
+ts/type1/public/nanumtype1/nanummjmd1.pfb></usr/local/texlive/2014/texmf-dist/f
+onts/type1/public/nanumtype1/nanummjmd2.pfb></usr/local/texlive/2014/texmf-dist
+/fonts/type1/public/nanumtype1/nanummjmd2.pfb></usr/local/texlive/2014/texmf-di
+st/fonts/type1/public/nanumtype1/nanummjmd3.pfb></usr/local/texlive/2014/texmf-
+dist/fonts/type1/public/nanumtype1/nanummjmd3.pfb></usr/local/texlive/2014/texm
+f-dist/fonts/type1/public/nanumtype1/nanummjmd4.pfb></usr/local/texlive/2014/te
+xmf-dist/fonts/type1/public/nanumtype1/nanummjmd4.pfb></usr/local/texlive/2014/
+texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.pfb></usr/local/texlive/201
+4/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.pfb></usr/local/texlive/2
+014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb></usr/local/t
+exlive/2014/texmf-dist/fonts/type1/uhc/umj/umj02.pfb></usr/local/texlive/2014/t
+exmf-dist/fonts/type1/uhc/umj/umj04.pfb>
+Output written on book.pdf (224 pages, 61948567 bytes).
+PDF statistics:
+ 2596 PDF objects out of 2984 (max. 8388607)
+ 2028 compressed objects within 21 object streams
+ 816 named destinations out of 1000 (max. 500000)
+ 19163 words of extra memory for PDF output out of 20736 (max. 10000000)
+
