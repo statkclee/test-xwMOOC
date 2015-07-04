@@ -3,7 +3,7 @@ url: http://www.xwmooc.net
 title: 정보 불평등(Digital Divide)을 "기회"로 바꾸세요.
 email: i@xwmooc.net
 description: "xwMOOC와 함께 정보 불평등(digital divide)을 해소하는 것을 넘어 기회로 바꾸세요!"
-logo_location: "img/xwMOOC.png"
+logo_location: "/img/xwMOOC.png"
 
 #baseurl: "/rifyll"
 #url: "" # the base hostname & protocol for your site
