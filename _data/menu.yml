@@ -6,7 +6,7 @@ mainmenu:
     icon_class: "fa-home"
   SoftwareCarpentry:
     url: "/swcarpentry/"
-    text: "소프트웨어 카펜트리"
+    text: "SW 카펜트리"
     icon_class: "fa-wrench"
   ComputationalThinking:
     url: "/computationalthinking/"
@@ -18,5 +18,5 @@ mainmenu:
     icon_class: "fa-flask"
   EducationComputer:
     url: "/computer/"
-    text: "$100 달러 컴퓨터"
+    text: "$100 컴퓨터"
     icon_class: "fa-desktop"
