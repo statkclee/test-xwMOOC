@@ -2,13 +2,14 @@
 layout: post
 tags: computer-science-unplugged K-12 xwMOOC
 date: 2014-09-01 13:06
-thumbnail: img/Computer-Science-Unplogged-Logo.jpg
+thumbnail: img/th-Computer-Science-Unplogged-Logo.jpg
 title: 컴퓨터 과학 언플러그드 한국어 번역 (1부)
 published: true
 ---
 
 컴퓨터 과학 언플러그드 한국어 번역 작업은 **대한민국 전 국민을 단돈 천원($1) 정보교육으로 행복한 세상 만들기** 프로젝트의 일환으로 누구나 경제적인 부담없이 21세기 가장 중요한 사고체계인 컴퓨터적 사고 (computational thinking) 를 함양하고자 시작되었다.
 
+![컴퓨터 과학 언플러그드 3.0 버젼](img/Computer-Science-Unplogged-Logo.jpg)
 
 > #### 한국어 프로젝트 참여자 및 원저작자 정보
 > 
@@ -17,7 +18,6 @@ published: true
 >저자: Tim Bell, Ian H. Witten, Mike Fellows  
 >실험수업:  Robyn Adams and Jane McKenzie  
 >삽화: Matt Powell
-
 
 컴퓨터 과학 언플러그드는 [Computer Science Unplugged](http://csunplugged.org/)에서 공시한 [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/2.0/kr/)과 동일한 저작권을 따릅니다.
 
