@@ -11,7 +11,7 @@ date: 2015-07-01 23:51
 ### 컴퓨터 과학 언플러그드 3.1
 컴퓨터 과학 언플러그드 버젼 3.1이 발표되었습니다. 인터넷에 대한 내용이 추가되었고, 버젼 3.0에서 Part I, Part II로 양분되었던 것이 하나로 합쳐졌으며, 교육과정이 뉴질랜드 중심에서 글로벌 교육체계에 맞춰 내용이 변경되었고, 로고도 새로이 변경되었습니다. xwMOOC에서 기존 MS 워드가 꼭 필요한 상황에서 협업하여 저작할 수 있도록 하였고, 한국어 언플러그드 교재도 PDF, E-PUB, HTML로 다양화하여 제공하게되었습니다.
 
-- [HTML 버젼](/csunplugged/book.html)
+- [HTML 버젼](/computationalthinking/csunplugged/book.html)
 - PDF 버젼: 개발 중
 - 전자책 e-book (epub): 개발 중 
 - [컴퓨터과학 언플러그드 한글 저작원본](https://github.com/statkclee/xwmooc-sc/tree/unplugged)
