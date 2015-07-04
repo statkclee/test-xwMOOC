@@ -1,0 +1,305 @@
+\contentsline {subparagraph}{번역: 이광춘}{1}{section*.2}
+\contentsline {subparagraph}{저작 및 편집: Greg Wilson}{1}{section*.3}
+\contentsline {subsection}{들어가며(introduction)}{2}{section*.4}
+\contentsline {subsubsection}{우리는 누구인가}{3}{section*.5}
+\contentsline {subsubsection}{감사의 글}{3}{section*.6}
+\contentsline {subsection}{소프트웨어 카펜트리 팀(Our Team)}{4}{section*.7}
+\contentsline {subsection}{유닉스 쉘(Unix Shell)}{6}{section*.8}
+\contentsline {subsection}{쉘(Shell) 소개}{6}{section*.9}
+\contentsline {paragraph}{목표}{6}{section*.10}
+\contentsline {subsubsection}{쉘이 무엇이고, 왜 사용할까요}{7}{section*.11}
+\contentsline {paragraph}{주요점}{8}{section*.12}
+\contentsline {subsection}{파일과 디렉토리}{9}{section*.13}
+\contentsline {paragraph}{목표}{9}{section*.14}
+\contentsline {paragraph}{알파벳 수프 (Alphabet Soup)}{10}{section*.15}
+\contentsline {paragraph}{이름에는 무엇이 있나요?}{13}{section*.16}
+\contentsline {paragraph}{매개 변수(Parameters) 대 인수(Arguments)}{14}{section*.17}
+\contentsline {paragraph}{직교(Orthogonality)}{17}{section*.18}
+\contentsline {subsubsection}{Nelle의 파이프라인: 파일 구성하기}{17}{section*.19}
+\contentsline {paragraph}{주요점}{19}{section*.20}
+\contentsline {subsection}{파일과 디렉토리 생성}{20}{section*.21}
+\contentsline {paragraph}{목표}{20}{section*.22}
+\contentsline {paragraph}{어느 편집기가 좋을까요?}{22}{section*.23}
+\contentsline {paragraph}{삭제는 영원하다.}{23}{section*.24}
+\contentsline {paragraph}{큰 힘에는 큰 책임이 따른다. (With Great Power Comes Great Responsibility)}{24}{section*.25}
+\contentsline {paragraph}{또다른 유용한 축약 팁}{27}{section*.26}
+\contentsline {paragraph}{주요점}{27}{section*.27}
+\contentsline {subsection}{파이프와 필터}{28}{section*.28}
+\contentsline {paragraph}{목표}{29}{section*.29}
+\contentsline {paragraph}{와일드 카드(Wildcards)}{30}{section*.30}
+\contentsline {paragraph}{입력 되돌리기}{34}{section*.31}
+\contentsline {subsubsection}{Nelle의 파이프라인 Pipeline: 파일 확인하기}{34}{section*.32}
+\contentsline {paragraph}{주요점}{36}{section*.33}
+\contentsline {subsection}{루프(Loops)}{39}{section*.34}
+\contentsline {paragraph}{목표}{39}{section*.35}
+\contentsline {paragraph}{프롬프트 따라가기}{40}{section*.36}
+\contentsline {paragraph}{파일, 디렉토리, 변수 등 이름에 공백}{42}{section*.37}
+\contentsline {paragraph}{두번 측정, 한번 실행}{44}{section*.38}
+\contentsline {subsubsection}{Nelle의 파이프라인: 파일 처리하기}{44}{section*.39}
+\contentsline {paragraph}{시작과 끝}{46}{section*.40}
+\contentsline {paragraph}{역사를 아는 사람은 반복할 수 있다.}{46}{section*.41}
+\contentsline {paragraph}{주요점}{47}{section*.42}
+\contentsline {subsection}{쉘 스크립트}{49}{section*.43}
+\contentsline {paragraph}{목표}{49}{section*.44}
+\contentsline {paragraph}{텍스트 대 텍스트가 아닌 것 아무거나}{50}{section*.45}
+\contentsline {paragraph}{왜 쉘 스크립트가 어떤 것도 하지 않을까?}{53}{section*.46}
+\contentsline {paragraph}{매긴 번호 지우기(Unnumbering)}{54}{section*.47}
+\contentsline {subsubsection}{Nelle의 파이프라인: 스크립트 생성하기}{55}{section*.48}
+\contentsline {paragraph}{주요점}{56}{section*.49}
+\contentsline {subsection}{파일, 문자, 디렉토리 등 찾기}{58}{section*.50}
+\contentsline {paragraph}{목표}{58}{section*.51}
+\contentsline {paragraph}{영원히 혹은 5년}{59}{section*.52}
+\contentsline {paragraph}{와일드카드(Wildcards)}{61}{section*.53}
+\contentsline {paragraph}{리스트(list) vs. 찾기(find)}{65}{section*.54}
+\contentsline {paragraph}{바이너리 파일(Binary File)}{66}{section*.55}
+\contentsline {subsubsection}{결론}{66}{section*.56}
+\contentsline {paragraph}{주요점}{67}{section*.57}
+\contentsline {subsection}{깃을 사용한 버젼 관리(Git)}{67}{section*.58}
+\contentsline {subsection}{버젼 관리 소개}{68}{section*.59}
+\contentsline {paragraph}{도전 과제}{68}{section*.60}
+\contentsline {subsection}{더 훌륭한 백업 방법}{69}{section*.61}
+\contentsline {paragraph}{목표}{69}{section*.62}
+\contentsline {subsubsection}{설정}{69}{section*.63}
+\contentsline {paragraph}{프록시(Proxy)}{70}{section*.64}
+\contentsline {subsubsection}{저장소 생성하기}{70}{section*.65}
+\contentsline {subsubsection}{파일 변경사항 추적하기}{71}{section*.66}
+\contentsline {paragraph}{내 변경사항은 어디로 갔을까?}{74}{section*.67}
+\contentsline {subsubsection}{파일 변경하기}{74}{section*.68}
+\contentsline {subsubsection}{이력 탐험하기.}{80}{section*.69}
+\contentsline {subsubsection}{옛 버젼 복구하기}{82}{section*.70}
+\contentsline {paragraph}{흔한 경우를 간단히}{84}{section*.71}
+\contentsline {subsubsection}{파일 무시하기}{84}{section*.72}
+\contentsline {paragraph}{주요점}{87}{section*.73}
+\contentsline {subsection}{협업(Collaboration)}{88}{section*.74}
+\contentsline {paragraph}{목표}{88}{section*.75}
+\contentsline {paragraph}{HTTPS vs SSH}{91}{section*.76}
+\contentsline {subparagraph}{프록시(Proxy)}{93}{section*.77}
+\contentsline {paragraph}{비밀번호 관리자(password manager)}{93}{section*.78}
+\contentsline {paragraph}{`-u' 플래그(flag)}{94}{section*.79}
+\contentsline {paragraph}{혼자 훈련하기}{95}{section*.80}
+\contentsline {paragraph}{주요점}{97}{section*.81}
+\contentsline {subsection}{충돌(Conflicts)}{98}{section*.82}
+\contentsline {paragraph}{목표}{98}{section*.83}
+\contentsline {paragraph}{주요점}{104}{section*.84}
+\contentsline {subsection}{공개 과학(Open Science)}{105}{section*.85}
+\contentsline {paragraph}{목표}{105}{section*.86}
+\contentsline {subsubsection}{라이선싱(Licensing)}{106}{section*.87}
+\contentsline {subsubsection}{호스팅(Hosting)}{109}{section*.88}
+\contentsline {paragraph}{주요점}{110}{section*.89}
+\contentsline {subsection}{git 설치}{110}{section*.90}
+\contentsline {paragraph}{목표}{110}{section*.91}
+\contentsline {subparagraph}{Git 설치 및 Git 저장소 가져오기}{111}{section*.92}
+\contentsline {paragraph}{소프트웨어 카펜트리 학습과목 생성}{111}{section*.93}
+\contentsline {subparagraph}{의존성(dependencies)}{112}{section*.94}
+\contentsline {subsection}{파이썬 프로그래밍(python)}{112}{section*.95}
+\contentsline {subsection}{환자 데이터(Patient Data) 분석}{113}{section*.96}
+\contentsline {paragraph}{목표}{113}{section*.97}
+\contentsline {subsubsection}{데이터 로딩(Loading)}{114}{section*.98}
+\contentsline {paragraph}{도전 과제}{117}{section*.99}
+\contentsline {subsubsection}{데이터 능숙하게 다루기}{118}{section*.100}
+\contentsline {paragraph}{구석에서(In the Corner)}{119}{section*.101}
+\contentsline {paragraph}{도전 과제}{123}{section*.102}
+\contentsline {subsubsection}{플로팅(Plotting)}{124}{section*.103}
+\contentsline {paragraph}{도전 과제}{128}{section*.104}
+\contentsline {subsubsection}{요약하기}{128}{section*.105}
+\contentsline {paragraph}{도전 과제}{129}{section*.106}
+\contentsline {paragraph}{주요점}{129}{section*.107}
+\contentsline {paragraph}{다음 단계}{130}{section*.108}
+\contentsline {subsection}{함수 생성}{130}{section*.109}
+\contentsline {paragraph}{목표}{131}{section*.110}
+\contentsline {subsubsection}{함수 정의하기}{131}{section*.111}
+\contentsline {subsubsection}{함수 디버깅}{132}{section*.112}
+\contentsline {subsubsection}{함수 조합하기}{134}{section*.113}
+\contentsline {paragraph}{도전 과제}{135}{section*.114}
+\contentsline {subsubsection}{콜 스택(Call Stack)}{135}{section*.115}
+\contentsline {paragraph}{도전 과제}{140}{section*.116}
+\contentsline {subsubsection}{테스팅과 문서화}{141}{section*.117}
+\contentsline {paragraph}{도전 과제}{144}{section*.118}
+\contentsline {subsubsection}{초기 설정(Default) 정의}{144}{section*.119}
+\contentsline {paragraph}{도전 과제}{150}{section*.120}
+\contentsline {paragraph}{주요점}{150}{section*.121}
+\contentsline {paragraph}{다음 단계}{151}{section*.122}
+\contentsline {subsection}{다수의 데이터셋 분석하기}{151}{section*.123}
+\contentsline {paragraph}{목표}{153}{section*.124}
+\contentsline {subsubsection}{For 루프}{153}{section*.125}
+\contentsline {paragraph}{도전 과제}{156}{section*.126}
+\contentsline {subsubsection}{리스트(Lists)}{157}{section*.127}
+\contentsline {paragraph}{변-변-변-변경(Ch-Ch-Ch-Changes)}{158}{section*.128}
+\contentsline {paragraph}{도전 과제}{159}{section*.129}
+\contentsline {subsubsection}{다수 파일 처리하기}{159}{section*.130}
+\contentsline {paragraph}{도전 과제}{161}{section*.131}
+\contentsline {paragraph}{주요점}{161}{section*.132}
+\contentsline {paragraph}{다음 단계}{161}{section*.133}
+\contentsline {subsection}{조건 선택}{162}{section*.134}
+\contentsline {paragraph}{목표}{162}{section*.135}
+\contentsline {subsubsection}{이미지 그리드 (Image Grids)}{162}{section*.136}
+\contentsline {paragraph}{도전 과제}{166}{section*.137}
+\contentsline {subsubsection}{조건문 (Conditionals)}{166}{section*.138}
+\contentsline {paragraph}{도전 과제}{169}{section*.139}
+\contentsline {subsubsection}{중첩 (Nesting)}{169}{section*.140}
+\contentsline {paragraph}{도전 과제}{172}{section*.141}
+\contentsline {subsubsection}{히트 맵 (Heat Map) 생성하기}{172}{section*.142}
+\contentsline {paragraph}{도전 과제}{187}{section*.143}
+\contentsline {paragraph}{주요점}{187}{section*.144}
+\contentsline {paragraph}{다음 단계}{188}{section*.145}
+\contentsline {subsection}{방어적 프로그래밍 (Defensive Programming)}{188}{section*.146}
+\contentsline {paragraph}{목표}{189}{section*.147}
+\contentsline {subsubsection}{가정 설정문 (Assertions)}{189}{section*.148}
+\contentsline {paragraph}{도전 과제}{193}{section*.149}
+\contentsline {subsubsection}{테스트 주도 개발 (Test-Driven Development)}{194}{section*.150}
+\contentsline {paragraph}{도전 과제}{198}{section*.151}
+\contentsline {subsubsection}{디버깅 (Debugging)}{198}{section*.152}
+\contentsline {paragraph}{프로그램이 수행하게 되어 있는 것을 이해한다.}{198}{section*.153}
+\contentsline {paragraph}{매번 실패하게 만들기 (Make It Fail Every Time)}{200}{section*.154}
+\contentsline {paragraph}{빨리 실패하게 만들기 (Make It Fail Fast)}{200}{section*.155}
+\contentsline {paragraph}{이유를 가지고 한번에 하나씩 변경하라.}{201}{section*.156}
+\contentsline {paragraph}{작업한 것을 기록하라.}{201}{section*.157}
+\contentsline {paragraph}{버젼 제어 (version control) 재방문}{202}{section*.158}
+\contentsline {paragraph}{겸손하라 (Be Humble)}{202}{section*.159}
+\contentsline {paragraph}{주요점}{202}{section*.160}
+\contentsline {paragraph}{다음 단계}{203}{section*.161}
+\contentsline {subsection}{명령-라인 프로그램 (Command-Line Programs)}{203}{section*.162}
+\contentsline {paragraph}{목표}{204}{section*.163}
+\contentsline {subsubsection}{명령-라인 인자 (Command-Line Arguments)}{205}{section*.164}
+\contentsline {paragraph}{올바른 방법}{209}{section*.165}
+\contentsline {paragraph}{도전 과제}{209}{section*.166}
+\contentsline {subsubsection}{다수 파일 처리하기}{210}{section*.167}
+\contentsline {paragraph}{도전 과제}{212}{section*.168}
+\contentsline {subsubsection}{명령어-라인 플래그(Command-Line Flags) 처리하기}{212}{section*.169}
+\contentsline {paragraph}{도전 과제}{214}{section*.170}
+\contentsline {subsubsection}{표준 입력 (Standard Input) 처리하기}{215}{section*.171}
+\contentsline {paragraph}{도전 과제}{217}{section*.172}
+\contentsline {paragraph}{주요점}{218}{section*.173}
+\contentsline {subsection}{데이터베이스와 SQL 사용하기}{218}{section*.174}
+\contentsline {section}{SQLite 설치}{219}{section*.175}
+\contentsline {paragraph}{목표}{219}{section*.176}
+\contentsline {subsection}{설치}{219}{section*.177}
+\contentsline {subsubsection}{github에서 ``gen-survey-database.sql'' 파일을 어떻게 다운로드 받을까요?}{220}{section*.178}
+\contentsline {subsubsection}{SQLite DB 연결 및 설치 테스트}{221}{section*.179}
+\contentsline {subsubsection}{SQLite3 DB 명령-라인 인터페이스(CLI)를 어떻게 빠져나올까요?}{222}{section*.180}
+\contentsline {subsubsection}{SQLite3 CLI 대신에 IPython notebook을 어떻게 사용할까요?}{222}{section*.181}
+\contentsline {subsection}{데이터 선택하기}{223}{section*.182}
+\contentsline {paragraph}{목표}{223}{section*.183}
+\contentsline {subsubsection}{정의 몇가지}{223}{section*.184}
+\contentsline {paragraph}{도전 과제}{227}{section*.185}
+\contentsline {paragraph}{주요점}{227}{section*.186}
+\contentsline {subsection}{정렬하고 중복 제거하기}{228}{section*.187}
+\contentsline {paragraph}{목표}{228}{section*.188}
+\contentsline {paragraph}{도전 과제}{230}{section*.189}
+\contentsline {paragraph}{도전 과제}{232}{section*.190}
+\contentsline {paragraph}{주요점}{233}{section*.191}
+\contentsline {subsection}{필터링 (Filtering)}{233}{section*.192}
+\contentsline {paragraph}{목표}{233}{section*.193}
+\contentsline {paragraph}{도전 과제}{238}{section*.194}
+\contentsline {paragraph}{주요점}{239}{section*.195}
+\contentsline {subsection}{새로운 값 계산하기}{239}{section*.196}
+\contentsline {paragraph}{목표}{239}{section*.197}
+\contentsline {paragraph}{도전 과제}{241}{section*.198}
+\contentsline {paragraph}{주요점}{242}{section*.199}
+\contentsline {subsection}{결측 데이터 (Missing Data)}{243}{section*.200}
+\contentsline {paragraph}{목표}{243}{section*.201}
+\contentsline {paragraph}{도전 과제}{246}{section*.202}
+\contentsline {paragraph}{주요점}{247}{section*.203}
+\contentsline {subsection}{집합(Aggregation)}{247}{section*.204}
+\contentsline {paragraph}{목표}{247}{section*.205}
+\contentsline {paragraph}{도전 과제}{254}{section*.206}
+\contentsline {paragraph}{주요점}{254}{section*.207}
+\contentsline {subsection}{데이터 조합하기 (Combining Data)}{255}{section*.208}
+\contentsline {paragraph}{목표}{255}{section*.209}
+\contentsline {subsubsection}{데이터 위생 (Data Hygiene)}{259}{section*.210}
+\contentsline {paragraph}{도전 과제}{261}{section*.211}
+\contentsline {paragraph}{주요점}{261}{section*.212}
+\contentsline {subsection}{데이터 생성과 변형(Creating and Modifying Data)}{261}{section*.213}
+\contentsline {paragraph}{목표}{262}{section*.214}
+\contentsline {paragraph}{도전 과제}{264}{section*.215}
+\contentsline {paragraph}{주요점}{265}{section*.216}
+\contentsline {subsection}{데이터베이스로 프로그래밍}{265}{section*.217}
+\contentsline {paragraph}{목표}{266}{section*.218}
+\contentsline {paragraph}{도전 과제}{269}{section*.219}
+\contentsline {paragraph}{주요점}{269}{section*.220}
+\contentsline {subsection}{유용한 것 몇가지(extras)}{270}{section*.221}
+\contentsline {subsection}{Git 브랜치(Branching)}{270}{section*.222}
+\contentsline {subsection}{저장소 포킹(Forking)}{280}{section*.223}
+\contentsline {subsection}{코드 리뷰 (Code Review)}{282}{section*.224}
+\contentsline {subsection}{매뉴얼 페이지 (Manual Page)}{284}{section*.225}
+\contentsline {paragraph}{개요(Synopsis)를 읽는 방법}{285}{section*.226}
+\contentsline {paragraph}{특정 옵션에 대한 도움말 찾기}{286}{section*.227}
+\contentsline {paragraph}{매뉴얼 페이지의 한계}{287}{section*.228}
+\contentsline {paragraph}{다음이 도움이 될지도\ldots {}}{287}{section*.229}
+\contentsline {subsection}{권한 (Permissions)}{287}{section*.230}
+\contentsline {paragraph}{왜 정수형 ID일까?}{287}{section*.231}
+\contentsline {paragraph}{필요하지만 충분하지는 않다.}{289}{section*.232}
+\contentsline {paragraph}{윈도우(Windows)는 어떨까?}{293}{section*.233}
+\contentsline {subsection}{쉘 변수(Shell Variables)}{294}{section*.234}
+\contentsline {paragraph}{경로(\texttt {PATH}) 변수}{295}{section*.235}
+\contentsline {paragraph}{변수 값 표시하기}{295}{section*.236}
+\contentsline {paragraph}{변수 생성하고 변경하기}{296}{section*.237}
+\contentsline {subsection}{원격 작업(Working Remotely)}{297}{section*.238}
+\contentsline {paragraph}{목표}{297}{section*.239}
+\contentsline {subsubsection}{SSH 키 (SSH Key)}{300}{section*.240}
+\contentsline {paragraph}{주요점}{303}{section*.241}
+\contentsline {subsection}{예외 처리 (Exceptions)}{303}{section*.242}
+\contentsline {subsection}{숫자(Numbers)}{308}{section*.243}
+\contentsline {subsection}{내가 왜 가르칠까요? (Why I teach)}{312}{section*.244}
+\contentsline {subsection}{강사 안내서 (instructors guide)}{313}{section*.245}
+\contentsline {subsection}{일반적인 조언}{314}{section*.246}
+\contentsline {paragraph}{강의 노트}{314}{section*.247}
+\contentsline {paragraph}{함정 (Pitfalls)}{317}{section*.248}
+\contentsline {subsection}{유닉스 쉘(Shell)}{320}{section*.249}
+\contentsline {paragraph}{강의 노트}{321}{section*.250}
+\contentsline {paragraph}{윈도우}{323}{section*.251}
+\contentsline {subsection}{Git을 사용한 버젼 관리}{324}{section*.252}
+\contentsline {paragraph}{강의 노트}{324}{section*.253}
+\contentsline {paragraph}{텍스트 편집기 (Text Editor)}{326}{section*.254}
+\contentsline {subparagraph}{Gedit}{326}{section*.255}
+\contentsline {subsection}{파이썬 프로그래밍}{326}{section*.256}
+\contentsline {paragraph}{강의 노트}{327}{section*.257}
+\contentsline {subsection}{데이터베이스와 SQL 사용하기}{328}{section*.258}
+\contentsline {paragraph}{강의 노트}{328}{section*.259}
+\contentsline {subsection}{참고 정보(Reference)}{330}{section*.260}
+\contentsline {subsection}{쉘 참고 정보 (Shell Reference)}{330}{section*.261}
+\contentsline {paragraph}{기본 명령어}{330}{section*.262}
+\contentsline {paragraph}{경로 (Paths)}{331}{section*.263}
+\contentsline {paragraph}{명령어 조합하기 (Combining Commands)}{331}{section*.264}
+\contentsline {subsection}{깃 참고 정보 (Git Reference)}{332}{section*.265}
+\contentsline {subsection}{Mercurial Reference}{334}{section*.266}
+\contentsline {subsection}{파이썬 참고 정보 (Python Reference)}{339}{section*.267}
+\contentsline {paragraph}{기본 연산}{339}{section*.268}
+\contentsline {paragraph}{제어 흐름 (Control Flow)}{339}{section*.269}
+\contentsline {paragraph}{함수 (Functions)}{340}{section*.270}
+\contentsline {paragraph}{라이브러리(Libraries)}{340}{section*.271}
+\contentsline {paragraph}{배열(Arrays)}{341}{section*.272}
+\contentsline {subsection}{SQL 참고 정보 (SQL Reference)}{341}{section*.273}
+\contentsline {paragraph}{기본 쿼리 (Basic Queries)}{341}{section*.274}
+\contentsline {paragraph}{필터링(Filtering)}{342}{section*.275}
+\contentsline {paragraph}{결측 데이터 (Missing Data)}{342}{section*.276}
+\contentsline {paragraph}{그룹으로 분류하기(Grouping) 그리고 총합(Aggregation)}{343}{section*.277}
+\contentsline {paragraph}{합병(Joins)}{343}{section*.278}
+\contentsline {paragraph}{쿼리 작성하기 (Writing Queries)}{343}{section*.279}
+\contentsline {paragraph}{테이블 생성하기 (Creating Tables)}{343}{section*.280}
+\contentsline {paragraph}{프로그래밍 (Programming)}{344}{section*.281}
+\contentsline {subsection}{프롬프트 인식하는 방법과 끝내는 방법}{344}{section*.282}
+\contentsline {subsubsection}{쉘 (Shell)}{344}{section*.283}
+\contentsline {paragraph}{콘솔(console)에서 GUI 호출하기}{348}{section*.284}
+\contentsline {subsubsection}{파이썬}{349}{section*.285}
+\contentsline {subsubsection}{R}{351}{section*.286}
+\contentsline {subsection}{R 참고 정보 (R Reference)}{352}{section*.287}
+\contentsline {section}{기본 연산}{352}{section*.288}
+\contentsline {section}{제어흐름 (Control Flow)}{352}{section*.289}
+\contentsline {section}{함수(Functions)}{353}{section*.290}
+\contentsline {section}{패키지(package)}{354}{section*.291}
+\contentsline {subsection}{추천 도서 (Reading)}{355}{section*.292}
+\contentsline {subsubsection}{도서 (Books)}{355}{section*.293}
+\contentsline {subsubsection}{논문 (Papers)}{355}{section*.294}
+\contentsline {subsection}{용어사전 (Glossary)}{356}{section*.295}
+\contentsline {subsection}{규칙 (Rules)}{367}{section*.296}
+\contentsline {subsection}{라이센스 (Licenses)}{368}{section*.297}
+\contentsline {subsubsection}{강의 교재}{368}{section*.298}
+\contentsline {paragraph}{한국어 이용자는 다음의 권리를 갖습니다:}{368}{section*.299}
+\contentsline {paragraph}{다음과 같은 조건을 따라야 합니다:}{368}{section*.300}
+\contentsline {paragraph}{주의:}{369}{section*.301}
+\contentsline {paragraph}{영어 원저작물은 다음과 같은 저작권을 갖습니다:}{369}{section*.302}
+\contentsline {subsubsection}{소프트웨어}{370}{section*.303}
+\contentsline {paragraph}{요약하면}{370}{section*.304}
+\contentsline {subsubsection}{기타 저작물}{370}{section*.305}
+\contentsline {subsubsection}{상표권(Trademark)}{371}{section*.306}

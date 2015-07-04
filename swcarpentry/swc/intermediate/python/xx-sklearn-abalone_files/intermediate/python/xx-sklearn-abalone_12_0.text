@@ -1,0 +1,15 @@
+   length  diameter  height  whole weight  shucked weight  viscera weight  \
+0   0.455     0.365   0.095        0.5140          0.2245          0.1010   
+1   0.350     0.265   0.090        0.2255          0.0995          0.0485   
+2   0.530     0.420   0.135        0.6770          0.2565          0.1415   
+3   0.440     0.365   0.125        0.5160          0.2155          0.1140   
+4   0.330     0.255   0.080        0.2050          0.0895          0.0395   
+
+   shell weight  rings      M      F      I  
+0         0.150     15   True  False  False  
+1         0.070      7   True  False  False  
+2         0.210      9  False   True  False  
+3         0.155     10   True  False  False  
+4         0.055      7  False  False   True  
+
+[5 rows x 11 columns]

@@ -1,0 +1,6 @@
+no parameters:
+a: 1 b: 2 c: 3
+one parameter:
+a: 55 b: 2 c: 3
+two parameters:
+a: 55 b: 66 c: 3

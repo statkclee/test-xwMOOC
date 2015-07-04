@@ -1,0 +1,6 @@
+Help on function center in module __main__:
+
+center(data, desired)
+    Return a new array containing the original data centered around the desired value.
+    Example: center([1, 2, 3], 0) => [-1, 0, 1]
+
