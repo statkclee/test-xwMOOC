@@ -4,7 +4,19 @@ mainmenu:
     url: "/"
     text: "Home"
     icon_class: "fa-home"
-  aboutme:
-    url: "/about/"
-    text: "About Me"
-    icon_class: "fa-info-circle"
+  SoftwareCarpentry:
+    url: "/swcarpentry/"
+    text: "소프트웨어 카펜트리"
+    icon_class: "fa-wrench"
+  ComputationalThinking:
+    url: "/computationalthinking/"
+    text: "컴퓨터적 사고"
+    icon_class: "fa-rocket"
+  DataScience:
+    url: "/datascience/"
+    text: "데이터 과학"
+    icon_class: "fa-flask"
+  EducationComputer:
+    url: "/computer/"
+    text: "$100 달러 컴퓨터"
+    icon_class: "fa-desktop"
