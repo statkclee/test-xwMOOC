@@ -17,6 +17,12 @@ date: 2015-07-01 23:51
 - [컴퓨터과학 언플러그드 한글 저작원본](https://github.com/statkclee/xwmooc-sc/tree/unplugged)
 - [Computer Science Unplugged Version 3.1 PDF 파일](http://csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
 
+### 컴퓨터 과학 언플러그드 3.1 **(개발 중)**
+컴퓨터 과학 언플러그드 공유와 협업에 맞도록 새로 개발중입니다.
+누구나 [마크다운(Markdown)](http://daringfireball.net/projects/markdown/)으로 편하게 코드가 아닌 컴퓨터 과학 언플러그드에 집중하세요. 
+
+- [협업과 공유 HTML 버젼](/computationalthinking/unplugged/index.html)
+
 ### 소프트웨어가 바꾸는 세상
 
 아마존, 구글, 우버, 에어비앤비, 애플 등 많은 회사가 사람이 하던 일을 소프트웨어를 통해서 스마트하고, 안전하며, 빠르고, 적정한 가격을 통해서 사람들의 삶을 변화시키고 있습니다.
