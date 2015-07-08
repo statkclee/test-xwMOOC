@@ -6,9 +6,7 @@ thumbnail: img/th-xwMOOC.png
 title: 공유와 협업 컴퓨터 과학 언플러그드
 published: true
 ---
-
 ### 컴퓨터 과학 언플러그드 3.1 **공유와 협업 버젼**
-
 컴퓨터 과학 언플러그드 버젼 3.1이 발표되었습니다. 인터넷에 대한 내용이 추가되었고, 버젼 3.0에서 Part I, Part II로 양분되었던 것이 하나로 합쳐졌으며, 교육과정이 뉴질랜드 중심에서 글로벌 교육체계에 맞춰 내용이 변경되었고, 로고도 새로이 변경되었습니다. xwMOOC에서 컴퓨터 과학 언플러그드 공유와 협업에 맞도록 새로이 개편했다. 누구나 [마크다운(Markdown)](http://daringfireball.net/projects/markdown/)으로 편하게 코드가 아닌 컴퓨터 과학 언플러그드에만 집중하도록 추진했다.
 
 - [협업과 공유 HTML 버젼](/computationalthinking/unplugged/index.html)
@@ -48,7 +46,6 @@ published: true
 ~~~
 $ pip install -r requirements.txt
 ~~~
-
 3. 마크다운을 HTML로 변환해서 확인한 후 GitHub에 푸쉬하고 나서 풀요청(Pull Request)을 한다.
 
 ~~~
