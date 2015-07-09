@@ -15,6 +15,19 @@ date: 2015-07-01 23:51
 - [컴퓨터과학 언플러그드 한글 저작원본](https://github.com/statkclee/website-csunplugged/)
 - [Computer Science Unplugged Version 3.1 PDF 파일](http://csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
 
+### 라즈베리 파이와 파이썬으로 열어가는 프로그래밍
+
+[라즈베리 파이](https://www.raspberrypi.org/)에는 2011년 인디 게임으로 처음 시작된 이래로 많은 사람들의 사랑을 받고 있는 [마인크래프트](https://minecraft.net/) 게임이 내장되어 누구나 쉽게 게임을 즐길 수가 있으며, 또한 [파이썬](https://www.python.org/)도 함께 있어 바로 파이썬으로 마인크래프트 프로그래밍을 비롯한 다양한 프로그램을 시작할 수 있다. 그래픽 프로그램을 쉽고 강력하게 지워하는 [프로세싱(Processing)](https://processing.org/)을 파이썬으로 작성할 수도 있고, 직접 라즈베리파이로 인터넷도 구축해 보세요.
+
+[소프트웨어 카펜트리](http://software-carpentry.org/) 전문가들이 개발한 프로그램 기본 캡슐화를 파이썬 거북이(turtle)로 달려보세요.
+
+-  [라즈베리 파이와 파이썬](raspberry-pi/index.html)
+	-  [라즈베리 파이 배우기](raspberry-pi/raspberry-pi/index.html)
+	-  [마인크래프트](raspberry-pi/minecraft/index.html)
+	-  [네트워킹](raspberry-pi/networking/index.html)
+	-  [그래픽 프로그래밍(Processing)](raspberry-pi/processing/index.html)
+	-  [파이썬 입문-거북이(turtle)](raspberry-pi/turtles/index-kr.html)
+
 ### 소프트웨어가 바꾸는 세상
 
 아마존, 구글, 우버, 에어비앤비, 애플 등 많은 회사가 사람이 하던 일을 소프트웨어를 통해서 스마트하고, 안전하며, 빠르고, 적정한 가격을 통해서 사람들의 삶을 변화시키고 있습니다.
