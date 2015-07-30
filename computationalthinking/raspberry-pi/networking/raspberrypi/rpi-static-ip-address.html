@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="generator" content="pandoc">
+    <title>xwMOOC: </title>
+    <link rel="shortcut icon" type="image/x-icon" href="https://statkclee.github.io/website-raspberry-pi/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="http://statkclee.github.io/website-raspberry-pi/css/bootstrap/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="http://statkclee.github.io/website-raspberry-pi/css/bootstrap/bootstrap-theme.css" />
+    <link rel="stylesheet" type="text/css" href="http://statkclee.github.io/website-raspberry-pi/css/swc.css" />
+    <!-- <link rel="alternate" type="application/rss+xml" title="Software Carpentry Blog" href="http://software-carpentry.org/feed.xml"/> -->
+    <meta charset="UTF-8" />
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body class="lesson">
+    <div class="container card">
+      <div class="banner">
+        <a href="http://www.xwmooc.net" title="xwMOOC 한글 컴퓨터 과학 언플러그드">
+          <img alt="xwMOOC banner" src="http://statkclee.github.io/website-raspberry-pi/img/xwMOOC-logo.png" />
+        </a>
+      </div>
+      <article>
+      <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+                    <h1 class="title"></h1>
+          <h1 id="how-to-set-up-up-your-raspberry-pi-to-have-a-static-ip-address">How to set up up your Raspberry Pi to have a static IP address</h1>
+<p>Usually when you connect a Raspberry Pi to a Local Area Network (LAN) it is automatically assigned an IP address. Typically, this address will change each time you connect.</p>
+<p>Sometimes, however, you might want your Pi to boot up with the same IP address each time. This can be useful if you are making a small self contained network, or building a standalone project such as a robot. Here’s how to do it.</p>
+<h2 id="setup">Setup</h2>
+<p>Edit the file <code>/etc/network/interfaces</code> as follows:</p>
+<ol style="list-style-type: decimal">
+<li><p>Type <code>sudo nano /etc/network/interfaces</code> at the command prompt.</p></li>
+<li><p>Look for the line:</p>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="kw">iface</span> eth0 inet dhcp</code></pre></li>
+<li><p>Change the word <code>dhcp</code> to <code>static</code>.</p></li>
+<li><p>Press <code>Enter</code> and add the following lines:</p>
+<pre><code>address 192.168.0.2
+netmask 255.255.255.0
+network 192.168.0.0
+broadcast 192.168.0.255
+gateway 192.168.0.1</code></pre></li>
+<li><p>Save the file with <code>CTRL + O</code> and then exit nano with <code>CTRL + X</code>.</p></li>
+</ol>
+<p>Your Raspberry Pi will now boot up with the IP address <code>192.168.0.2</code> every time; we didn’t use <code>192.168.0.1</code> as this is reserved for the router. You can of course use any address you like, but in the configuration above the range must be between <code>192.168.0.2</code> and <code>192.168.0.255</code>.</p>
+<h2 id="testing">Testing</h2>
+<ol style="list-style-type: decimal">
+<li><p>Reboot with <code>sudo reboot</code>.</p></li>
+<li><p>Log in and type <code>ip a</code>.</p></li>
+<li><p>You should see the IP address you set in the <code>eth0:</code> entry.</p></li>
+</ol>
+<h2 id="troubleshooting">Troubleshooting</h2>
+<p>If your Pi is not networked then the IP address may not show. To fix this, connect your Pi to an active network socket, which can be on another running Raspberry Pi; you can also manually bring up (activate) the network interface by typing <code>sudo ifup eth0</code> followed by <code>ip a</code>.</p>
+<p>If you still cannot see your IP address, or it is different to the one you set, then open the <code>interfaces</code> file, as described in step 1 of Setup, and check that your edits are correct.</p>
+<h2 id="clean-up---reverting-the-changes">Clean up - reverting the changes</h2>
+<p>Normally you don’t want your computer set to use a static IP address. You can change the network configuration back by editing the <code>interfaces</code> file as follows:</p>
+<ol style="list-style-type: decimal">
+<li><p>Type <code>sudo nano /etc/network/interfaces</code> at the command prompt.</p></li>
+<li><p>Look for the line:</p>
+<pre><code>iface eth0 inet static</code></pre></li>
+<li><p>Change the word <code>static</code> to <code>dhcp</code>.</p></li>
+<li><p>Comment out the following lines by putting a <code>#</code> in front (you can delete them entirely but you may want them again later):</p>
+<pre><code>#address 192.168.0.2
+#netmask 255.255.255.0
+#network 192.168.0.0
+#broadcast 192.168.0.255
+#gateway 192.168.0.1</code></pre></li>
+<li><p>Save the file with <code>CTRL + O</code>, exit nano with <code>CTRL + X</code> and then reboot with `sudo reboot’.</p></li>
+</ol>
+        </div>
+      </div>
+      </article>
+      <div class="footer">
+        <a class="label swc-blue-bg" href="http://www.xwmooc.net">xwMOOC</a>
+        <a class="label swc-blue-bg" href="https://github.com/statkclee/website-raspberry-pi/">Source</a>
+        <a class="label swc-blue-bg" href="mailto:i@xwmooc.net">Contact</a>
+        <a class="label swc-blue-bg" href="http://statkclee.github.io/website-raspberry-pi/LICENSE.html">License</a>
+      </div>
+    </div>
+    <!-- Javascript placed at the end of the document so the pages load faster -->
+    <script src="http://software-carpentry.org/v5/js/jquery-1.9.1.min.js"></script>
+    <script src="https://statkclee.github.io/website-csunplugged/css/bootstrap/bootstrap-js/bootstrap.js"></script>
+  </body>
+</html>

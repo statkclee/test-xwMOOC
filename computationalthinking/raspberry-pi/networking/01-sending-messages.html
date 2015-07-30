@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="generator" content="pandoc">
+    <title>xwMOOC: 컴퓨터 네트워킹(Networking)</title>
+    <link rel="shortcut icon" type="image/x-icon" href="https://statkclee.github.io/website-raspberry-pi/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="http://statkclee.github.io/website-raspberry-pi/css/bootstrap/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="http://statkclee.github.io/website-raspberry-pi/css/bootstrap/bootstrap-theme.css" />
+    <link rel="stylesheet" type="text/css" href="http://statkclee.github.io/website-raspberry-pi/css/swc.css" />
+    <!-- <link rel="alternate" type="application/rss+xml" title="Software Carpentry Blog" href="http://software-carpentry.org/feed.xml"/> -->
+    <meta charset="UTF-8" />
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body class="lesson">
+    <div class="container card">
+      <div class="banner">
+        <a href="http://www.xwmooc.net" title="xwMOOC 한글 컴퓨터 과학 언플러그드">
+          <img alt="xwMOOC banner" src="http://statkclee.github.io/website-raspberry-pi/img/xwMOOC-logo.png" />
+        </a>
+      </div>
+      <article>
+      <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+          <!--           <a href="index.html"><h1 class="title">컴퓨터 네트워킹(Networking)</h1></a> -->
+          <h1 class="title">컴퓨터 네트워킹(Networking)</h1>
+          <h2 class="subtitle">컴퓨터는 어떻게 통신하는가?</h2>
+          <p>이번 학습단원에서 간단한 네트워크를 구축하고, 통신하는데 네트워크 채팅 프로그램을 사용한다.</p>
+<p>컴퓨터 네트워크는 거의 모든 곳에 산재되어 있다; 웹, 모바일 폰, 소셜 네트웤, 현금지급기, 비디오 스트리밍, 신호등, 그리고 온라인 게임.</p>
+<p>네트워크는 엄청나게 복잡할 수 있지만, 두 컴퓨터 혹은 연결된 디바이스 사이는 단순할 수 있다. 이번 학습단원에서, 라즈베리 파이 두대를 어떻게 연결하는지 배우고 나서, 파이썬으로 작은 프로그램을 작성해서 두 라즈베리 파이에 메시지를 전송할 수 있다.</p>
+<p>만약 라즈베리 파이 설정을 하는데 확신이 없거나 파이썬 프로그램을 작성하고 실행하는데 어려움을 느낀다면, <a href="http://www.xwmooc.net/computationalthinking/unplugged/06-part/21-turing.html">튜링 테스트(Turing Test)</a> 같은 내용을 먼저 학습하고 시도하는 것도 좋은 전략이다.</p>
+<section class="objectives panel panel-warning">
+<div class="panel-heading">
+<h2><span class="glyphicon glyphicon-certificate"></span>학습 목표</h2>
+</div>
+<div class="panel-body">
+<ul>
+<li>컴퓨터 네트워크(Computer Network)는 두대 혹은 그 이상의 컴퓨터(혹은 디바이스)를 함께 연결한 것을 알게 된다.</li>
+<li>컴퓨터가 유일한 IP 주소(IP address)를 갖고서 다른 컴퓨터를 찾아 데이터를 전송하는 것을 알게 된다.</li>
+</ul>
+</div>
+</section>
+<h2 id="학습-결과">학습 결과</h2>
+<h3 id="모든-학생이-수행할-수-있는-것">모든 학생이 수행할 수 있는 것</h3>
+<ul>
+<li>컴퓨터 네트워크가 두개 혹은 그 이상 컴퓨터를 함께 연결한 것이라는 것을 설명한다.</li>
+<li>간단한 프로그램을 사용해서 컴퓨터 두대 사이에 메시지를 전송할 수 있다.</li>
+</ul>
+<h3 id="대부분-학생이-수행할-수-있는-것">대부분 학생이 수행할 수 있는 것</h3>
+<ul>
+<li>네트워크에 있는 모든 컴퓨터는 IP 주소라고 불리는 유일한 주소가 필요하다는 것을 설명한다.</li>
+<li>화면 프롬프트를 변경하고 환영 메시지를 추가하는 것 같은 간단한 변경사항을 프로그램에 적용한다.</li>
+</ul>
+<h3 id="일부-학생이-수행할-수-있는-것">일부 학생이 수행할 수 있는 것</h3>
+<ul>
+<li>키보드에 반응을 전송하는 것 같은 좀더 복잡한 변경사항을 프로그램에 적용한다.</li>
+</ul>
+<h2 id="학습-정리">학습 정리</h2>
+<ul>
+<li>단순한 컴퓨터 네트워크에 대한 소개</li>
+<li>라즈베리 파이 네트워팅</li>
+<li>채팅 프로그램 작성하기</li>
+</ul>
+<h2 id="숙제">숙제</h2>
+<p><em>이전</em> 학습단원에서 학생들이 <a href="http://www.youtube.com/watch?v=kNJZ-v263zc">네트워킹 기초 동영상</a>을 보고 수업에 참여하도록 안내 받았다. 인터넷을 사용해서 다음 용어에 대해 이해하는 바를 연구하고 글로 적어본다:</p>
+<ul>
+<li>컴퓨터 네트워크(computer network)<br /></li>
+<li>IP 주소(IP 주소)<br /></li>
+<li>서버(server)<br /></li>
+<li>클라이언트(client)<br /></li>
+<li>근거리 통신망 (Local Area Network, LAN)</li>
+</ul>
+<p>이번 학습에서 상기 용어를 이해할 필요가 있다. (본인이 숙제를 하지 않고, 복사하여 붙여넣기는 전혀 도움이 되지 않는다.)</p>
+<h2 id="시작">시작</h2>
+<p>학생들에게 네트워크가 주변에 산재되어 어디에나 존재하고 왜 네트워크가 유용하고 즉 필수적인지를 소개하는 빠른 아이디어 경연으로 시작한다.</p>
+<ol style="list-style-type: decimal">
+<li><p>컴퓨터 네트워크가 어느 곳에나 존재한다는 생각을 소개한다. 2분 동안 가능한 많이 네트워크에 연결된 디바이스(혹은 네트워크를 사용하는 것)를 학생들이 적어 목록을 작성한다.</p></li>
+<li><p>목록에서 아침에 기상한 이후 학생들이 사용한 디바이스 어떤 것이나 동그라미를 치게 한다. 이 작업을 1분동안 수행한다.</p></li>
+<li><p>30초 뒤에 가장 많은 네트워크 디바이스를 <em>손댄</em> 집단이 승리한다; 가방에서, 의자에서 등등 디바이스를 꺼낼 수도 있다.<strong>도움정보</strong>: 만약 30초 음악 클립을 틀고, 음악이 정지할 때 모두 움직이지 않게 만드는 것이 정말 효과적이다.</p></li>
+<li><p>각 집단이 선택한 디바이스에 대해서 잠시 토론하게 한다. 은행 ATM 기기 혹은 속도 카메라 같이 명백히 네트워크에 연결되지 않는 디바이스도 추가한다. 현대 사회가 컴퓨터 네트워크에 의존하고 있고, 자신만의 네트워크를 구축하고 있다는 사실을 강조한다.</p></li>
+</ol>
+<h2 id="주요-핵심-활동">주요 핵심 활동</h2>
+<p>작업을 완료하면서, 숙제를 통해 배운 개념이 사용되며, 통합되고 공공히 된다.</p>
+<ol style="list-style-type: decimal">
+<li><a href="https://www.raspberrypi.org/learning/networking-lessons/lesson-1/student-instructions-1.md">라즈베리 파이 두대 채팅 네트워크 구축</a>를 통해서 네트워크를 구축하고 메시지를 전송한다.<br /></li>
+<li><em>선택 옵션</em>: 네트워크에 SD 카드를 다시 사용한다면, <code>interface</code> 파일에 변경사항을 원복(undo)할 필요가 있다. 학생들에게 1번에 <a href="https://www.raspberrypi.org/learning/networking-lessons/lesson-1/student-instructions-1.md">라즈베리 파이 두대 채팅 네트워크 구축</a> <code>청소(Cleanup)</code> 부분을 수행한다.</li>
+</ol>
+<h2 id="모든-학생이-모인-총회">모든 학생이 모인 총회</h2>
+<p>칠판에 다음 단어 목록을 작성한다.</p>
+<ul>
+<li>서버 (Server)<br /></li>
+<li>클라이언트 (Client)<br /></li>
+<li>컴퓨터 네트워크 (Computer Network)<br /></li>
+<li>IP 주소 (IP Address)<br /></li>
+<li>정적 IP 주소 (Static IP address)<br /></li>
+<li>LAN (Local Area Network)</li>
+</ul>
+<p>학급 학생중 한명을 무작위로 선정한다. 칠판에 단어/용어 하나를 선택하고, 일어나서 학급 학생 중 한명을 지정하는데 그 해당 학생은 단어가 무엇을 의미하는지 설명해야만 한다. 그 학생이 다른 학생을 선택하고 용어중 하나를 설명한다.</p>
+        </div>
+      </div>
+      </article>
+      <div class="footer">
+        <a class="label swc-blue-bg" href="http://www.xwmooc.net">xwMOOC</a>
+        <a class="label swc-blue-bg" href="https://github.com/statkclee/website-raspberry-pi/">Source</a>
+        <a class="label swc-blue-bg" href="mailto:i@xwmooc.net">Contact</a>
+        <a class="label swc-blue-bg" href="http://statkclee.github.io/website-raspberry-pi/LICENSE.html">License</a>
+      </div>
+    </div>
+    <!-- Javascript placed at the end of the document so the pages load faster -->
+    <script src="http://software-carpentry.org/v5/js/jquery-1.9.1.min.js"></script>
+    <script src="https://statkclee.github.io/website-csunplugged/css/bootstrap/bootstrap-js/bootstrap.js"></script>
+  </body>
+</html>
