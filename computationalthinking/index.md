@@ -11,8 +11,8 @@ date: 2015-07-01 23:51
 ### 컴퓨터 과학 언플러그드 3.1 **공유와 협업 버젼**
 컴퓨터 과학 언플러그드 버젼 3.1이 발표되었습니다. 인터넷에 대한 내용이 추가되었고, 버젼 3.0에서 Part I, Part II로 양분되었던 것이 하나로 합쳐졌으며, 교육과정이 뉴질랜드 중심에서 글로벌 교육체계에 맞춰 내용이 변경되었고, 로고도 새로이 변경되었습니다. xwMOOC에서 컴퓨터 과학 언플러그드 공유와 협업에 맞도록 새로이 개편했다. 누구나 [마크다운(Markdown)](http://daringfireball.net/projects/markdown/)으로 편하게 코드가 아닌 컴퓨터 과학 언플러그드에만 집중하도록 추진했다.
 
-- [협업과 공유 HTML 버젼](/computationalthinking/unplugged/index.html)
-- [컴퓨터과학 언플러그드 한글 저작원본](https://github.com/statkclee/website-csunplugged/)
+- [협업과 공유 HTML 버젼](http://unplugged.xwmooc.org/)
+- [컴퓨터과학 언플러그드 한글 저작원본](https://github.com/statkclee/website-csunplugged)
 - [Computer Science Unplugged Version 3.1 PDF 파일](http://csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
 
 ### 라즈베리 파이와 파이썬으로 열어가는 프로그래밍
@@ -22,11 +22,11 @@ date: 2015-07-01 23:51
 [소프트웨어 카펜트리](http://software-carpentry.org/) 전문가들이 개발한 프로그램 기본 캡슐화를 파이썬 **거북이(turtle)**로 달려보세요.
 
 - [라즈베리 파이와 파이썬](raspberry-pi/index.html)
-	1.  [라즈베리 파이 배우기](raspberry-pi/raspberry-pi/index.html)
-	1.  [마인크래프트](raspberry-pi/minecraft/index.html)
-	1.  [네트워킹](raspberry-pi/networking/index.html)
-	1.  [그래픽 프로그래밍(Processing)](raspberry-pi/processing/index.html)
-	1.  [파이썬 입문-거북이(turtle)](raspberry-pi/turtles/index-kr.html)
+    1.  [라즈베리 파이 배우기](raspberry-pi/raspberry-pi/index.html)
+    1.  [마인크래프트](raspberry-pi/minecraft/index.html)
+    1.  [네트워킹](raspberry-pi/networking/index.html)
+    1.  [그래픽 프로그래밍(Processing)](raspberry-pi/processing/index.html)
+    1.  [파이썬 입문-거북이(turtle)](raspberry-pi/turtles/index-kr.html)
 
 ### 소프트웨어가 바꾸는 세상
 

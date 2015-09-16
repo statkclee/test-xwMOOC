@@ -4,10 +4,10 @@ mainmenu:
     url: "/"
     text: "Home"
     icon_class: "fa-home"
-  SoftwareCarpentry:
-    url: "/swcarpentry/"
-    text: "SW 카펜트리"
-    icon_class: "fa-wrench"
+  EducationComputer:
+    url: "/computer/"
+    text: "$100 컴퓨터"
+    icon_class: "fa-desktop"
   ComputationalThinking:
     url: "/computationalthinking/"
     text: "컴퓨터적 사고"
@@ -16,7 +16,8 @@ mainmenu:
     url: "/datascience/"
     text: "데이터 과학"
     icon_class: "fa-flask"
-  EducationComputer:
-    url: "/computer/"
-    text: "$100 컴퓨터"
-    icon_class: "fa-desktop"
+  SoftwareCarpentry:
+    url: "/swcarpentry/"
+    text: "SW 카펜트리"
+    icon_class: "fa-wrench"
+
