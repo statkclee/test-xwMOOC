@@ -16,7 +16,7 @@ date: 2015-07-01 23:51
 >
 > * [교육부·미래부,「SW중심사회를 위한 인재양성 추진계획」발표](http://m.blog.naver.com/moeblog/220426677439)
 > * [전자신문 - SW교육 인프라 재정비해야](http://www.etnews.com/20150819000107)
-> * [중앙일보 사설 - 교사도 없이 소프트웨어 가르치겠다는 정신 나간 정부](http://article.joins.com/news/article/article.asp?total_id=18289368&cloc=olink|article|default)
+> * [중앙일보 - 교사도 없이 소프트웨어 가르치겠다는 정신 나간 정부](http://article.joins.com/news/article/article.asp?Total_Id=18289368)
 > * [은행지점 대부분 5년 안에 사라지고](http://blog.koreadaily.com/view/myhome.html?fod_style=B&med_usrid=irvinezip4989&cid=878197&fod_no=36)
 > * ['위기의 서막'..30대 그룹 절반 사라질 것](http://media.daum.net/m/channel/view/media/20150803091559846)
 
