@@ -6,7 +6,7 @@ date: 2015-07-01 23:51
 
 ### $100 달러 컴퓨터 출현 배경
 
-<img src="fig/korea-development-stages.png" alt="사고체계와 대한민국" width="70%" />
+<img src="../fig/korea-development-stages.png" alt="사고체계와 대한민국" width="70%" />
 
 미래창조과학부는 시범적으로 초등학교, 중학교용 교재, 교사지도서 각 4종 개발하고 [SW 배움터](http://software.kr/t/education/school/swbook/swbook.do)에 '15년 3월 인터넷에 공개하고, 나아가 고등학교용 및 융합·심화교재, 교사지도서 3종 추가 보급 예정(’16년, ’17년)에 있고, 교육부도 초등학교, 중학교 교재, 교사지도서 각 1종개발·보급(’16년) 예정이다.
 
@@ -22,7 +22,7 @@ date: 2015-07-01 23:51
 > * [은행지점 대부분 5년 안에 사라지고](http://blog.koreadaily.com/view/myhome.html?fod_style=B&med_usrid=irvinezip4989&cid=878197&fod_no=36)
 > * ['위기의 서막'..30대 그룹 절반 사라질 것](http://media.daum.net/m/channel/view/media/20150803091559846)
 
-<img src="fig/korea-development-stages.png" alt="사고체계와 대한민국" width="70%" />
+<img src="../fig/korea-development-stages.png" alt="사고체계와 대한민국" width="70%" />
 
 ### $100 달러 컴퓨터 혜택
 
@@ -42,11 +42,11 @@ date: 2015-07-01 23:51
     - 과학기술 컴퓨팅(Scientific Computing)
     - IoT(사물 인터넷) 및 피지컬 컴퓨팅(Physical Computing) 교육
 
-<img src="fig/benefits-of-100-computers.png" alt="사고체계와 대한민국" width="70%" />
+<img src="../fig/benefits-of-100-computers.png" alt="사고체계와 대한민국" width="70%" />
 
 ### $100 달러 컴퓨터 구성
 
-<img src="fig/100-dollar-computer-tear-down.png" alt="$100 달러 컴퓨터 구성요소" width="70%" />
+<img src="../fig/100-dollar-computer-tear-down.png" alt="$100 달러 컴퓨터 구성요소" width="70%" />
 
 #### 하드웨어
 
@@ -82,7 +82,7 @@ date: 2015-07-01 23:51
 
 ### $100 달러 컴퓨터로 할 수 있는 것 (일부)
  
-<img src="fig/raspberry-pi-fullstack-toolchain.png" width="70%" />
+<img src="../fig/raspberry-pi-fullstack-toolchain.png" width="70%" />
 
 #### 1. 가정 영화관 (Home Theater) 
 
@@ -97,12 +97,12 @@ date: 2015-07-01 23:51
 
 |   | 국문 | 영어 | 설명                                                                                        |
 |---|:--------:|:--------:|---------------------------------------------------------------------------------------------|
-| <img src="fig/80px-LibreOffice_3.3.1_Writer_Icon.png" width="30%" />    |  라이터  |   Writer | 워드프로세서 프로그램으로 마이크로소프트 워드와 비슷하며 기본적인 위지위그 편집기를 지녔다. |
-| <img src="fig/80px-LibreOffice_3.3.1_Calc_Icon.png" width="30%" />    |   캘크   |     Calc | 스프레드시트 프로그램이다. 마이크로소프트 엑셀 또는 로터스 1-2-3과 비슷하다.                |
-| <img src="fig/80px-LibreOffice_3.3.1_Impress_Icon.png" width="30%" />    | 임프레스 |  Impress | 프레젠테이션 프로그램이다. 마이크로소프트 파워포인트와 비슷하다.                            |
-| <img src="fig/80px-LibreOffice_3.3.1_Base_Icon.png" width="30%" />    | 베이스   | Base     | 데이터베이스 관리 프로그램이다. 마이크로소프트 액세스와 비슷하다.                           |
-| <img src="fig/80px-LibreOffice_3.3.1_Draw_Icon.png" width="30%" />    | 드로우   | Draw     | 벡터 그래픽 에디터다. 도표 프로그램인 마이크로소프트 비지오와 비슷하다.                     |
-| <img src="fig/80px-LibreOffice_3.3.1_Math_Icon.png" width="30%" />    | 매쓰     | Math     | 수학 공식을 만들고 수정하는 프로그램이다. 마이크로소프트 수식편집기와 유사하다.             |
+| <img src="../fig/80px-LibreOffice_3.3.1_Writer_Icon.png" width="30%" />    |  라이터  |   Writer | 워드프로세서 프로그램으로 마이크로소프트 워드와 비슷하며 기본적인 위지위그 편집기를 지녔다. |
+| <img src="../fig/80px-LibreOffice_3.3.1_Calc_Icon.png" width="30%" />    |   캘크   |     Calc | 스프레드시트 프로그램이다. 마이크로소프트 엑셀 또는 로터스 1-2-3과 비슷하다.                |
+| <img src="../fig/80px-LibreOffice_3.3.1_Impress_Icon.png" width="30%" />    | 임프레스 |  Impress | 프레젠테이션 프로그램이다. 마이크로소프트 파워포인트와 비슷하다.                            |
+| <img src="../fig/80px-LibreOffice_3.3.1_Base_Icon.png" width="30%" />    | 베이스   | Base     | 데이터베이스 관리 프로그램이다. 마이크로소프트 액세스와 비슷하다.                           |
+| <img src="../fig/80px-LibreOffice_3.3.1_Draw_Icon.png" width="30%" />    | 드로우   | Draw     | 벡터 그래픽 에디터다. 도표 프로그램인 마이크로소프트 비지오와 비슷하다.                     |
+| <img src="../fig/80px-LibreOffice_3.3.1_Math_Icon.png" width="30%" />    | 매쓰     | Math     | 수학 공식을 만들고 수정하는 프로그램이다. 마이크로소프트 수식편집기와 유사하다.             |
 
 
 #### 3. 김프(Gimp) 이미지 편집
