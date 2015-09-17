@@ -6,15 +6,13 @@ date: 2015-07-01 23:51
 
 ### $100 달러 컴퓨터 출현 배경
 
-<img src="../fig/korea-development-stages.png" alt="사고체계와 대한민국" width="70%" />
-
 미래창조과학부는 시범적으로 초등학교, 중학교용 교재, 교사지도서 각 4종 개발하고 [SW 배움터](http://software.kr/t/education/school/swbook/swbook.do)에 '15년 3월 인터넷에 공개하고, 나아가 고등학교용 및 융합·심화교재, 교사지도서 3종 추가 보급 예정(’16년, ’17년)에 있고, 교육부도 초등학교, 중학교 교재, 교사지도서 각 1종개발·보급(’16년) 예정이다.
 
 컴퓨터실 및 관련 컴퓨터 하드웨어 인프라도 소프트웨어를 가르칠 정보 교사 부족으로 인한 시설노후화도 예측된다. 
 
 이러한 척박한 환경에서 정보격차가 사회경제적 불평등으로 되먹임되고 있는 것이 현실이고, 고가의 초기 컴퓨터 구입으로 인해서 애지중지하면서 다양한 실험을 컴퓨터로 할 수 없는 현실이 직간접적인 영향을 주고 있다. 
 
-> ## 참고자료 {.prereq}
+> ### 참고자료
 >
 > * [교육부·미래부,「SW중심사회를 위한 인재양성 추진계획」발표](http://m.blog.naver.com/moeblog/220426677439)
 > * [전자신문 - SW교육 인프라 재정비해야](http://www.etnews.com/20150819000107)
@@ -22,9 +20,10 @@ date: 2015-07-01 23:51
 > * [은행지점 대부분 5년 안에 사라지고](http://blog.koreadaily.com/view/myhome.html?fod_style=B&med_usrid=irvinezip4989&cid=878197&fod_no=36)
 > * ['위기의 서막'..30대 그룹 절반 사라질 것](http://media.daum.net/m/channel/view/media/20150803091559846)
 
-<img src="../fig/korea-development-stages.png" alt="사고체계와 대한민국" width="70%" />
 
 ### $100 달러 컴퓨터 혜택
+
+<img src="../fig/benefits-of-100-computers.png" alt="사고체계와 대한민국" width="50%" />
 
 1. 플러그-앤-플레이 기능과 소프트웨어가 사전 설치되어 교육 자체에 신속히 몰입할 수 있게 도와줍니다.
 1. 전세계에서 선택된 최고급 교육 콘텐츠를 무료로 제공하여 드립니다.
@@ -42,7 +41,6 @@ date: 2015-07-01 23:51
     - 과학기술 컴퓨팅(Scientific Computing)
     - IoT(사물 인터넷) 및 피지컬 컴퓨팅(Physical Computing) 교육
 
-<img src="../fig/benefits-of-100-computers.png" alt="사고체계와 대한민국" width="70%" />
 
 ### $100 달러 컴퓨터 구성
 
@@ -103,7 +101,6 @@ date: 2015-07-01 23:51
 | <img src="../fig/80px-LibreOffice_3.3.1_Base_Icon.png" width="30%" />    | 베이스   | Base     | 데이터베이스 관리 프로그램이다. 마이크로소프트 액세스와 비슷하다.                           |
 | <img src="../fig/80px-LibreOffice_3.3.1_Draw_Icon.png" width="30%" />    | 드로우   | Draw     | 벡터 그래픽 에디터다. 도표 프로그램인 마이크로소프트 비지오와 비슷하다.                     |
 | <img src="../fig/80px-LibreOffice_3.3.1_Math_Icon.png" width="30%" />    | 매쓰     | Math     | 수학 공식을 만들고 수정하는 프로그램이다. 마이크로소프트 수식편집기와 유사하다.             |
-
 
 #### 3. 김프(Gimp) 이미지 편집
 
