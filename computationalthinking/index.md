@@ -4,6 +4,15 @@ title: 컴퓨터적 사고 (Computational Thinking)
 date: 2015-07-01 23:51
 ---
 
+전설적 넷스케이프 웹브라우져를 만든 마크 앤드리슨은 월스트리트 저널 기사, [Why Software Is Eating The World](http://www.wsj.com/articles/SB10001424053111903480904576512250915629460)을 통해 소프트웨어가 세상을 집어 삼키고 있다고 표현했고, 개인적으로 본다면 
+SXSW 2010년에 이미 [Douglas Rushkoff](http://www.youtube.com/watch?v=imV3pPIUy1k)는 `프로그래밍 하느냐 프로그래밍 되느냐(Program or be Programmed)`를 선택해야 되는 시대가 되었다. 하지만, 컴퓨터적 사고를 갖춘 융합인력 수요의 지속적 증가에도 불구하고, 융합시대를 견인할 IT융합 인력 부족하다.
+
+- 10대 IT융합분야 IT융합인력 수요전망 : ('12년) 2,388 &mdash; ('14년) 2,676  &mdash; ('16년) 2,943 (한국직업능력개발원,'13년)
+- 방송통신 소프트웨어 활용도는 50%가 넘고, 제조업 전반에 소프트웨어 활용도가 증가하고 있으나 KAIST를 비롯한 컴퓨터 관련 학과 전공자는 줄어들고 있음
+
+![삼성경제연구소 산업별 소프트웨어 활용도(산출물 1억 생산에 SW 활용지수)](/img/seri-sw-research-2011.png)
+
+
 ### 컴퓨터적 사고 (Computational Thinking)
  
 카네기멜론 대학의 쟈넷 윙 교수는 **이론적 사고(Theoretical Thinking)**, **실험적 사고(Experimental Thinking)**와 더불어 **컴퓨터적 사고(Computational Thinking)**가 향후 인간의 사고 체제를 지배하는 중추적인 역할을 할 것이라고 합니다.컴퓨터적 사고와 통계적 사고는 기존의 물질적 불평등보다 더 심한 양극화를 디지털 경제의 정보 불평등(Digital Divide)을 통해서 가져올 것으로 예측이 됩니다.
