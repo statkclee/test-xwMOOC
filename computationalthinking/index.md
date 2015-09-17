@@ -1,21 +1,48 @@
 ---
 layout: page
 title: 컴퓨터적 사고 (Computational Thinking)
-date: 2015-07-01 23:51
+date: 2015-09-17 23:51
 ---
 
+### 소프트웨어가 바꾸는 세상
+
+아마존, 구글, 우버, 에어비앤비, 애플 등 많은 회사가 사람이 하던 일을 소프트웨어를 통해서 스마트하고, 안전하며, 빠르고, 적정한 가격을 통해서 사람들의 삶을 변화시키고 있습니다.
+
+> #### 성큼 다가선 미래
+>
+> "The future is here, it's just not evenly distributed yet."
+>                                                                     - William Gibson
+
+- 게임
+    - [드론 경주](https://www.youtube.com/watch?v=47LRsDMkDWc)
+    - [RC카 경주](https://www.youtube.com/watch?v=Kaqd1NIWm7Q)
+- 물류
+    - [아마존(Amazon Kiva)](http://www.youtube.com/watch?v=aI_YQp3zoo8&amp;list=PL16A39FD504A786B1&amp;index=8)
+    - [아마존 택배(Amazon Prime Air)](http://www.youtube.com/watch?v=98BIu9dpwHU)
+- 자동차
+    - [구글 무인자동차(Google Self-Driving Car)](http://www.youtube.com/watch?v=cdgQpa1pUUE)
+    - [우버(Uber) 택시](http://www.youtube.com/watch?v=P2M0RD7bhYY)
+- 호텔 
+    - [에어비앤비(AirBnB)](http://www.youtube.com/watch?v=SaOFuW011G8)
+- **[로봇과 일자리 경쟁](https://www.youtube.com/watch?v=7c_XO3Ouzts)**
+    - [Oxford Martin School study shows nearly half of US jobs could be at risk of computerisation](http://www.futuretech.ox.ac.uk/news-release-oxford-martin-school-study-shows-nearly-half-us-jobs-could-be-risk-computerisation)
+
+### 대한민국의 대응
+
 전설적 넷스케이프 웹브라우져를 만든 마크 앤드리슨은 월스트리트 저널 기사, [Why Software Is Eating The World](http://www.wsj.com/articles/SB10001424053111903480904576512250915629460)을 통해 소프트웨어가 세상을 집어 삼키고 있다고 표현했고, 개인적으로 본다면 
-SXSW 2010년에 이미 [Douglas Rushkoff](http://www.youtube.com/watch?v=imV3pPIUy1k)는 `프로그래밍 하느냐 프로그래밍 되느냐(Program or be Programmed)`를 선택해야 되는 시대가 되었다. 하지만, 컴퓨터적 사고를 갖춘 융합인력 수요의 지속적 증가에도 불구하고, 융합시대를 견인할 IT융합 인력 부족하다.
+SXSW 2010년에 이미 [Douglas Rushkoff](http://www.youtube.com/watch?v=imV3pPIUy1k)는 `프로그래밍 하느냐 프로그래밍 되느냐(Program or be Programmed)`를 선택해야 되는 시대가 되었다. 
 
-- 10대 IT융합분야 IT융합인력 수요전망 : ('12년) 2,388 &mdash; ('14년) 2,676  &mdash; ('16년) 2,943 (한국직업능력개발원,'13년)
-- 방송통신 소프트웨어 활용도는 50%가 넘고, 제조업 전반에 소프트웨어 활용도가 증가하고 있으나 KAIST를 비롯한 컴퓨터 관련 학과 전공자는 줄어들고 있음
+하지만, 대한민국 전체 산업에 소프트웨어 활용도를 조사한 삼성경제연구소 산업별 소프트웨어 활용도(산출물 1억 생산에 SW 활용지수)에 따르면 소프트웨어를 활용하여 부가가치를 창출하는데 부족함을 보여주고 있고, 이제 컴퓨팅 사고와 통계적 사고체계를 갖춘 인력이 길러지고 있다.
 
-![삼성경제연구소 산업별 소프트웨어 활용도(산출물 1억 생산에 SW 활용지수)](/img/seri-sw-research-2011.png)
+<img src="../fig/seri-sw-research-2011.png" alt="삼성경제연구소 산업별 소프트웨어 활용도(산출물 1억 생산에 SW 활용지수)" width="70%" />
 
 
-### 컴퓨터적 사고 (Computational Thinking)
+### 컴퓨팅 사고 (Computational Thinking, CT)
  
 카네기멜론 대학의 쟈넷 윙 교수는 **이론적 사고(Theoretical Thinking)**, **실험적 사고(Experimental Thinking)**와 더불어 **컴퓨터적 사고(Computational Thinking)**가 향후 인간의 사고 체제를 지배하는 중추적인 역할을 할 것이라고 합니다.컴퓨터적 사고와 통계적 사고는 기존의 물질적 불평등보다 더 심한 양극화를 디지털 경제의 정보 불평등(Digital Divide)을 통해서 가져올 것으로 예측이 됩니다.
+
+<img src="../fig/korea-development-stages.png" alt="사고체계와 대한민국" width="70%" />
+
 
 ### 컴퓨터 과학 언플러그드 3.1 **공유와 협업 버젼**
 컴퓨터 과학 언플러그드 버젼 3.1이 발표되었습니다. 인터넷에 대한 내용이 추가되었고, 버젼 3.0에서 Part I, Part II로 양분되었던 것이 하나로 합쳐졌으며, 교육과정이 뉴질랜드 중심에서 글로벌 교육체계에 맞춰 내용이 변경되었고, 로고도 새로이 변경되었습니다. xwMOOC에서 컴퓨터 과학 언플러그드 공유와 협업에 맞도록 새로이 개편했다. 누구나 [마크다운(Markdown)](http://daringfireball.net/projects/markdown/)으로 편하게 코드가 아닌 컴퓨터 과학 언플러그드에만 집중하도록 추진했다.
@@ -24,30 +51,18 @@ SXSW 2010년에 이미 [Douglas Rushkoff](http://www.youtube.com/watch?v=imV3pPI
 - [컴퓨터과학 언플러그드 한글 저작원본](https://github.com/statkclee/website-csunplugged)
 - [Computer Science Unplugged Version 3.1 PDF 파일](http://csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
 
-### 라즈베리 파이와 파이썬으로 열어가는 프로그래밍
+### 파이썬으로 컴퓨터와 대화하기
 
 [라즈베리 파이](https://www.raspberrypi.org/)에는 2011년 인디 게임으로 처음 시작된 이래로 많은 사람들의 사랑을 받고 있는 [마인크래프트](https://minecraft.net/) 게임이 내장되어 누구나 쉽게 게임을 즐길 수가 있으며, 또한 [파이썬](https://www.python.org/)도 함께 있어 바로 파이썬으로 마인크래프트 프로그래밍을 비롯한 다양한 프로그램을 시작할 수 있다. 그래픽 프로그램을 쉽고 강력하게 지워하는 [프로세싱(Processing)](https://processing.org/)을 파이썬으로 작성할 수도 있고, 직접 라즈베리파이로 인터넷도 구축해 보세요.
 
 [소프트웨어 카펜트리](http://software-carpentry.org/) 전문가들이 개발한 프로그램 기본 캡슐화를 파이썬 **거북이(turtle)**로 달려보세요.
 
-- [라즈베리 파이와 파이썬](raspberry-pi/index.html)
-    1.  [라즈베리 파이 배우기](raspberry-pi/raspberry-pi/index.html)
-    1.  [마인크래프트](raspberry-pi/minecraft/index.html)
-    1.  [네트워킹](raspberry-pi/networking/index.html)
-    1.  [그래픽 프로그래밍(Processing)](raspberry-pi/processing/index.html)
-    1.  [파이썬 입문-거북이(turtle)](raspberry-pi/turtles/index-kr.html)
+- [라즈베리 파이와 파이썬](http://raspberry-pi.xwmooc.org/)
+    1.  [파이썬 입문-거북이(turtle)](http://raspberry-pi.xwmooc.org/turtles/): *준비중*
+    1.  [3D 레고: 마인크래프트](http://raspberry-pi.xwmooc.org/minecraft/): *준비중*
+    1.  [그래픽 프로그래밍(Processing)](http://raspberry-pi.xwmooc.org/processing/): *준비중*
 
-### 소프트웨어가 바꾸는 세상
-
-아마존, 구글, 우버, 에어비앤비, 애플 등 많은 회사가 사람이 하던 일을 소프트웨어를 통해서 스마트하고, 안전하며, 빠르고, 적정한 가격을 통해서 사람들의 삶을 변화시키고 있습니다.
-
-- [아마존(Amazon Kiva)](http://www.youtube.com/watch?v=aI_YQp3zoo8&amp;list=PL16A39FD504A786B1&amp;index=8)
-- [구글 무인자동차(Google Self-Driving Car)](http://www.youtube.com/watch?v=cdgQpa1pUUE)
-- [아마존 택배(Amazon Prime Air)](http://www.youtube.com/watch?v=98BIu9dpwHU)
-- [우버(Uber) 택시](http://www.youtube.com/watch?v=P2M0RD7bhYY)
-- [에어비앤비(AirBnB)](http://www.youtube.com/watch?v=SaOFuW011G8)
-- [로봇과 일자리 경쟁](https://www.youtube.com/watch?v=7c_XO3Ouzts)
-    - [Oxford Martin School study shows nearly half of US jobs could be at risk of computerisation](http://www.futuretech.ox.ac.uk/news-release-oxford-martin-school-study-shows-nearly-half-us-jobs-could-be-risk-computerisation)
+### 소프트웨어 다큐멘터리
 
 #### EBS특별기획, 소프트웨어 3부작
 
