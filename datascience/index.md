@@ -14,7 +14,7 @@ date: 2015-07-01 23:51
 
 현재도 그렇지만, 향후 통계학은 컴퓨터 과학과 밀접한 관계를 갖고 지속적으로 발전해 나갈 것으로 예상된다. 사실 통계학 뿐만 아니라 다른 모든 학문 분야가 `Computation-X` 라는 이름으로 진화되고 있다. 예를 들면, 컴퓨터 생명공학(Computational Biology), 계산 통계학(Computational Statistics), 계산 물리학(Computational Physics), 컴퓨터 화학(Computational Chemistry) 등 수많은 사례를 들 수 있다. 2010년 쟈넷 윙 교수의 조사에 따르면 거의 모든 학문 분야가 컴퓨터와 연관이 되고 있으며 컴퓨터를 적극 활용하여 과학기술, 인문, 사회, 법과 제도 등에서 광범위한 융합이 나타나고 있다고 주장했다.
 
-<img src="../fig/computational-x.png" alt="Computational X" width="70%" />
+<img src="../fig/computational-x.png" alt="Computational X" width="50%" />
 출처: Jeannette Wing (2010), Computational Thinking: What and Why?, Carnegie Mellon University
 
 통계학도 기존 수학 및 이론 통계를 중심에 두고 컴퓨터를 접목하려는 시도도 있지만, 컴퓨터 과학  중심에서 통계학을 접근하는 움직임도 확연히 나타나고 있다. 동일한 통계학을 서로 다른 방식으로 살펴보고 학습할 수 있는 수많은 사례 중 하나를 소개한다. 구글 데이터 과학자, David Diez가 중심이 된 무료 통계 교육 [OpenIntro](https://www.openintro.org/) 접근방법과, 컴퓨터 과학에 뿌리를 두고 있는 올린공대 Allen B. Downey 교수의 [Think Stats](https://www.openintro.org/) 접근법이 좋은 사례가. 하지만, 두가지 접근 방법 모두 무료로 원본 저작파일을 비롯하여 다양한 형태의 온라인 교재(PDF 등)를 저작권 걱정없이 다운로드 받을 수 있고 실생활과 밀접한 데이터를 가지고 R, SAS, 파이썬 등 소프트웨어를 가지고 직접 실행도 해볼 수 있으며, 저자가 해석한 결과를 독자가 해석한 결과와 비교하여 감상할 수도 있고, 모두 공개된 통계교육 방법을 취하고 있다는 점에서는 지향점도 유사하고, 공통점도 많다.
@@ -27,11 +27,11 @@ date: 2015-07-01 23:51
 
 하지만 지금까지 현실은 통계학을 배우고 학습하는 경우 대부분 통계이론을 배우고 바로 엑셀, 미니탭/SAS/SPSS/R/파이썬/자바 같은 통계 팩키지나 프로그래밍 언어로 바로 실습에 들어간다. 그러다 보니 준비운동을 충분히 않고 수영, 축구, 농구, 볼링같은 본 운동에 바로 들어가는 것과 같은 부작용이 나타난다. 통계학도 쉽지 않은 개념인데 컴퓨터를 활용하여 실습을 하게 되니 학생들의 뇌는 너무나 많은 부하를 견뎌야 하는 상황에 직면하여 고생은 많이 하지만 실제 학습 성과는 좋지 못한 경우를 종종 볼 수 있다.
 
-<img src="../fig/conway-data-science.png" alt="콘웨이(Drew Conway) 데이터 과학 벤다이어그램" width="70%" />
+<img src="../fig/conway-data-science.png" alt="콘웨이(Drew Conway) 데이터 과학 벤다이어그램" width="37%" />
 
 가르치는 사람도 컴퓨터 소프트웨어를 제대로 배워본 적이 없고, 배우는 학생도 마찬가지니 정말 심각한 문제가 아닐 수 없다. 하지만, 이런 문제는 선진국에서 수십년 전부터 목도하고 준비하여 최근에는 다양한 콘텐츠와, 교수법, 교사가 양성되어 저변에 많은 준비가 되어 있다. 전산학 전공자를 제외한 일반 사용자 통계학이나 데이터과학에 기반한 누구나 컴퓨터과학 언플러그드, 정보교육을 위한 파이썬, 소프트웨어 카펜트리에서 제시하고 있는 무료 컴퓨터 교육 과정을 따라 학습해보는 것도 시작하기에 부담이 없다.
 
-<img src="../fig/Hadley-Wickham.png" alt="Hadley Wickham 개념 모형" width="70%" />
+<img src="../fig/Hadley-Wickham.png" alt="Hadley Wickham 개념 모형" width="37%" />
 출처: Hadley Wickham "dplyr" talk, at useR 2014
 
 최근 가장 영향력있는 통계 소프트웨어 분야 스타인 Hadley Wickham은 데이터 과학을 인지단계(Cognitive)와 계산단계(Computational)로 구분하고, 인지단계에서 문제를 파악하고, 문제를 기술하고, 접근법을 정리하고 나서 계산단계에서 소프트웨어 아키텍처와 알고리즘을 설계하고 실제 구현 코딩을 하는 과정을 제시하고 있다.
@@ -45,7 +45,7 @@ date: 2015-07-01 23:51
 
 초판은 한글로 번역되어 시중에서 구할 수 있으며, 개정판은 한글 번역이 [xwMOOC](http://www.xwmooc.net)에서 진행중에 있으며 [https://github.com/statkclee/ThinkStats2](https://github.com/statkclee/ThinkStats2) 웹사이트에서 번역에 참여할 수 있으며, 번역된 출판물을 무료로 다운로드 받을 수도 있다. `통계적으로 생각하기 (Think Stats)` 책 초판은 통계를 기반으로 이론을 설명하고 실제 데이터를 가지고 파이썬으로 통계 프로그램을 작성하는 방향으로 저작다면, 개정판에서는 실제 데이터를 부츠트래핑(Bootstrapping) 기법으로 분포, 기술통계량, 시각화 및 추론, 다양한 고급 통계기법 적용 및 해석을 보여주고 나서 마지막에 이론적인 부분을 별도 한장에서 간략히 다루는 방향으로 바꾸었다. 이유는 올린공대에서 전통적인 방식보다 전산중심 교수방법이 학생들에게 통계학 핵심개념, p-값, 가설검정 등을 쉽게 전달하고 이해를 높이기 때문이라고 한다. 저자가 통계를 생각하는 변화된 모습을 [초판](http://greenteapress.com/thinkstats/)과 [개정판](http://greenteapress.com/thinkstats2/index.html)에서 확인하는 것도 흥미로울 수 있다.
 
-<img src="../fig/thinkstats2cover.jpg" alt="통계적으로 생각하기 개정판 표지" width="70%" />
+<img src="../fig/thinkstats2cover.jpg" alt="통계적으로 생각하기 개정판 표지" width="37%" />
 
 
 ### 공개기초 통계학 (OpenIntro Statistics)
