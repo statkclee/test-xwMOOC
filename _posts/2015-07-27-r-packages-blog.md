@@ -7,8 +7,6 @@ title: R 팩키지 한국어판 번역 초안
 published: true
 ---
 
-### R 팩키지 한글화 번역 (초안)
-
 GitHub에 번역중인 R Package 전체 초벌 번역이 완료되어 공개드립니다. 8월부터 본격적으로 안정화작업을 추진합니다. 아직 부족하지만 많은 분들 읽어보시고 좋은 의견 보내주세요. 참여를 원하시는 분은 [GitHub 저장소](https://github.com/statkclee/r-pkgs) 풀요청 보내주세요.
 
 1. R 팩키지 수십개를 개발한 Hadley Wickham 박사님의 경험과 더불어 살과 피가 되는 조언이 녹아져 있습니다.
